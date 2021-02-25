@@ -1,0 +1,2450 @@
+,term,causal,coef,antonyms,antonym_source
+0,great,1,2.166,"{'little': -0.289, 'worst': -2.915}",antonym
+1,amazing,1,1.926,"{'unimpressive': -0.462, 'ugly': -0.681, 'ineffective': -1.062}",synonym_antonym
+2,excellent,1,1.64,"{'inferior': -0.644, 'worst': -2.915, 'low': -0.399}",antonym
+3,fantastic,1,1.638,"{'unimpressive': -0.462, 'inferior': -0.644}",antonym
+4,wonderful,1,1.495,"{'unimpressive': -0.462, 'inferior': -0.644}",antonym
+5,exciting,1,1.311,{'uninteresting': -0.361},antonym
+6,beautiful,1,1.276,"{'unattractive': -0.345, 'awkward': -0.252, 'ugly': -0.681}",antonym
+7,enjoyed,1,1.274,{'dislike': -0.877},antonym
+8,brilliant,1,1.268,{'inferior': -0.644},antonym
+9,best,1,1.267,"{'bad': -1.959, 'inferior': -0.644, 'worst': -2.915, 'side': -0.243, 'bottom': -0.419}",antonym
+10,unpredictable,0,1.253,{'predictable': -1.52},antonym
+11,superb,1,1.247,"{'inferior': -0.644, 'low': -0.399}",antonym
+12,awesome,1,1.202,{'unimpressive': -0.462},antonym
+13,inspired,1,1.193,"{'ugly': -0.681, 'unimpressive': -0.462}",antonym
+14,good,1,1.191,"{'bad': -1.959, 'worst': -2.915, 'worse': -1.188}",antonym
+15,wonderfully,1,1.134,"{'unimpressive': -0.462, 'inferior': -0.644}",synonym_antonym
+16,love,1,1.129,{'hate': -1.427},antonym
+17,pleasant,1,1.106,{'unpleasant': -0.333},antonym
+18,perfect,1,1.101,"{'old': -0.252, 'head': -0.287, 'dull': -1.881, 'dislike': -0.877, 'miss': -0.35}",synonym_antonym
+19,fascinating,1,1.035,"{'uninteresting': -0.361, 'unappealing': -0.211}",antonym
+20,loved,1,1.034,{'worthless': -0.359},antonym
+21,intelligent,1,0.988,"{'stupidity': -0.277, 'stupid': -1.579, 'unintelligent': -0.471}",antonym
+22,fabulous,1,0.985,"{'credible': -0.222, 'unpleasant': -0.333, 'unattractive': -0.345, 'humorless': -0.308, 'ugly': -0.681}",synonym_antonym
+23,outstanding,1,0.982,"{'inferior': -0.644, 'little': -0.289}",antonym
+24,hilarious,1,0.956,"{'humorless': -0.308, 'mild': -0.299}",antonym
+25,masterpiece,1,0.954,{'fail': -0.441},antonym
+26,perfectly,1,0.939,"{'living': -0.962, 'live': -0.548}",antonym
+27,enjoyable,1,0.935,{'unpleasant': -0.333},antonym
+28,lucky,1,0.898,{'unfortunate': -0.386},antonym
+29,professional,1,0.89,{'amateur': -0.277},synonym_antonym
+30,clever,1,0.884,"{'stupid': -1.579, 'slow': -0.744, 'mild': -0.299}",antonym
+31,fortunately,1,0.856,"{'unfortunately': -1.285, 'alas': -0.789}",antonym
+32,funny,1,0.855,{'humorless': -0.308},antonym
+33,solid,1,0.85,"{'lose': -0.328, 'hate': -1.427, 'miss': -0.35, 'low': -0.399, 'inferior': -0.644, 'bottom': -0.419, 'side': -0.243}",synonym_antonym
+34,genius,1,0.839,{'stupidity': -0.277},synonym_antonym
+35,liked,1,0.835,"{'disliked': -0.902, 'unlikeable': -0.74}",antonym
+36,smart,1,0.833,"{'stupid': -1.579, 'unintelligent': -0.471, 'failure': -0.707}",antonym
+37,hot,0,0.808,{'cold': -0.46},antonym
+38,special,0,0.807,{'general': -0.433},antonym
+39,ahead,0,0.79,{'low': -0.399},antonym
+40,captivating,1,0.779,"{'unattractive': -0.345, 'uninteresting': -0.361}",antonym
+41,complaint,0,0.759,"{'calm': -0.168, 'empty': -0.278, 'lose': -0.328}",synonym_antonym
+42,gives,0,0.755,"{'lose': -0.328, 'low': -0.399, 'take': -0.165, 'lack': -0.445, 'ignore': -0.158}",synonym_antonym
+43,likable,1,0.739,"{'disliked': -0.902, 'unappealing': -0.211}",antonym
+44,interesting,1,0.734,"{'uninteresting': -0.361, 'humorless': -0.308}",antonym
+45,charming,1,0.727,{'ugly': -0.681},antonym
+46,realistic,1,0.727,"{'unreal': -0.428, 'unrealistic': -0.503, 'impossible': -0.543}",antonym
+47,unforgettable,1,0.727,{'forgettable': -1.078},antonym
+48,delight,1,0.721,{'pain': -0.574},antonym
+49,know,0,0.717,{'ignore': -0.158},antonym
+50,delicious,0,0.706,"{'unpleasant': -0.333, 'unattractive': -0.345, 'humorless': -0.308, 'ugly': -0.681}",synonym_antonym
+51,convincing,1,0.692,{'unconvincing': -0.587},antonym
+52,incredible,0,0.686,{'credible': -0.222},antonym
+53,moment,0,0.685,{'start': -0.201},antonym
+54,easy,0,0.679,"{'hard': -0.5, 'demanding': -0.175, 'difficult': -0.32}",antonym
+55,entertaining,1,0.672,{'uninteresting': -0.361},antonym
+56,well,1,0.671,{'ill': -0.712},antonym
+57,marvelous,1,0.67,"{'credible': -0.222, 'unimpressive': -0.462, 'inferior': -0.644}",antonym
+58,accurate,0,0.668,{'wrong': -0.539},antonym
+59,magnificent,1,0.664,"{'unimpressive': -0.462, 'ugly': -0.681, 'inferior': -0.644, 'unintelligent': -0.471}",antonym
+60,works,0,0.663,"{'heavy': -0.991, 'worry': -0.183, 'head': -0.287, 'empty': -0.278}",synonym_antonym
+61,expecting,0,0.661,"{'add': -0.34, 'stay': -0.999, 'continue': -0.156, 'lose': -0.328, 'fail': -0.441}",synonym_antonym
+62,present,0,0.661,{'future': -0.315},antonym
+63,surprised,0,0.661,"{'inner': -0.793, 'blind': -0.296}",synonym_antonym
+64,unique,1,0.659,"{'worst': -2.915, 'unimpressive': -0.462}",synonym_antonym
+65,strong,1,0.651,"{'weakness': -0.161, 'weak': -0.894}",antonym
+66,impressive,1,0.65,"{'unimpressive': -0.462, 'inferior': -0.644, 'dull': -1.881}",antonym
+67,gem,1,0.639,{'ending': -0.324},synonym_antonym
+68,exceptional,1,0.632,{'little': -0.289},antonym
+69,stellar,1,0.616,"{'lack': -0.445, 'down': -0.43}",antonym
+70,drawn,0,0.615,"{'thick': -0.335, 'fat': -0.228, 'live': -0.548, 'young': -0.295}",synonym_antonym
+71,terrific,1,0.61,"{'mild': -0.299, 'inferior': -0.644}",antonym
+72,delightful,1,0.607,{'unpleasant': -0.333},antonym
+73,treat,0,0.607,"{'defeat': -0.193, 'ride': -0.272, 'fat': -0.228, 'much': -0.224, 'standard': -0.167, 'walk': -0.203, 'stay': -0.999, 'wet': -0.313, 'make': -0.159, 'take': -0.165, 'forward': -0.403, 'tune': -0.162}",synonym_antonym
+74,showed,0,0.602,{'ugly': -0.681},antonym
+75,events,0,0.6,"{'fall': -0.154, 'ending': -0.324}",antonym
+76,lovely,0,0.593,{'ugly': -0.681},antonym
+77,comedy,0,0.592,"{'tragedy': -0.197, 'lack': -0.445}",antonym
+78,shine,1,0.584,"{'worth': -0.327, 'dull': -1.881}",synonym_antonym
+79,TRUE,0,0.583,"{'false': -1.067, 'wrong': -0.539}",antonym
+80,90s,0,0.581,{'all': -0.429},synonym_antonym
+81,capable,0,0.577,{'incompetent': -0.316},antonym
+82,wait,0,0.573,{'continue': -0.156},antonym
+83,intense,0,0.572,"{'superficial': -0.767, 'mild': -0.299}",antonym
+84,funniest,1,0.57,{'humorless': -0.308},antonym
+85,reminds,0,0.564,{'give': -0.164},antonym
+86,props,0,0.558,{'inferior': -0.644},synonym_antonym
+87,warm,0,0.558,{'cold': -0.46},antonym
+88,still,0,0.557,{'heavy': -0.991},antonym
+89,riveting,1,0.547,"{'uninteresting': -0.361, 'unattractive': -0.345}",antonym
+90,pays,0,0.544,{'take': -0.165},antonym
+91,smile,0,0.543,{'slow': -0.744},antonym
+92,staying,0,0.542,{'miss': -0.35},antonym
+93,paced,0,0.539,{'slow': -0.744},antonym
+94,named,0,0.534,{'subsequent': -0.223},antonym
+95,experience,0,0.528,{'stay': -0.999},synonym_antonym
+96,kind,0,0.528,"{'dislike': -0.877, 'hard': -0.5, 'young': -0.295}",synonym_antonym
+97,perfection,1,0.527,"{'mature': -0.179, 'immature': -0.17, 'meaningless': -0.565, 'side': -0.243, 'low': -0.399, 'proud': -0.205, 'fall': -0.154, 'ending': -0.324}",synonym_antonym
+98,pleased,1,0.526,{'humble': -0.25},synonym_antonym
+99,developed,0,0.524,"{'immature': -0.17, 'young': -0.295}",antonym
+100,inspiring,1,0.523,{'uninspiring': -1.167},antonym
+101,appropriate,1,0.522,{'inappropriate': -0.311},antonym
+102,happy,1,0.522,{'depressing': -0.673},antonym
+103,words,0,0.52,{'continue': -0.156},synonym_antonym
+104,simple,0,0.516,{'difficult': -0.32},antonym
+105,greatest,1,0.513,"{'inferior': -0.644, 'worst': -2.915, 'low': -0.399}",antonym
+106,praise,0,0.513,"{'add': -0.34, 'attract': -0.292, 'please': -0.395, 'loud': -0.75, 'pass': -0.499, 'fail': -0.441, 'tune': -0.162, 'bottom': -0.419, 'stand': -0.321, 'dislike': -0.877, 'ride': -0.272, 'calm': -0.168, 'poor': -1.874, 'uneven': -0.404, 'fall': -0.154, 'start': -0.201}",synonym_antonym
+107,tons,0,0.51,"{'little': -0.289, 'less': -0.302}",synonym_antonym
+108,beauty,0,0.508,{'ugly': -0.681},antonym
+109,longer,0,0.505,{'loser': -0.469},synonym_antonym
+110,creative,1,0.503,{'unoriginal': -0.414},antonym
+111,laughing,0,0.502,{'depressing': -0.673},antonym
+112,deeply,0,0.501,{'shallow': -0.605},antonym
+113,human,0,0.489,{'woman': -0.286},antonym
+114,strongest,1,0.488,"{'weakness': -0.161, 'weak': -0.894}",antonym
+115,above,0,0.486,{'below': -0.783},antonym
+116,higher,0,0.486,"{'low': -0.399, 'side': -0.243}",antonym
+117,success,1,0.485,"{'failure': -0.707, 'defeat': -0.193}",antonym
+118,remarkable,1,0.484,"{'unimpressive': -0.462, 'inferior': -0.644}",synonym_antonym
+119,believe,0,0.48,{'fail': -0.441},antonym
+120,frame,0,0.476,{'bottom': -0.419},synonym_antonym
+121,focused,0,0.472,{'unfocused': -0.206},antonym
+122,interest,1,0.472,{'stay': -0.999},antonym
+123,called,0,0.471,{'credible': -0.222},synonym_antonym
+124,engaging,1,0.462,{'unattractive': -0.345},antonym
+125,lets,0,0.461,"{'failing': -0.196, 'stay': -0.999}",antonym
+126,spectacular,1,0.461,"{'unimpressive': -0.462, 'inferior': -0.644}",antonym
+127,both,0,0.459,"{'no': -0.644, 'all': -0.429}",antonym
+128,exceedingly,0,0.459,"{'inferior': -0.644, 'little': -0.289}",antonym
+129,fine,1,0.459,{'uneven': -0.404},antonym
+130,truly,1,0.455,"{'unreal': -0.428, 'unrealistic': -0.503}",synonym_antonym
+131,gritty,1,0.454,{'poor': -1.874},synonym_antonym
+132,surprising,1,0.452,"{'unimpressive': -0.462, 'ugly': -0.681}",antonym
+133,meaningful,1,0.45,"{'meaningless': -0.565, 'empty': -0.278}",antonym
+134,gift,0,0.449,"{'embarrassment': -0.438, 'worst': -2.915, 'low': -0.399, 'future': -0.315}",synonym_antonym
+135,correct,0,0.447,"{'stay': -0.999, 'wrong': -0.539}",synonym_antonym
+136,helped,0,0.446,{'miss': -0.35},antonym
+137,sense,0,0.445,{'significant': -0.198},antonym
+138,pure,0,0.442,{'thick': -0.335},antonym
+139,delivered,0,0.44,{'lose': -0.328},antonym
+140,top,0,0.44,"{'inferior': -0.644, 'bottom': -0.419, 'miss': -0.35, 'loser': -0.469, 'little': -0.289, 'side': -0.243, 'low': -0.399, 'worst': -2.915}",synonym_antonym
+141,energy,0,0.438,{'unimpressive': -0.462},synonym_antonym
+142,excitement,1,0.438,{'empty': -0.278},antonym
+143,spot,0,0.438,"{'left': -0.435, 'lost': -0.323, 'fall': -0.154, 'continue': -0.156, 'lose': -0.328, 'start': -0.201, 'loose': -0.374, 'inferior': -0.644, 'low': -0.399}",synonym_antonym
+144,takes,0,0.438,"{'ride': -0.272, 'fall': -0.154, 'avoid': -0.855}",synonym_antonym
+145,refreshing,1,0.436,"{'old': -0.252, 'stale': -0.503, 'dull': -1.881}",synonym_antonym
+146,disturbing,0,0.434,"{'shallow': -0.605, 'loose': -0.374}",synonym_antonym
+147,knew,0,0.433,{'ignore': -0.158},antonym
+148,superior,1,0.431,"{'inferior': -0.644, 'worst': -2.915, 'ugly': -0.681}",antonym
+149,helps,0,0.429,{'miss': -0.35},antonym
+150,end,0,0.428,{'continue': -0.156},antonym
+151,mischievous,0,0.428,{'inferior': -0.644},antonym
+152,guy,0,0.426,{'woman': -0.286},antonym
+153,enjoying,1,0.425,{'dislike': -0.877},antonym
+154,succeeded,1,0.424,{'fail': -0.441},antonym
+155,murder,0,0.422,{'wife': -0.417},antonym
+156,possibly,0,0.422,{'predictability': -0.313},synonym_antonym
+157,holds,0,0.421,{'stand': -0.321},antonym
+158,nice,1,0.42,"{'unpleasant': -0.333, 'worst': -2.915}",antonym
+159,huge,0,0.419,"{'little': -0.289, 'humble': -0.25}",antonym
+160,hits,0,0.418,{'inferior': -0.644},antonym
+161,disappoint,0,0.416,"{'wasteful': -0.151, 'stay': -0.999}",antonym
+162,scored,0,0.413,{'fail': -0.441},antonym
+163,section,0,0.411,{'birth': -0.177},antonym
+164,wondering,0,0.411,"{'state': -0.151, 'humorless': -0.308}",synonym_antonym
+165,recommended,0,0.409,"{'ride': -0.272, 'loser': -0.469, 'fall': -0.154}",synonym_antonym
+166,blew,0,0.408,"{'weak': -0.894, 'give': -0.164, 'dislike': -0.877, 'woman': -0.286, 'miss': -0.35, 'ending': -0.324, 'continue': -0.156, 'walk': -0.203, 'start': -0.201, 'hate': -1.427, 'bottom': -0.419, 'lose': -0.328, 'misfortune': -0.334}",synonym_antonym
+167,pleasure,1,0.408,"{'pain': -0.574, 'pride': -0.162, 'unpleasant': -0.333}",antonym
+168,check,0,0.407,"{'empty': -0.278, 'bottom': -0.419, 'worst': -2.915, 'side': -0.243, 'worry': -0.183, 'lose': -0.328}",synonym_antonym
+169,die,0,0.407,{'continue': -0.156},antonym
+170,religious,0,0.407,{'low': -0.399},antonym
+171,basic,0,0.405,{'unoriginal': -0.414},antonym
+172,acted,0,0.402,"{'ride': -0.272, 'avoid': -0.855}",antonym
+173,clear,1,0.402,"{'same': -0.222, 'narrow': -0.286, 'superficial': -0.767, 'unrealistic': -0.503, 'unintelligent': -0.471, 'inferior': -0.644, 'dull': -1.881, 'lose': -0.328, 'useless': -0.389}",synonym_antonym
+174,lives,0,0.401,{'stupidity': -0.277},antonym
+175,grand,1,0.398,"{'unimpressive': -0.462, 'low': -0.399}",antonym
+176,enjoy,1,0.396,{'dislike': -0.877},antonym
+177,successful,1,0.395,"{'failure': -0.707, 'unfortunate': -0.386}",antonym
+178,effective,1,0.393,"{'useless': -0.389, 'ineffective': -1.062}",antonym
+179,highly,0,0.393,{'birth': -0.177},synonym_antonym
+180,sensitive,0,0.392,"{'tame': -0.419, 'cold': -0.46, 'stupidity': -0.277, 'weakness': -0.161}",synonym_antonym
+181,comfort,1,0.391,{'pain': -0.574},antonym
+182,glad,1,0.39,{'depressing': -0.673},antonym
+183,honest,0,0.387,{'false': -1.067},antonym
+184,engrossed,0,0.383,{'free': -0.331},antonym
+185,matter,0,0.383,"{'most': -0.418, 'dislike': -0.877, 'functional': -0.159}",synonym_antonym
+186,addition,0,0.382,{'give': -0.164},synonym_antonym
+187,detract,0,0.382,"{'significant': -0.198, 'wet': -0.313}",synonym_antonym
+188,violence,0,0.382,{'loud': -0.75},antonym
+189,moon,0,0.381,{'dull': -1.881},antonym
+190,ultra,0,0.381,{'old': -0.252},antonym
+191,memorable,1,0.379,{'forgettable': -1.078},antonym
+192,extra,0,0.376,"{'act': -0.276, 'take': -0.165, 'fat': -0.228, 'little': -0.289, 'attractive': -0.363}",synonym_antonym
+193,other,0,0.376,{'same': -0.222},antonym
+194,idea,0,0.375,"{'father': -0.167, 'heavy': -0.991, 'stay': -0.999, 'inferior': -0.644, 'con': -0.232, 'standard': -0.167, 'particular': -0.255, 'fear': -0.321, 'dislike': -0.877, 'pain': -0.574, 'pride': -0.162, 'miss': -0.35, 'general': -0.433, 'plain': -0.302}",synonym_antonym
+195,road,0,0.375,{'attract': -0.292},antonym
+196,winner,1,0.375,{'loser': -0.469},antonym
+197,packed,0,0.374,{'loose': -0.374},synonym_antonym
+198,camp,0,0.373,"{'misfortune': -0.334, 'take': -0.165}",antonym
+199,encouraging,1,0.373,"{'useless': -0.389, 'uncomfortable': -0.795}",synonym_antonym
+200,sitting,0,0.373,"{'ride': -0.272, 'fall': -0.154, 'dislike': -0.877}",synonym_antonym
+201,award,0,0.372,{'low': -0.399},antonym
+202,despite,0,0.369,"{'stay': -0.999, 'fat': -0.228, 'much': -0.224}",synonym_antonym
+203,drugs,0,0.369,"{'inferior': -0.644, 'bottom': -0.419, 'side': -0.243, 'defense': -0.334, 'stay': -0.999, 'loser': -0.469, 'general': -0.433}",synonym_antonym
+204,rich,0,0.369,{'poor': -1.874},antonym
+205,drain,0,0.367,{'hard': -0.5},synonym_antonym
+206,eaten,0,0.367,"{'dull': -1.881, 'ride': -0.272}",synonym_antonym
+207,enjoyment,1,0.366,{'pain': -0.574},antonym
+208,inspiration,1,0.366,{'father': -0.167},antonym
+209,likeable,1,0.366,"{'disliked': -0.902, 'unappealing': -0.211}",antonym
+210,current,0,0.363,{'old': -0.252},antonym
+211,early,0,0.361,"{'future': -0.315, 'unoriginal': -0.414, 'worthless': -0.359, 'fail': -0.441, 'mature': -0.179}",synonym_antonym
+212,worried,0,0.361,{'calm': -0.168},antonym
+213,items,0,0.359,"{'miss': -0.35, 'left': -0.435}",synonym_antonym
+214,strength,0,0.357,"{'weakness': -0.161, 'weak': -0.894}",antonym
+215,want,0,0.356,"{'attract': -0.292, 'worth': -0.327, 'plain': -0.302, 'stupidity': -0.277, 'feed': -0.236, 'dislike': -0.877, 'please': -0.395, 'attention': -0.212, 'fall': -0.154, 'make': -0.159}",synonym_antonym
+216,mention,0,0.355,"{'bore': -0.785, 'start': -0.201, 'let': -0.408, 'fall': -0.154, 'curse': -0.19, 'add': -0.34, 'ignore': -0.158, 'stay': -0.999}",synonym_antonym
+217,see,0,0.355,"{'stay': -0.999, 'miss': -0.35, 'worry': -0.183, 'lose': -0.328}",synonym_antonym
+218,saying,0,0.353,{'worth': -0.327},antonym
+219,credits,0,0.352,"{'unreal': -0.428, 'lack': -0.445, 'optimistic': -0.321, 'color': -0.857, 'dull': -1.881, 'unattractive': -0.345}",synonym_antonym
+220,day,0,0.351,"{'night': -0.394, 'stay': -0.999, 'take': -0.165}",synonym_antonym
+221,lay,0,0.351,"{'stand': -0.321, 'hire': -0.155, 'lie': -0.273, 'give': -0.164, 'ride': -0.272, 'left': -0.435, 'union': -0.225, 'standard': -0.167, 'sit': -0.259, 'free': -0.331, 'defense': -0.334, 'unintelligent': -0.471, 'bore': -0.785, 'fall': -0.154, 'defeat': -0.193, 'slow': -0.744, 'continue': -0.156, 'existence': -0.212, 'empty': -0.278, 'heavy': -0.991}",synonym_antonym
+222,stunning,1,0.35,"{'unimpressive': -0.462, 'ineffective': -1.062, 'unattractive': -0.345}",antonym
+223,artistic,1,0.349,{'functional': -0.159},synonym_antonym
+224,notch,0,0.349,{'fail': -0.441},antonym
+225,possibility,0,0.349,{'impossible': -0.543},synonym_antonym
+226,brilliantly,1,0.348,{'dull': -1.881},antonym
+227,fiction,0,0.348,"{'unoriginal': -0.414, 'old': -0.252}",antonym
+228,finest,1,0.347,{'uneven': -0.404},antonym
+229,deeper,0,0.346,{'shallow': -0.605},antonym
+230,switch,0,0.346,{'stay': -0.999},synonym_antonym
+231,thrill,0,0.346,"{'fall': -0.154, 'courage': -0.266}",antonym
+232,fresh,0,0.345,"{'old': -0.252, 'stale': -0.503}",antonym
+233,performances,0,0.345,{'fail': -0.441},antonym
+234,sing,0,0.344,{'left': -0.435},antonym
+235,thoughtful,0,0.344,{'superficial': -0.767},antonym
+236,sticks,0,0.343,"{'lose': -0.328, 'stay': -0.999}",antonym
+237,yes,0,0.343,{'no': -0.644},antonym
+238,tremendous,1,0.342,"{'little': -0.289, 'unimpressive': -0.462}",antonym
+239,players,0,0.341,{'empty': -0.278},antonym
+240,reviewers,0,0.34,{'amateur': -0.277},synonym_antonym
+241,sweet,0,0.34,{'left': -0.435},antonym
+242,females,0,0.339,{'loser': -0.469},antonym
+243,countries,0,0.338,"{'mature': -0.179, 'immature': -0.17, 'union': -0.225}",synonym_antonym
+244,mood,0,0.338,"{'please': -0.395, 'calm': -0.168, 'fear': -0.321, 'dislike': -0.877, 'pain': -0.574, 'pride': -0.162}",synonym_antonym
+245,one,0,0.338,"{'inferior': -0.644, 'fail': -0.441}",antonym
+246,yelling,0,0.337,"{'humorless': -0.308, 'mild': -0.299, 'worth': -0.327}",synonym_antonym
+247,episode,0,0.335,"{'failure': -0.707, 'ending': -0.324, 'appearance': -0.346, 'fail': -0.441}",synonym_antonym
+248,gripping,1,0.335,"{'uninteresting': -0.361, 'unattractive': -0.345}",antonym
+249,applaud,0,0.333,"{'dislike': -0.877, 'miss': -0.35, 'experienced': -0.277, 'depressing': -0.673, 'forward': -0.403}",synonym_antonym
+250,happily,1,0.333,{'sadly': -0.926},antonym
+251,really,0,0.333,"{'unreal': -0.428, 'unrealistic': -0.503}",antonym
+252,voice,0,0.333,"{'wet': -0.313, 'worst': -2.915}",antonym
+253,objective,0,0.332,"{'continue': -0.156, 'inner': -0.793, 'left': -0.435}",synonym_antonym
+254,another,0,0.331,{'same': -0.222},antonym
+255,plays,0,0.331,{'start': -0.201},antonym
+256,also,0,0.33,{'loser': -0.469},antonym
+257,steals,0,0.33,"{'ride': -0.272, 'stay': -0.999, 'rough': -0.359, 'continue': -0.156, 'give': -0.164, 'fat': -0.228, 'fall': -0.154, 'material': -0.23}",synonym_antonym
+258,surreal,0,0.329,{'practical': -0.166},antonym
+259,class,0,0.327,"{'defense': -0.334, 'false': -1.067, 'studio': -0.411}",synonym_antonym
+260,lovable,1,0.327,"{'ugly': -0.681, 'evil': -0.415, 'left': -0.435, 'bad': -1.959, 'worst': -2.915}",synonym_antonym
+261,holes,0,0.326,"{'cover': -0.431, 'give': -0.164, 'inferior': -0.644}",synonym_antonym
+262,mysterious,0,0.325,{'shallow': -0.605},antonym
+263,trip,0,0.325,"{'fall': -0.154, 'ride': -0.272, 'hard': -0.5}",synonym_antonym
+264,mind,0,0.324,"{'ability': -0.814, 'stupidity': -0.277}",synonym_antonym
+265,turns,0,0.324,"{'misfortune': -0.334, 'empty': -0.278, 'ride': -0.272, 'stay': -0.999, 'inferior': -0.644, 'rough': -0.359, 'fall': -0.154, 'wet': -0.313, 'hire': -0.155, 'let': -0.408}",synonym_antonym
+266,complex,0,0.323,{'rough': -0.359},synonym_antonym
+267,exhilarating,1,0.323,{'uninteresting': -0.361},antonym
+268,grows,0,0.323,"{'stay': -0.999, 'fall': -0.154}",antonym
+269,happiness,1,0.323,"{'strange': -0.367, 'dull': -1.881, 'bright': -1.022, 'stupidity': -0.277, 'depressing': -0.673}",synonym_antonym
+270,stands,0,0.323,"{'lie': -0.273, 'sit': -0.259}",antonym
+271,often,0,0.322,"{'rarely': -0.367, 'little': -0.289, 'less': -0.302}",antonym
+272,crashing,0,0.321,{'cold': -0.46},antonym
+273,wish,0,0.32,"{'feed': -0.236, 'dislike': -0.877}",synonym_antonym
+274,featured,0,0.319,"{'dull': -1.881, 'little': -0.289}",synonym_antonym
+275,movies,0,0.319,"{'dislike': -0.877, 'color': -0.857, 'dull': -1.881, 'unattractive': -0.345, 'continue': -0.156, 'stay': -0.999, 'loud': -0.75, 'unrealistic': -0.503, 'false': -1.067, 'optimistic': -0.321, 'unreal': -0.428, 'ugly': -0.681, 'lack': -0.445}",synonym_antonym
+276,edge,0,0.318,{'free': -0.331},antonym
+277,talented,1,0.318,{'untalented': -0.159},antonym
+278,totally,0,0.318,{'no': -0.644},antonym
+279,adore,1,0.316,"{'hate': -1.427, 'dislike': -0.877, 'miss': -0.35}",antonym
+280,appears,0,0.315,{'continue': -0.156},antonym
+281,crucial,0,0.314,"{'worthless': -0.359, 'same': -0.222}",synonym_antonym
+282,club,0,0.313,{'add': -0.34},synonym_antonym
+283,ashamed,0,0.312,{'proud': -0.205},synonym_antonym
+284,spending,0,0.312,{'take': -0.165},synonym_antonym
+285,realism,0,0.31,{'practical': -0.166},synonym_antonym
+286,vs,0,0.309,{'ground': -0.172},antonym
+287,cops,0,0.308,"{'material': -0.23, 'woman': -0.286, 'bear': -0.19}",synonym_antonym
+288,cracking,0,0.308,"{'mild': -0.299, 'loser': -0.469, 'little': -0.289}",antonym
+289,drunk,0,0.308,"{'poor': -1.874, 'empty': -0.278}",antonym
+290,brilliance,1,0.307,{'stupidity': -0.277},synonym_antonym
+291,crazy,0,0.307,{'tame': -0.419},antonym
+292,cried,0,0.307,"{'worth': -0.327, 'humorless': -0.308, 'mild': -0.299, 'slow': -0.744, 'hold': -0.359, 'low': -0.399, 'wit': -0.187, 'proud': -0.205}",synonym_antonym
+293,twist,0,0.306,{'fall': -0.154},antonym
+294,extreme,0,0.305,"{'mild': -0.299, 'fall': -0.154}",antonym
+295,notes,0,0.305,"{'mature': -0.179, 'immature': -0.17, 'hold': -0.359, 'add': -0.34, 'accept': -0.365, 'defeat': -0.193}",synonym_antonym
+296,overwhelming,0,0.304,{'superficial': -0.767},antonym
+297,addicted,0,0.303,"{'free': -0.331, 'independent': -0.15}",antonym
+298,comment,0,0.303,{'defeat': -0.193},antonym
+299,favorite,1,0.303,{'inferior': -0.644},antonym
+300,gore,0,0.303,{'bore': -0.785},synonym_antonym
+301,luckily,0,0.303,"{'unfortunately': -1.285, 'alas': -0.789}",antonym
+302,worked,0,0.303,"{'innocence': -0.96, 'embarrassment': -0.438, 'studio': -0.411, 'worst': -2.915, 'dull': -1.881, 'inferior': -0.644, 'stupidity': -0.277, 'give': -0.164, 'hire': -0.155, 'fail': -0.441, 'particular': -0.255}",synonym_antonym
+303,lively,0,0.302,"{'dull': -1.881, 'tired': -0.273}",antonym
+304,succeeds,0,0.302,{'fail': -0.441},antonym
+305,cheers,0,0.299,"{'depressing': -0.673, 'miss': -0.35}",synonym_antonym
+306,unnecessary,0,0.299,"{'act': -0.276, 'take': -0.165, 'fat': -0.228, 'little': -0.289, 'attractive': -0.363}",synonym_antonym
+307,pick,0,0.298,{'give': -0.164},antonym
+308,directions,0,0.297,"{'ride': -0.272, 'empty': -0.278, 'attract': -0.292}",synonym_antonym
+309,idiot,1,0.297,"{'rough': -0.359, 'difficult': -0.32}",antonym
+310,responsibility,0,0.297,"{'hard': -0.5, 'stay': -0.999, 'lack': -0.445}",synonym_antonym
+311,gut,0,0.296,{'thick': -0.335},synonym_antonym
+312,sophisticated,0,0.296,{'naive': -0.184},antonym
+313,todays,0,0.295,{'take': -0.165},antonym
+314,apply,0,0.294,"{'defeat': -0.193, 'functional': -0.159, 'stand': -0.321, 'stay': -0.999, 'lack': -0.445, 'lose': -0.328, 'take': -0.165, 'start': -0.201, 'dislike': -0.877, 'gain': -0.286, 'walk': -0.203}",synonym_antonym
+315,content,0,0.294,{'defense': -0.334},synonym_antonym
+316,15,0,0.293,{'all': -0.429},synonym_antonym
+317,portrayal,0,0.293,{'functional': -0.159},antonym
+318,adds,0,0.292,"{'fail': -0.441, 'stay': -0.999, 'empty': -0.278, 'slow': -0.744, 'tune': -0.162, 'lack': -0.445, 'narrow': -0.286, 'stretch': -0.156, 'attract': -0.292}",synonym_antonym
+319,raised,0,0.292,"{'falling': -0.177, 'asleep': -0.343}",antonym
+320,rare,0,0.292,{'fat': -0.228},antonym
+321,actual,0,0.291,{'potential': -0.333},antonym
+322,audience,0,0.289,"{'foreign': -0.318, 'hard': -0.5, 'old': -0.252, 'lie': -0.273, 'stay': -0.999}",synonym_antonym
+323,careful,1,0.288,{'careless': -0.166},antonym
+324,ex,0,0.288,{'woman': -0.286},antonym
+325,lot,0,0.288,"{'stay': -0.999, 'take': -0.165, 'misfortune': -0.334, 'empty': -0.278, 'defense': -0.334, 'head': -0.287}",synonym_antonym
+326,create,0,0.287,"{'start': -0.201, 'slow': -0.744, 'standard': -0.167, 'fall': -0.154, 'lack': -0.445, 'wet': -0.313, 'lose': -0.328, 'mild': -0.299, 'curse': -0.19, 'stay': -0.999, 'ignore': -0.158, 'union': -0.225, 'head': -0.287, 'lost': -0.323, 'mother': -0.154, 'pass': -0.499, 'bore': -0.785, 'hire': -0.155, 'calm': -0.168, 'optimistic': -0.321, 'set': -0.323, 'rough': -0.359, 'father': -0.167, 'walk': -0.203, 'attract': -0.292, 'empty': -0.278, 'take': -0.165, 'fail': -0.441}",synonym_antonym
+327,opened,0,0.287,{'narrow': -0.286},antonym
+328,served,0,0.287,{'disarrange': 0.0},oov_antonym
+329,friendly,0,0.286,"{'cold': -0.46, 'dislike': -0.877, 'uncomfortable': -0.795, 'loose': -0.374, 'poor': -1.874}",synonym_antonym
+330,show,0,0.286,{'ugly': -0.681},antonym
+331,kinds,0,0.285,"{'dislike': -0.877, 'hard': -0.5, 'young': -0.295}",synonym_antonym
+332,trust,0,0.285,"{'worry': -0.183, 'add': -0.34, 'forward': -0.403, 'dislike': -0.877, 'lose': -0.328, 'fat': -0.228, 'fail': -0.441}",synonym_antonym
+333,absorbing,1,0.284,"{'uninteresting': -0.361, 'unattractive': -0.345}",antonym
+334,admittedly,0,0.284,{'false': -1.067},antonym
+335,clothes,0,0.284,{'lack': -0.445},antonym
+336,eat,0,0.284,"{'lose': -0.328, 'give': -0.164, 'start': -0.201, 'side': -0.243, 'low': -0.399, 'stay': -0.999, 'studio': -0.411, 'hold': -0.359, 'woman': -0.286, 'bear': -0.19, 'take': -0.165, 'empty': -0.278}",synonym_antonym
+337,feature,0,0.284,"{'internal': -0.169, 'inner': -0.793, 'lack': -0.445, 'stay': -0.999, 'ability': -0.814}",synonym_antonym
+338,women,0,0.284,{'husband': -0.238},antonym
+339,doubt,0,0.283,{'predictability': -0.313},antonym
+340,aware,0,0.282,{'asleep': -0.343},antonym
+341,echo,0,0.281,"{'proud': -0.205, 'worth': -0.327, 'stay': -0.999, 'woman': -0.286, 'wise': -0.886, 'humorless': -0.308}",synonym_antonym
+342,attack,0,0.28,"{'miss': -0.35, 'fail': -0.441}",antonym
+343,sets,0,0.279,"{'stand': -0.321, 'hire': -0.155, 'lie': -0.273, 'give': -0.164, 'ride': -0.272, 'left': -0.435, 'union': -0.225, 'standard': -0.167, 'sit': -0.259, 'free': -0.331, 'defense': -0.334, 'unintelligent': -0.471, 'bore': -0.785, 'fall': -0.154, 'defeat': -0.193, 'slow': -0.744, 'continue': -0.156, 'existence': -0.212, 'empty': -0.278, 'heavy': -0.991}",synonym_antonym
+344,theme,0,0.279,{'con': -0.232},antonym
+345,advice,0,0.278,"{'ineffective': -1.062, 'empty': -0.278, 'plain': -0.302}",synonym_antonym
+346,seat,0,0.277,"{'stand': -0.321, 'lie': -0.273, 'existence': -0.212}",synonym_antonym
+347,funnier,0,0.276,{'humorless': -0.308},antonym
+348,require,0,0.276,"{'stay': -0.999, 'lack': -0.445, 'empty': -0.278}",synonym_antonym
+349,surviving,0,0.276,"{'dull': -1.881, 'nonexistent': -0.598, 'absent': -0.845}",synonym_antonym
+350,hit,0,0.275,{'inferior': -0.644},antonym
+351,nudity,0,0.274,"{'hard': -0.5, 'old': -0.252, 'innocence': -0.96, 'cover': -0.431, 'no': -0.644}",synonym_antonym
+352,areas,0,0.272,"{'foreign': -0.318, 'innocence': -0.96, 'existence': -0.212, 'birth': -0.177, 'stay': -0.999, 'bore': -0.785, 'hire': -0.155, 'left': -0.435, 'empty': -0.278, 'little': -0.289}",synonym_antonym
+353,moving,1,0.272,"{'rough': -0.359, 'dislike': -0.877}",synonym_antonym
+354,prior,0,0.271,{'subsequent': -0.223},antonym
+355,step,0,0.271,{'standard': -0.167},antonym
+356,shown,0,0.27,{'ugly': -0.681},antonym
+357,criticism,0,0.269,"{'offensive': -1.191, 'curse': -0.19, 'miss': -0.35, 'fail': -0.441, 'pass': -0.499, 'lose': -0.328}",synonym_antonym
+358,pulled,0,0.269,"{'give': -0.164, 'walk': -0.203, 'fail': -0.441, 'ride': -0.272, 'bore': -0.785, 'fall': -0.154, 'lose': -0.328, 'gain': -0.286}",synonym_antonym
+359,rex,0,0.269,{'queen': -0.209},antonym
+360,tells,0,0.269,{'hold': -0.359},antonym
+361,awards,0,0.267,{'low': -0.399},antonym
+362,schools,0,0.267,"{'low': -0.399, 'take': -0.165, 'woman': -0.286, 'side': -0.243, 'bottom': -0.419, 'down': -0.43}",synonym_antonym
+363,welcome,0,0.267,"{'give': -0.164, 'lack': -0.445}",antonym
+364,ass,0,0.266,"{'stand': -0.321, 'lie': -0.273, 'head': -0.287, 'side': -0.243, 'miss': -0.35}",synonym_antonym
+365,energetic,0,0.266,{'dull': -1.881},antonym
+366,impressed,1,0.266,{'unaffected': -0.197},antonym
+367,plot,0,0.266,"{'fall': -0.154, 'empty': -0.278}",synonym_antonym
+368,sure,0,0.265,{'uncertainty': 0.0},oov_antonym
+369,connected,0,0.264,{'off': -0.322},synonym_antonym
+370,unexpected,0,0.263,"{'due': -0.244, 'unimpressive': -0.462, 'ugly': -0.681}",synonym_antonym
+371,circumstances,0,0.261,{'misfortune': -0.334},antonym
+372,audio,0,0.26,{'shallow': -0.605},synonym_antonym
+373,car,0,0.26,{'stay': -0.999},antonym
+374,consider,0,0.26,"{'add': -0.34, 'inferior': -0.644, 'stand': -0.321, 'fail': -0.441, 'ground': -0.172, 'lose': -0.328, 'same': -0.222, 'dislike': -0.877, 'material': -0.23, 'lack': -0.445}",synonym_antonym
+375,perhaps,0,0.26,{'predictability': -0.313},synonym_antonym
+376,snap,0,0.26,"{'absent': -0.845, 'proud': -0.205, 'future': -0.315, 'take': -0.165}",synonym_antonym
+377,tears,0,0.26,{'wit': -0.187},synonym_antonym
+378,principal,0,0.259,{'lack': -0.445},antonym
+379,burning,0,0.258,"{'cold': -0.46, 'bore': -0.785, 'hire': -0.155}",antonym
+380,engrossing,1,0.258,"{'uninteresting': -0.361, 'unattractive': -0.345}",antonym
+381,get,0,0.258,{'lose': -0.328},antonym
+382,before,0,0.257,{'down': -0.43},antonym
+383,better,0,0.257,{'worse': -1.188},antonym
+384,harmless,0,0.257,{'painful': -0.48},antonym
+385,ones,0,0.257,"{'inferior': -0.644, 'fail': -0.441}",antonym
+386,sport,0,0.257,{'lack': -0.445},synonym_antonym
+387,adorable,1,0.255,{'ugly': -0.681},antonym
+388,compares,0,0.255,"{'bottom': -0.419, 'worst': -2.915, 'side': -0.243}",synonym_antonym
+389,everyday,0,0.254,"{'strange': -0.367, 'functional': -0.159}",synonym_antonym
+390,more,0,0.254,{'less': -0.302},antonym
+391,strip,0,0.254,"{'start': -0.201, 'miss': -0.35}",synonym_antonym
+392,house,0,0.253,{'foreign': -0.318},antonym
+393,uplifting,1,0.253,{'fall': -0.154},antonym
+394,colorful,0,0.252,"{'inferior': -0.644, 'dull': -1.881, 'unintelligent': -0.471, 'unrealistic': -0.503, 'unattractive': -0.345, 'continue': -0.156, 'cold': -0.46, 'stay': -0.999, 'poor': -1.874, 'young': -0.295, 'low': -0.399, 'shallow': -0.605, 'defeat': -0.193, 'unimpressive': -0.462}",synonym_antonym
+395,full,0,0.252,{'empty': -0.278},antonym
+396,puts,0,0.252,"{'stand': -0.321, 'hire': -0.155, 'lie': -0.273, 'give': -0.164, 'ride': -0.272, 'left': -0.435, 'union': -0.225, 'standard': -0.167, 'sit': -0.259, 'free': -0.331, 'defense': -0.334, 'unintelligent': -0.471, 'bore': -0.785, 'fall': -0.154, 'defeat': -0.193, 'slow': -0.744, 'continue': -0.156, 'existence': -0.212, 'empty': -0.278, 'heavy': -0.991}",synonym_antonym
+397,emotion,0,0.251,{'hate': -1.427},antonym
+398,believable,0,0.25,"{'impossible': -0.543, 'dull': -1.881, 'credible': -0.222}",synonym_antonym
+399,investigate,0,0.25,"{'bottom': -0.419, 'worst': -2.915, 'side': -0.243, 'lose': -0.328}",synonym_antonym
+400,thrills,0,0.25,"{'fall': -0.154, 'courage': -0.266}",antonym
+401,extraordinary,1,0.249,"{'unimpressive': -0.462, 'inferior': -0.644}",antonym
+402,release,0,0.249,{'hold': -0.359},antonym
+403,fog,0,0.248,{'glorious': -0.241},antonym
+404,loving,0,0.248,"{'cold': -0.46, 'unaffected': -0.197, 'hard': -0.5, 'act': -0.276, 'practical': -0.166, 'public': -0.325}",synonym_antonym
+405,questionable,0,0.248,"{'humorless': -0.308, 'credible': -0.222}",synonym_antonym
+406,parents,0,0.247,"{'father': -0.167, 'mother': -0.154}",antonym
+407,access,0,0.246,"{'lose': -0.328, 'stay': -0.999}",antonym
+408,fact,0,0.246,"{'general': -0.433, 'particular': -0.255}",antonym
+409,tortured,1,0.246,{'joyful': 0.0},oov_antonym
+410,bike,0,0.245,"{'walk': -0.203, 'fail': -0.441, 'calm': -0.168, 'empty': -0.278, 'bore': -0.785}",synonym_antonym
+411,contains,0,0.245,"{'lack': -0.445, 'rough': -0.359}",synonym_antonym
+412,follow,0,0.245,"{'ride': -0.272, 'fall': -0.154, 'low': -0.399}",synonym_antonym
+413,earlier,0,0.244,{'down': -0.43},synonym_antonym
+414,oddity,0,0.244,{'ignore': -0.158},synonym_antonym
+415,promote,0,0.244,{'start': -0.201},antonym
+416,bloody,0,0.243,"{'free': -0.331, 'experienced': -0.277, 'gain': -0.286}",synonym_antonym
+417,excels,0,0.243,"{'continue': -0.156, 'stretch': -0.156, 'gain': -0.286, 'stay': -0.999}",synonym_antonym
+418,shining,1,0.243,{'inferior': -0.644},antonym
+419,throw,0,0.243,{'defeat': -0.193},antonym
+420,16,0,0.242,{'all': -0.429},synonym_antonym
+421,justified,0,0.242,{'uneven': -0.404},antonym
+422,putting,0,0.242,{'stay': -0.999},antonym
+423,saw,0,0.241,{'wet': -0.313},synonym_antonym
+424,surface,0,0.241,"{'stand': -0.321, 'hire': -0.155, 'stay': -0.999, 'low': -0.399, 'mild': -0.299, 'fall': -0.154, 'ride': -0.272}",synonym_antonym
+425,varied,0,0.241,{'same': -0.222},antonym
+426,commendable,0,0.24,{'evil': -0.415},antonym
+427,freeze,0,0.24,{'wrong': -0.539},antonym
+428,historical,0,0.24,{'unreal': -0.428},antonym
+429,properly,0,0.24,"{'wrong': -0.539, 'false': -1.067}",antonym
+430,seen,0,0.24,"{'stay': -0.999, 'miss': -0.35, 'worry': -0.183, 'lose': -0.328}",synonym_antonym
+431,deep,0,0.239,"{'shallow': -0.605, 'defeat': -0.193}",antonym
+432,excite,0,0.239,"{'bore': -0.785, 'stay': -0.999, 'calm': -0.168, 'curse': -0.19}",synonym_antonym
+433,praised,0,0.239,"{'add': -0.34, 'attract': -0.292, 'please': -0.395, 'loud': -0.75, 'pass': -0.499, 'fail': -0.441, 'tune': -0.162, 'bottom': -0.419, 'stand': -0.321, 'dislike': -0.877, 'ride': -0.272, 'calm': -0.168, 'poor': -1.874, 'uneven': -0.404, 'fall': -0.154, 'start': -0.201}",synonym_antonym
+434,winning,0,0.239,{'ugly': -0.681},antonym
+435,character,0,0.238,"{'standard': -0.167, 'side': -0.243}",antonym
+436,return,0,0.238,"{'ride': -0.272, 'fall': -0.154, 'take': -0.165, 'communicate': -0.427, 'let': -0.408, 'ending': -0.324}",synonym_antonym
+437,struck,0,0.238,{'unaffected': -0.197},antonym
+438,hoot,0,0.237,"{'proud': -0.205, 'worth': -0.327}",synonym_antonym
+439,absolute,0,0.236,{'thick': -0.335},antonym
+440,caused,0,0.236,{'attract': -0.292},antonym
+441,fed,0,0.236,{'malnourished': 0.0},oov_antonym
+442,fire,0,0.236,{'curse': -0.19},antonym
+443,modest,0,0.236,{'proud': -0.205},antonym
+444,sand,0,0.236,{'unreal': -0.428},antonym
+445,years,0,0.236,"{'young': -0.295, 'old': -0.252, 'immature': -0.17, 'mature': -0.179}",antonym
+446,dare,0,0.235,{'fall': -0.154},antonym
+447,jackass,0,0.235,{'humorless': -0.308},antonym
+448,kicks,0,0.235,"{'ride': -0.272, 'fall': -0.154}",synonym_antonym
+449,system,0,0.235,{'defense': -0.334},antonym
+450,win,0,0.235,{'lose': -0.328},antonym
+451,opening,0,0.234,"{'ending': -0.324, 'death': -0.173, 'unoriginal': -0.414}",synonym_antonym
+452,anxious,0,0.233,"{'death': -0.173, 'cold': -0.46}",synonym_antonym
+453,direct,0,0.233,{'rough': -0.359},synonym_antonym
+454,right,0,0.233,"{'wrong': -0.539, 'give': -0.164, 'lose': -0.328, 'stay': -0.999, 'avoid': -0.855, 'left': -0.435, 'false': -1.067, 'appearance': -0.346, 'material': -0.23, 'liberal': -0.219, 'ride': -0.272, 'take': -0.165, 'low': -0.399, 'mild': -0.299}",synonym_antonym
+455,burst,0,0.232,"{'same': -0.222, 'union': -0.225, 'lack': -0.445}",synonym_antonym
+456,cute,1,0.232,"{'unattractive': -0.345, 'dull': -1.881}",synonym_antonym
+457,minds,0,0.232,"{'ability': -0.814, 'stupidity': -0.277}",synonym_antonym
+458,seductive,0,0.232,{'unattractive': -0.345},antonym
+459,poverty,0,0.231,{'stay': -0.999},synonym_antonym
+460,feet,0,0.23,"{'woman': -0.286, 'stay': -0.999, 'fall': -0.154, 'ride': -0.272, 'head': -0.287, 'inferior': -0.644}",synonym_antonym
+461,mesmerizing,1,0.23,"{'unattractive': -0.345, 'ugly': -0.681}",antonym
+462,superbly,1,0.23,"{'unimpressive': -0.462, 'inferior': -0.644}",synonym_antonym
+463,associated,0,0.229,"{'fail': -0.441, 'pass': -0.499, 'same': -0.222}",synonym_antonym
+464,attempt,0,0.229,{'worst': -2.915},antonym
+465,half,0,0.229,{'whole': -0.155},synonym_antonym
+466,million,0,0.229,{'all': -0.429},synonym_antonym
+467,40,0,0.228,{'all': -0.429},synonym_antonym
+468,attitudes,0,0.228,"{'offensive': -1.191, 'careless': -0.166, 'inferior': -0.644, 'lie': -0.273, 'sit': -0.259, 'stupidity': -0.277, 'unintelligent': -0.471, 'left': -0.435, 'ability': -0.814, 'fall': -0.154, 'ending': -0.324}",synonym_antonym
+469,crisis,0,0.228,"{'continue': -0.156, 'failure': -0.707, 'ending': -0.324, 'appearance': -0.346}",synonym_antonym
+470,happens,0,0.228,"{'stretch': -0.156, 'gain': -0.286, 'stay': -0.999, 'ride': -0.272, 'fall': -0.154, 'inferior': -0.644, 'standard': -0.167, 'death': -0.173, 'walk': -0.203, 'tune': -0.162}",synonym_antonym
+471,informed,0,0.227,"{'naive': -0.184, 'public': -0.325}",antonym
+472,ingenious,1,0.227,{'unattractive': -0.345},antonym
+473,stars,0,0.227,"{'inferior': -0.644, 'fail': -0.441, 'stupidity': -0.277}",antonym
+474,status,0,0.227,"{'birth': -0.177, 'innocence': -0.96, 'left': -0.435, 'war': -0.201, 'mature': -0.179, 'immature': -0.17, 'inferior': -0.644, 'lose': -0.328, 'worst': -2.915, 'low': -0.399, 'difference': -0.247}",synonym_antonym
+475,control,0,0.226,"{'fail': -0.441, 'studio': -0.411, 'left': -0.435, 'stand': -0.321, 'stupidity': -0.277, 'stay': -0.999, 'ignore': -0.158, 'inferior': -0.644, 'wet': -0.313, 'tune': -0.162}",synonym_antonym
+476,drug,0,0.226,"{'inferior': -0.644, 'bottom': -0.419, 'side': -0.243, 'defense': -0.334, 'stay': -0.999, 'loser': -0.469, 'general': -0.433}",synonym_antonym
+477,force,0,0.226,{'ride': -0.272},antonym
+478,increase,0,0.226,{'narrow': -0.286},antonym
+479,king,0,0.226,{'queen': -0.209},antonym
+480,reward,0,0.226,{'take': -0.165},synonym_antonym
+481,star,0,0.226,"{'inferior': -0.644, 'fail': -0.441, 'stupidity': -0.277}",antonym
+482,comedians,0,0.225,{'humorless': -0.308},antonym
+483,disagree,0,0.225,"{'fall': -0.154, 'stay': -0.999}",synonym_antonym
+484,society,0,0.225,"{'ability': -0.814, 'living': -0.962, 'fall': -0.154, 'ending': -0.324}",synonym_antonym
+485,leave,0,0.224,"{'stay': -0.999, 'existence': -0.212, 'fail': -0.441, 'lose': -0.328, 'miss': -0.35, 'pass': -0.499, 'hard': -0.5, 'continue': -0.156, 'make': -0.159, 'head': -0.287}",synonym_antonym
+486,tasteful,1,0.224,"{'worry': -0.183, 'naive': -0.184, 'awkward': -0.252, 'functional': -0.159}",synonym_antonym
+487,carried,0,0.223,"{'walk': -0.203, 'ride': -0.272, 'fall': -0.154, 'bore': -0.785, 'empty': -0.278, 'lose': -0.328, 'stay': -0.999, 'lack': -0.445, 'hire': -0.155, 'miss': -0.35}",synonym_antonym
+488,insults,0,0.223,"{'bore': -0.785, 'fall': -0.154, 'curse': -0.19, 'continue': -0.156}",synonym_antonym
+489,thinking,0,0.223,{'ready': -0.227},antonym
+490,died,0,0.221,{'continue': -0.156},antonym
+491,noticeable,0,0.221,{'obvious': -0.309},antonym
+492,range,0,0.22,"{'defeat': -0.193, 'lose': -0.328}",antonym
+493,soul,0,0.22,"{'stay': -0.999, 'strange': -0.367}",synonym_antonym
+494,spend,0,0.22,"{'night': -0.394, 'stretch': -0.156, 'gain': -0.286}",synonym_antonym
+495,understand,0,0.22,"{'stay': -0.999, 'lose': -0.328, 'miss': -0.35, 'hate': -1.427, 'significant': -0.198}",synonym_antonym
+496,votes,0,0.22,{'inferior': -0.644},synonym_antonym
+497,amounts,0,0.219,"{'stretch': -0.156, 'weak': -0.894, 'dislike': -0.877, 'standard': -0.167, 'narrow': -0.286, 'fall': -0.154, 'fail': -0.441}",synonym_antonym
+498,creep,0,0.219,{'fall': -0.154},antonym
+499,exceeded,0,0.219,{'continue': -0.156},antonym
+500,filmed,0,0.219,{'live': -0.548},antonym
+501,haunting,0,0.219,{'forgettable': -1.078},antonym
+502,taking,0,0.219,{'ugly': -0.681},antonym
+503,tear,0,0.218,{'stay': -0.999},antonym
+504,timid,0,0.218,{'forward': -0.403},antonym
+505,being,0,0.217,{'nonexistent': -0.598},antonym
+506,dropped,0,0.217,{'accept': -0.365},antonym
+507,score,0,0.217,{'fail': -0.441},antonym
+508,separate,0,0.217,"{'same': -0.222, 'union': -0.225}",antonym
+509,eleven,0,0.216,{'all': -0.429},synonym_antonym
+510,insist,0,0.216,"{'worry': -0.183, 'lack': -0.445}",synonym_antonym
+511,body,0,0.215,"{'thick': -0.335, 'woman': -0.286, 'same': -0.222, 'fail': -0.441}",synonym_antonym
+512,embarks,0,0.215,{'stay': -0.999},antonym
+513,perception,0,0.215,"{'ground': -0.172, 'dislike': -0.877}",antonym
+514,sent,0,0.215,{'unfortunate': -0.386},antonym
+515,shines,1,0.215,{'fall': -0.154},antonym
+516,babes,0,0.214,{'old': -0.252},antonym
+517,cartoons,0,0.214,{'give': -0.164},antonym
+518,cross,0,0.214,"{'stretch': -0.156, 'gain': -0.286, 'free': -0.331, 'ride': -0.272, 'stay': -0.999}",synonym_antonym
+519,drive,0,0.214,{'attract': -0.292},synonym_antonym
+520,expectations,0,0.214,{'impossible': -0.543},antonym
+521,riot,0,0.214,"{'loud': -0.75, 'ride': -0.272}",synonym_antonym
+522,unlike,0,0.214,{'like': -0.466},antonym
+523,lasted,0,0.213,{'future': -0.315},antonym
+524,march,0,0.213,{'ride': -0.272},antonym
+525,new,0,0.213,"{'old': -0.252, 'stale': -0.503}",antonym
+526,around,0,0.212,"{'no': -0.644, 'all': -0.429, 'little': -0.289}",synonym_antonym
+527,extent,0,0.212,{'shallow': -0.605},antonym
+528,gentle,0,0.212,{'hard': -0.5},synonym_antonym
+529,pans,0,0.212,{'ride': -0.272},antonym
+530,paramount,0,0.212,{'inferior': -0.644},antonym
+531,twists,0,0.212,{'fall': -0.154},antonym
+532,action,0,0.211,"{'ride': -0.272, 'avoid': -0.855, 'defense': -0.334, 'fail': -0.441, 'death': -0.173, 'tune': -0.162, 'start': -0.201, 'studio': -0.411, 'appearance': -0.346, 'lose': -0.328, 'ugly': -0.681, 'unattractive': -0.345, 'birth': -0.177, 'give': -0.164}",synonym_antonym
+533,bitter,0,0.211,{'unresentful': 0.0},oov_antonym
+534,creativity,1,0.211,"{'stupidity': -0.277, 'ending': -0.324, 'unoriginal': -0.414, 'incompetence': -0.19, 'able': -0.308, 'unintelligent': -0.471, 'plain': -0.302, 'dislike': -0.877}",synonym_antonym
+535,overacted,0,0.211,"{'ride': -0.272, 'avoid': -0.855, 'start': -0.201}",synonym_antonym
+536,paper,0,0.211,"{'material': -0.23, 'ability': -0.814}",synonym_antonym
+537,change,0,0.21,"{'death': -0.173, 'birth': -0.177}",antonym
+538,dramatic,0,0.21,{'tragedy': -0.197},antonym
+539,enhance,0,0.21,"{'bore': -0.785, 'fall': -0.154}",synonym_antonym
+540,jaws,0,0.21,"{'fall': -0.154, 'take': -0.165}",synonym_antonym
+541,recognize,0,0.21,"{'ignore': -0.158, 'take': -0.165}",antonym
+542,brought,0,0.209,{'walk': -0.203},antonym
+543,disgusting,1,0.209,{'free': -0.331},antonym
+544,guessing,0,0.209,{'continue': -0.156},synonym_antonym
+545,upbeat,0,0.209,{'failure': -0.707},antonym
+546,essential,0,0.208,"{'worst': -2.915, 'worse': -1.188, 'foreign': -0.318, 'unoriginal': -0.414, 'nonexistent': -0.598, 'unrealistic': -0.503, 'worthless': -0.359}",synonym_antonym
+547,focus,0,0.208,"{'low': -0.399, 'bore': -0.785}",antonym
+548,homage,0,0.208,{'inferior': -0.644},synonym_antonym
+549,hunt,0,0.208,{'fail': -0.441},antonym
+550,insanity,0,0.208,"{'reason': -0.502, 'calm': -0.168, 'defeat': -0.193, 'lose': -0.328}",synonym_antonym
+551,intentionally,0,0.208,{'unintentionally': -0.794},antonym
+552,jumps,0,0.207,"{'free': -0.331, 'stay': -0.999, 'communicate': -0.427, 'let': -0.408, 'ride': -0.272, 'fall': -0.154, 'accept': -0.365}",synonym_antonym
+553,survived,0,0.207,"{'future': -0.315, 'ride': -0.272, 'fall': -0.154, 'lose': -0.328, 'take': -0.165}",synonym_antonym
+554,thumbs,0,0.207,{'walk': -0.203},synonym_antonym
+555,decided,0,0.206,{'same': -0.222},synonym_antonym
+556,eighties,0,0.206,"{'young': -0.295, 'old': -0.252, 'immature': -0.17}",antonym
+557,ghost,0,0.206,{'stay': -0.999},antonym
+558,handle,0,0.206,"{'fail': -0.441, 'studio': -0.411, 'stupidity': -0.277, 'stay': -0.999, 'miss': -0.35, 'fall': -0.154, 'ending': -0.324, 'take': -0.165}",synonym_antonym
+559,have,0,0.206,{'lose': -0.328},antonym
+560,members,0,0.206,"{'walk': -0.203, 'ride': -0.272}",antonym
+561,motorcycle,0,0.206,{'walk': -0.203},synonym_antonym
+562,trapped,0,0.206,"{'free': -0.331, 'independent': -0.15}",antonym
+563,asset,0,0.205,"{'originality': -0.825, 'difference': -0.247, 'ability': -0.814, 'bad': -1.959, 'worth': -0.327, 'weakness': -0.161, 'weak': -0.894, 'lose': -0.328, 'admit': -0.356}",synonym_antonym
+564,bring,0,0.205,{'walk': -0.203},antonym
+565,hope,0,0.205,"{'feed': -0.236, 'dislike': -0.877}",synonym_antonym
+566,outdoor,0,0.204,{'internal': -0.169},antonym
+567,prime,0,0.204,{'unoriginal': -0.414},synonym_antonym
+568,quick,0,0.204,{'slow': -0.744},antonym
+569,sons,0,0.204,{'old': -0.252},synonym_antonym
+570,many,0,0.203,"{'few': -0.331, 'no': -0.644, 'all': -0.429, 'less': -0.302}",antonym
+571,noticed,0,0.203,{'unseen': -0.155},synonym_antonym
+572,typical,0,0.203,"{'false': -1.067, 'wrong': -0.539, 'unreal': -0.428}",synonym_antonym
+573,violent,0,0.203,"{'calm': -0.168, 'tame': -0.419, 'cold': -0.46, 'supported': -0.318, 'little': -0.289}",synonym_antonym
+574,asks,0,0.202,{'slow': -0.744},synonym_antonym
+575,babble,0,0.202,{'continue': -0.156},antonym
+576,cutting,0,0.202,{'bad': -1.959},antonym
+577,speaks,0,0.202,"{'take': -0.165, 'absent': -0.845, 'bottom': -0.419, 'future': -0.315, 'ride': -0.272, 'continue': -0.156, 'lack': -0.445, 'merit': -0.266, 'lose': -0.328, 'hold': -0.359, 'slow': -0.744, 'stay': -0.999, 'proud': -0.205, 'plain': -0.302, 'left': -0.435}",synonym_antonym
+578,adventures,0,0.201,{'worst': -2.915},antonym
+579,precise,0,0.201,{'general': -0.433},antonym
+580,daughters,0,0.2,"{'defeat': -0.193, 'lose': -0.328, 'husband': -0.238}",synonym_antonym
+581,matters,0,0.2,"{'most': -0.418, 'dislike': -0.877, 'functional': -0.159}",synonym_antonym
+582,unintentional,0,0.2,"{'motivated': -0.171, 'general': -0.433}",synonym_antonym
+583,25,0,0.199,{'all': -0.429},synonym_antonym
+584,beginning,0,0.199,{'ending': -0.324},antonym
+585,bud,0,0.199,"{'ending': -0.324, 'death': -0.173}",antonym
+586,exquisitely,0,0.199,{'rough': -0.359},antonym
+587,heartstrings,0,0.199,"{'hate': -1.427, 'dislike': -0.877}",antonym
+588,mafia,0,0.199,{'empty': -0.278},antonym
+589,toys,0,0.199,{'bottom': -0.419},antonym
+590,villains,0,0.199,{'functional': -0.159},antonym
+591,ambitions,0,0.198,{'attract': -0.292},antonym
+592,commentary,0,0.198,{'ignore': -0.158},antonym
+593,found,0,0.198,{'avoid': -0.855},synonym_antonym
+594,imaginative,1,0.198,{'unoriginal': -0.414},antonym
+595,puke,0,0.198,"{'failure': -0.707, 'ride': -0.272, 'miss': -0.35}",synonym_antonym
+596,senses,0,0.198,"{'ride': -0.272, 'worth': -0.327}",synonym_antonym
+597,clothing,0,0.197,"{'lack': -0.445, 'free': -0.331, 'empty': -0.278, 'dull': -1.881, 'take': -0.165, 'defense': -0.334, 'death': -0.173, 'birth': -0.177}",synonym_antonym
+598,coincidence,0,0.197,"{'failure': -0.707, 'ending': -0.324, 'appearance': -0.346, 'misfortune': -0.334}",synonym_antonym
+599,distract,0,0.197,"{'please': -0.395, 'calm': -0.168}",synonym_antonym
+600,dry,0,0.197,{'wet': -0.313},antonym
+601,nation,0,0.197,{'union': -0.225},antonym
+602,evoke,0,0.196,"{'bore': -0.785, 'calm': -0.168}",antonym
+603,inaccurate,0,0.196,{'narrow': -0.286},synonym_antonym
+604,selling,0,0.196,{'commercial': -0.386},antonym
+605,abuse,0,0.195,"{'ride': -0.272, 'standard': -0.167}",synonym_antonym
+606,constantly,0,0.195,{'never': 0.0},oov_antonym
+607,creepiness,0,0.195,"{'fear': -0.321, 'dislike': -0.877, 'pain': -0.574, 'pride': -0.162, 'miss': -0.35}",synonym_antonym
+608,toy,0,0.195,{'bottom': -0.419},antonym
+609,middle,0,0.194,{'empty': -0.278},synonym_antonym
+610,waited,0,0.194,{'continue': -0.156},antonym
+611,capital,0,0.193,"{'loser': -0.469, 'little': -0.289}",antonym
+612,promises,0,0.193,{'lack': -0.445},antonym
+613,worthwhile,1,0.193,"{'evil': -0.415, 'worthless': -0.359}",synonym_antonym
+614,can,0,0.192,"{'free': -0.331, 'waste': -1.35}",synonym_antonym
+615,country,0,0.192,"{'mature': -0.179, 'immature': -0.17, 'union': -0.225}",synonym_antonym
+616,sound,0,0.192,"{'lose': -0.328, 'continue': -0.156}",synonym_antonym
+617,50s,0,0.191,"{'ignore': -0.158, 'all': -0.429}",synonym_antonym
+618,changing,0,0.191,{'dull': -1.881},synonym_antonym
+619,competent,0,0.191,{'incompetent': -0.316},antonym
+620,nipple,0,0.191,{'father': -0.167},antonym
+621,older,0,0.191,"{'young': -0.295, 'immature': -0.17, 'future': -0.315}",antonym
+622,plots,0,0.191,"{'fall': -0.154, 'empty': -0.278}",synonym_antonym
+623,put,0,0.191,"{'stand': -0.321, 'hire': -0.155, 'lie': -0.273, 'give': -0.164, 'ride': -0.272, 'left': -0.435, 'union': -0.225, 'standard': -0.167, 'sit': -0.259, 'free': -0.331, 'defense': -0.334, 'unintelligent': -0.471, 'bore': -0.785, 'fall': -0.154, 'defeat': -0.193, 'slow': -0.744, 'continue': -0.156, 'existence': -0.212, 'empty': -0.278, 'heavy': -0.991}",synonym_antonym
+624,revive,0,0.191,"{'bore': -0.785, 'curse': -0.19}",antonym
+625,ties,0,0.191,"{'woman': -0.286, 'stupidity': -0.277, 'add': -0.34, 'dull': -1.881}",synonym_antonym
+626,voted,0,0.191,{'inferior': -0.644},synonym_antonym
+627,endings,0,0.19,"{'hire': -0.155, 'add': -0.34}",antonym
+628,illegal,0,0.19,"{'cold': -0.46, 'weak': -0.894}",synonym_antonym
+629,manages,0,0.19,"{'fail': -0.441, 'studio': -0.411}",antonym
+630,plans,0,0.19,"{'left': -0.435, 'union': -0.225, 'worst': -2.915}",synonym_antonym
+631,bed,0,0.189,"{'stand': -0.321, 'hire': -0.155}",antonym
+632,peoples,0,0.189,"{'living': -0.962, 'poor': -1.874}",synonym_antonym
+633,possesses,0,0.189,{'woman': -0.286},antonym
+634,prominent,1,0.189,{'unimpressive': -0.462},antonym
+635,bickering,0,0.188,{'miss': -0.35},antonym
+636,bodies,0,0.188,"{'thick': -0.335, 'woman': -0.286, 'same': -0.222, 'fail': -0.441}",synonym_antonym
+637,language,0,0.188,"{'functional': -0.159, 'calm': -0.168, 'death': -0.173, 'fail': -0.441}",synonym_antonym
+638,wrecking,0,0.188,{'make': -0.159},antonym
+639,enhances,0,0.187,"{'bore': -0.785, 'fall': -0.154}",synonym_antonym
+640,exploitation,0,0.187,{'functional': -0.159},antonym
+641,flashy,0,0.187,"{'plain': -0.302, 'unimpressive': -0.462, 'unintelligent': -0.471, 'inferior': -0.644}",synonym_antonym
+642,talks,0,0.187,"{'con': -0.232, 'fail': -0.441, 'war': -0.201}",synonym_antonym
+643,affect,0,0.186,"{'please': -0.395, 'calm': -0.168, 'make': -0.159, 'tune': -0.162, 'wet': -0.313, 'wrong': -0.539, 'empty': -0.278, 'dull': -1.881, 'wasteful': -0.151, 'curse': -0.19, 'young': -0.295, 'miss': -0.35, 'stay': -0.999, 'death': -0.173, 'birth': -0.177, 'inferior': -0.644, 'stretch': -0.156, 'fall': -0.154, 'ending': -0.324}",synonym_antonym
+644,channel,0,0.186,{'take': -0.165},antonym
+645,natural,0,0.186,{'unnatural': -0.237},antonym
+646,slice,0,0.186,{'stay': -0.999},antonym
+647,uncommon,0,0.186,{'unimpressive': -0.462},antonym
+648,you,0,0.186,{'unoriginal': -0.414},synonym_antonym
+649,brain,0,0.185,{'stupidity': -0.277},synonym_antonym
+650,british,0,0.185,{'union': -0.225},synonym_antonym
+651,era,0,0.185,{'night': -0.394},antonym
+652,protect,0,0.185,{'let': -0.408},antonym
+653,urgency,0,0.185,{'curse': -0.19},synonym_antonym
+654,witty,1,0.185,{'humorless': -0.308},antonym
+655,buffs,0,0.184,"{'uneven': -0.404, 'rough': -0.359}",antonym
+656,goofs,0,0.184,"{'stay': -0.999, 'merit': -0.266, 'bore': -0.785, 'fall': -0.154, 'curse': -0.19, 'continue': -0.156, 'make': -0.159, 'father': -0.167}",synonym_antonym
+657,stimulating,1,0.184,{'uninteresting': -0.361},antonym
+658,happen,0,0.183,"{'stretch': -0.156, 'gain': -0.286, 'stay': -0.999, 'ride': -0.272, 'fall': -0.154, 'inferior': -0.644, 'standard': -0.167, 'death': -0.173, 'walk': -0.203, 'tune': -0.162}",synonym_antonym
+659,purpose,0,0.183,"{'functional': -0.159, 'continue': -0.156, 'take': -0.165, 'stupidity': -0.277}",synonym_antonym
+660,thrilling,0,0.183,{'uninteresting': -0.361},synonym_antonym
+661,coherent,1,0.182,{'incoherent': -0.327},antonym
+662,ninety,0,0.182,{'all': -0.429},synonym_antonym
+663,rating,0,0.182,"{'low': -0.399, 'mild': -0.299}",antonym
+664,universal,0,0.182,{'narrow': -0.286},synonym_antonym
+665,virtues,0,0.182,{'evil': -0.415},antonym
+666,decrepit,0,0.181,{'weakness': -0.161},synonym_antonym
+667,enthralling,1,0.181,"{'unattractive': -0.345, 'uninteresting': -0.361}",antonym
+668,hiding,0,0.181,"{'free': -0.331, 'stay': -0.999}",synonym_antonym
+669,jarring,0,0.181,{'hard': -0.5},synonym_antonym
+670,responsible,1,0.181,{'careless': -0.166},synonym_antonym
+671,flew,0,0.18,{'miss': -0.35},antonym
+672,grab,0,0.18,"{'free': -0.331, 'start': -0.201, 'loose': -0.374, 'avoid': -0.855, 'stay': -0.999}",synonym_antonym
+673,knows,0,0.18,{'ignore': -0.158},antonym
+674,nearly,0,0.18,"{'attract': -0.292, 'least': -0.263, 'cold': -0.46, 'no': -0.644, 'all': -0.429, 'little': -0.289}",synonym_antonym
+675,realizing,0,0.18,{'ignore': -0.158},antonym
+676,weird,1,0.18,"{'credible': -0.222, 'unimpressive': -0.462}",synonym_antonym
+677,favourite,1,0.179,{'unpopular': -0.762},antonym
+678,fortunate,1,0.179,"{'unlucky': -0.327, 'unfortunate': -0.386}",antonym
+679,national,0,0.179,"{'foreign': -0.318, 'international': -0.274}",antonym
+680,popular,0,0.179,{'unpopular': -0.762},antonym
+681,wealthy,0,0.179,{'poor': -1.874},antonym
+682,dad,0,0.178,{'mother': -0.154},antonym
+683,eating,0,0.178,{'failure': -0.707},antonym
+684,pro,0,0.178,{'amateur': -0.277},antonym
+685,promised,0,0.178,{'lack': -0.445},antonym
+686,striking,1,0.178,"{'unimpressive': -0.462, 'stay': -0.999}",antonym
+687,benefits,0,0.177,"{'ride': -0.272, 'bad': -1.959}",synonym_antonym
+688,feel,0,0.177,"{'continue': -0.156, 'stay': -0.999, 'stand': -0.321, 'lose': -0.328, 'depressing': -0.673, 'fall': -0.154, 'curse': -0.19, 'fail': -0.441, 'fear': -0.321}",synonym_antonym
+689,partially,0,0.177,{'wholly': -0.161},antonym
+690,sides,0,0.177,"{'stay': -0.999, 'fall': -0.154}",antonym
+691,breathtaking,1,0.176,{'uninteresting': -0.361},synonym_antonym
+692,distribution,0,0.176,"{'defense': -0.334, 'inferior': -0.644}",synonym_antonym
+693,eden,0,0.176,"{'miss': -0.35, 'stay': -0.999}",synonym_antonym
+694,fetched,0,0.176,{'lose': -0.328},antonym
+695,several,0,0.176,"{'same': -0.222, 'no': -0.644, 'all': -0.429, 'loser': -0.469}",synonym_antonym
+696,sigh,0,0.176,{'free': -0.331},synonym_antonym
+697,khan,0,0.175,"{'admit': -0.356, 'let': -0.408, 'free': -0.331}",synonym_antonym
+698,non,0,0.175,{'commercial': -0.386},synonym_antonym
+699,revolve,0,0.175,{'empty': -0.278},antonym
+700,setting,0,0.175,{'vertical': 0.0},oov_antonym
+701,featuring,0,0.174,"{'internal': -0.169, 'inner': -0.793, 'lack': -0.445, 'stay': -0.999, 'ability': -0.814}",synonym_antonym
+702,genuine,0,0.174,"{'false': -1.067, 'unreal': -0.428}",antonym
+703,imagine,0,0.174,"{'supported': -0.318, 'ride': -0.272, 'plain': -0.302, 'unimpressive': -0.462, 'worst': -2.915, 'lose': -0.328, 'ignore': -0.158, 'fail': -0.441}",synonym_antonym
+704,tonight,0,0.174,{'absent': -0.845},antonym
+705,introduced,0,0.173,{'sit': -0.259},antonym
+706,raise,0,0.173,{'narrow': -0.286},synonym_antonym
+707,choosing,0,0.172,"{'stay': -0.999, 'give': -0.164, 'attractive': -0.363, 'ride': -0.272, 'fall': -0.154, 'same': -0.222, 'dull': -1.881, 'lost': -0.323}",synonym_antonym
+708,mummy,0,0.172,"{'father': -0.167, 'thick': -0.335}",antonym
+709,rapid,0,0.172,{'slow': -0.744},antonym
+710,sites,0,0.172,{},empty
+711,tops,0,0.172,"{'inferior': -0.644, 'worst': -2.915, 'low': -0.399}",antonym
+712,chat,0,0.171,{'forward': -0.403},antonym
+713,continues,0,0.171,{'admit': -0.356},antonym
+714,men,0,0.171,"{'ride': -0.272, 'stay': -0.999}",synonym_antonym
+715,suitable,0,0.171,{'evil': -0.415},antonym
+716,explosions,0,0.17,"{'failing': -0.196, 'stay': -0.999, 'pass': -0.499, 'lose': -0.328}",synonym_antonym
+717,heartbreaking,0,0.17,{'joyful': 0.0},oov_antonym
+718,purchase,0,0.17,"{'take': -0.165, 'lose': -0.328}",synonym_antonym
+719,wiser,0,0.17,"{'rough': -0.359, 'blind': -0.296, 'careless': -0.166, 'bad': -1.959, 'inferior': -0.644}",synonym_antonym
+720,buy,0,0.169,"{'take': -0.165, 'lose': -0.328}",synonym_antonym
+721,chapter,0,0.169,{'birth': -0.177},synonym_antonym
+722,hundreds,0,0.169,{'all': -0.429},synonym_antonym
+723,kiddies,0,0.169,"{'wise': -0.886, 'woman': -0.286}",synonym_antonym
+724,partly,0,0.169,{'wholly': -0.161},antonym
+725,picks,0,0.169,{'give': -0.164},antonym
+726,tension,0,0.169,{'slow': -0.744},synonym_antonym
+727,beaver,0,0.168,"{'empty': -0.278, 'lack': -0.445}",synonym_antonym
+728,groups,0,0.168,{'woman': -0.286},antonym
+729,policeman,0,0.168,{'woman': -0.286},antonym
+730,smiles,0,0.168,{'slow': -0.744},antonym
+731,door,0,0.167,{'free': -0.331},antonym
+732,heroes,0,0.167,{'inferior': -0.644},synonym_antonym
+733,runs,0,0.167,{'hard': -0.5},antonym
+734,appealing,1,0.166,"{'unappealing': -0.211, 'unattractive': -0.345}",antonym
+735,awe,0,0.166,{'dislike': -0.877},synonym_antonym
+736,cherish,0,0.166,"{'hate': -1.427, 'dislike': -0.877}",antonym
+737,enters,0,0.166,{'stay': -0.999},synonym_antonym
+738,event,0,0.166,"{'fall': -0.154, 'ending': -0.324}",antonym
+739,gifted,1,0.166,{'untalented': -0.159},antonym
+740,musicals,0,0.166,"{'unreal': -0.428, 'lack': -0.445, 'optimistic': -0.321, 'start': -0.201, 'color': -0.857, 'dull': -1.881, 'unattractive': -0.345}",synonym_antonym
+741,remarks,0,0.166,"{'mature': -0.179, 'immature': -0.17, 'hold': -0.359, 'add': -0.34, 'accept': -0.365, 'defeat': -0.193}",synonym_antonym
+742,spare,0,0.166,"{'act': -0.276, 'attractive': -0.363}",antonym
+743,stiller,0,0.166,{'heavy': -0.991},antonym
+744,teeth,0,0.166,"{'future': -0.315, 'take': -0.165}",synonym_antonym
+745,centered,0,0.165,{'whole': -0.155},synonym_antonym
+746,reviewer,0,0.165,{'amateur': -0.277},synonym_antonym
+747,silence,0,0.165,"{'worry': -0.183, 'stay': -0.999, 'heavy': -0.991}",synonym_antonym
+748,count,0,0.164,"{'gain': -0.286, 'give': -0.164, 'woman': -0.286}",synonym_antonym
+749,real,0,0.164,"{'unreal': -0.428, 'unrealistic': -0.503}",antonym
+750,cruise,0,0.163,"{'ride': -0.272, 'fall': -0.154}",synonym_antonym
+751,integrity,0,0.162,{'whole': -0.155},antonym
+752,narration,0,0.162,"{'spell': -0.223, 'continue': -0.156, 'hire': -0.155, 'add': -0.34, 'dislike': -0.877, 'future': -0.315}",synonym_antonym
+753,parent,0,0.162,"{'father': -0.167, 'mother': -0.154}",antonym
+754,strengths,0,0.162,"{'weakness': -0.161, 'weak': -0.894}",antonym
+755,suits,0,0.162,{'take': -0.165},synonym_antonym
+756,warmth,0,0.162,{'cold': -0.46},synonym_antonym
+757,behaviors,0,0.161,{'difficult': -0.32},synonym_antonym
+758,biting,0,0.161,{'stale': -0.503},synonym_antonym
+759,knowing,0,0.161,"{'naive': -0.184, 'public': -0.325}",synonym_antonym
+760,on,0,0.161,{'off': -0.322},synonym_antonym
+761,rocker,0,0.161,{'bottom': -0.419},antonym
+762,loves,0,0.16,{'hate': -1.427},antonym
+763,today,0,0.16,{'take': -0.165},antonym
+764,unusual,0,0.16,"{'unimpressive': -0.462, 'inferior': -0.644, 'stale': -0.503, 'humorless': -0.308, 'like': -0.466, 'same': -0.222}",synonym_antonym
+765,cunning,0,0.159,"{'stupid': -1.579, 'unintelligent': -0.471}",antonym
+766,distinct,0,0.159,{'same': -0.222},antonym
+767,factual,0,0.159,"{'unreal': -0.428, 'false': -1.067, 'potential': -0.333}",antonym
+768,fitting,0,0.159,"{'wrong': -0.539, 'inappropriate': -0.311}",synonym_antonym
+769,hopeless,0,0.159,{'optimistic': -0.321},antonym
+770,joy,0,0.159,"{'miss': -0.35, 'failure': -0.707, 'defeat': -0.193, 'lose': -0.328, 'color': -0.857, 'low': -0.399, 'hate': -1.427, 'dull': -1.881, 'courage': -0.266, 'empty': -0.278}",synonym_antonym
+771,rise,0,0.159,"{'stay': -0.999, 'fall': -0.154, 'down': -0.43}",synonym_antonym
+772,rolled,0,0.159,{'free': -0.331},antonym
+773,prisoners,0,0.158,{'free': -0.331},antonym
+774,river,0,0.158,{'slow': -0.744},antonym
+775,spy,0,0.158,{'loser': -0.469},antonym
+776,wacky,0,0.158,{'wise': -0.886},antonym
+777,wild,0,0.158,{'tame': -0.419},antonym
+778,late,0,0.157,{'immature': -0.17},antonym
+779,light,0,0.157,"{'dull': -1.881, 'bright': -1.022, 'stand': -0.321, 'sit': -0.259, 'stupidity': -0.277, 'wet': -0.313, 'night': -0.394, 'heavy': -0.991, 'defeat': -0.193}",synonym_antonym
+780,movement,0,0.157,"{'ride': -0.272, 'stay': -0.999, 'fall': -0.154, 'side': -0.243, 'bottom': -0.419, 'down': -0.43, 'stand': -0.321, 'lie': -0.273, 'set': -0.323, 'curse': -0.19, 'slow': -0.744, 'dislike': -0.877, 'woman': -0.286, 'death': -0.173, 'birth': -0.177, 'hire': -0.155, 'misfortune': -0.334}",synonym_antonym
+781,noting,0,0.157,"{'mature': -0.179, 'immature': -0.17, 'hold': -0.359, 'add': -0.34, 'accept': -0.365, 'defeat': -0.193}",synonym_antonym
+782,villain,0,0.157,{'functional': -0.159},antonym
+783,10,0,0.156,"{'all': -0.429, 'stay': -0.999, 'woman': -0.286}",synonym_antonym
+784,elementary,0,0.156,"{'difficult': -0.32, 'hard': -0.5, 'demanding': -0.175}",antonym
+785,fairly,0,0.156,{'ugly': -0.681},antonym
+786,previous,0,0.156,{'future': -0.315},antonym
+787,surrounds,0,0.156,"{'miss': -0.35, 'free': -0.331}",synonym_antonym
+788,truth,0,0.156,"{'general': -0.433, 'particular': -0.255}",synonym_antonym
+789,water,0,0.156,"{'empty': -0.278, 'young': -0.295, 'wet': -0.313, 'stay': -0.999, 'calm': -0.168, 'worst': -2.915}",synonym_antonym
+790,assault,0,0.155,"{'calm': -0.168, 'empty': -0.278, 'miss': -0.35, 'fail': -0.441}",synonym_antonym
+791,baby,0,0.155,"{'wise': -0.886, 'old': -0.252, 'experienced': -0.277}",synonym_antonym
+792,hunter,0,0.155,{'tame': -0.419},antonym
+793,renovated,0,0.155,"{'curse': -0.19, 'bore': -0.785, 'stay': -0.999}",synonym_antonym
+794,reviews,0,0.155,{'miss': -0.35},antonym
+795,safe,0,0.155,{'painful': -0.48},synonym_antonym
+796,touches,0,0.155,{'miss': -0.35},antonym
+797,advancement,0,0.154,{'fall': -0.154},antonym
+798,repeating,0,0.154,"{'take': -0.165, 'ending': -0.324}",synonym_antonym
+799,stronger,0,0.154,"{'weakness': -0.161, 'weak': -0.894}",antonym
+800,dying,0,0.153,{'death': -0.173},antonym
+801,fourth,0,0.153,"{'all': -0.429, 'add': -0.34}",synonym_antonym
+802,millennium,0,0.153,"{'night': -0.394, 'poor': -1.874}",synonym_antonym
+803,perform,0,0.153,"{'worst': -2.915, 'lack': -0.445, 'stay': -0.999, 'fail': -0.441, 'take': -0.165, 'miss': -0.35, 'continue': -0.156, 'inferior': -0.644, 'stupidity': -0.277, 'wet': -0.313}",synonym_antonym
+804,100,0,0.152,{'all': -0.429},synonym_antonym
+805,celebration,0,0.152,"{'failure': -0.707, 'defeat': -0.193, 'lose': -0.328, 'ending': -0.324, 'appearance': -0.346, 'functional': -0.159}",synonym_antonym
+806,heist,0,0.152,{'stay': -0.999},synonym_antonym
+807,resources,0,0.152,"{'lose': -0.328, 'admit': -0.356}",antonym
+808,27,0,0.151,{'all': -0.429},synonym_antonym
+809,encourage,0,0.151,"{'near': -0.238, 'take': -0.165, 'tune': -0.162, 'miss': -0.35, 'start': -0.201, 'empty': -0.278, 'fail': -0.441}",synonym_antonym
+810,every,0,0.151,{'no': -0.644},antonym
+811,important,1,0.151,{'worthless': -0.359},antonym
+812,romantic,1,0.151,"{'loser': -0.469, 'practical': -0.166}",synonym_antonym
+813,ecstasy,0,0.15,"{'strange': -0.367, 'hire': -0.155, 'dull': -1.881, 'courage': -0.266}",synonym_antonym
+814,fame,0,0.15,{'low': -0.399},synonym_antonym
+815,travesty,0,0.15,"{'fall': -0.154, 'empty': -0.278}",antonym
+816,boxing,0,-0.15,"{'finish': 0.874, 'simple': 0.516}",synonym_antonym
+817,errors,0,-0.15,{'perfection': 0.527},antonym
+818,independent,0,-0.15,"{'late': 0.157, 'sexual': 0.362, 'male': 0.267}",synonym_antonym
+819,mannerisms,0,-0.15,"{'strong': 0.651, 'end': 0.428, 'beginning': 0.199}",synonym_antonym
+820,unimpressed,1,-0.15,{'sensitive': 0.392},synonym_antonym
+821,forth,0,-0.151,{'on': 0.161},antonym
+822,state,0,-0.151,"{'leave': 0.224, 'perfection': 0.527, 'end': 0.428, 'beginning': 0.199, 'late': 0.157, 'early': 0.361}",synonym_antonym
+823,wasteful,1,-0.151,"{'competent': 0.191, 'effective': 0.393, 'powerful': 1.169}",synonym_antonym
+824,be,0,-0.152,{'change': 0.21},antonym
+825,glimpse,0,-0.152,{'disagree': 0.225},antonym
+826,joys,0,-0.152,"{'light': 0.157, 'beginning': 0.199, 'love': 1.129, 'happiness': 0.323}",synonym_antonym
+827,mislead,1,-0.152,"{'right': 0.233, 'truth': 0.156}",antonym
+828,seems,0,-0.152,"{'disagree': 0.225, 'simple': 0.516, 'buy': 0.169, 'better': 0.257, 'praise': 0.513, 'increase': 0.226, 'focus': 0.208, 'change': 0.21}",synonym_antonym
+829,theaters,0,-0.152,{},empty
+830,actors,0,-0.153,"{'necessary': 0.327, 'light': 0.157}",antonym
+831,balls,0,-0.153,{'perfection': 0.527},antonym
+832,hour,0,-0.153,"{'sweet': 0.34, 'male': 0.267, 'former': 0.8, 'day': 0.351}",synonym_antonym
+833,business,0,-0.154,{'best': 1.267},synonym_antonym
+834,fall,0,-0.154,"{'fast': 0.376, 'interesting': 0.734, 'smart': 0.833}",antonym
+835,forgot,0,-0.154,"{'buy': 0.169, 'increase': 0.226, 'show': 0.286, 'soft': 0.905}",synonym_antonym
+836,looking,0,-0.154,{'careful': 0.288},synonym_antonym
+837,mother,0,-0.154,{'child': 0.367},antonym
+838,rival,0,-0.154,{'king': 0.226},antonym
+839,scattered,0,-0.154,{'focused': 0.472},synonym_antonym
+840,subtle,0,-0.154,{'easy': 0.679},synonym_antonym
+841,doctor,0,-0.155,"{'increase': 0.226, 'someone': 0.319, 'soul': 0.22}",synonym_antonym
+842,hire,0,-0.155,"{'fire': 0.236, 'increase': 0.226}",antonym
+843,unseen,0,-0.155,"{'noticed': 0.203, 'content': 0.294}",antonym
+844,whole,0,-0.155,"{'disagree': 0.225, 'light': 0.157}",synonym_antonym
+845,continue,0,-0.156,"{'attack': 0.28, 'change': 0.21}",antonym
+846,stretch,0,-0.156,{'change': 0.21},synonym_antonym
+847,milk,0,-0.157,"{'cool': 0.838, 'solid': 0.85}",synonym_antonym
+848,replaced,0,-0.157,"{'show': 0.286, 'natural': 0.186, 'raise': 0.173}",synonym_antonym
+849,asking,0,-0.158,"{'tasteful': 0.224, 'forget': 1.261, 'disagree': 0.225, 'issue': 0.816}",synonym_antonym
+850,doom,0,-0.158,{'success': 0.485},antonym
+851,ignore,0,-0.158,"{'fame': 0.15, 'increase': 0.226}",antonym
+852,demonic,0,-0.159,"{'good': 1.191, 'pleasant': 1.106}",antonym
+853,functional,0,-0.159,"{'light': 0.157, 'clear': 0.402}",synonym_antonym
+854,grotesque,1,-0.159,{'beautiful': 1.276},antonym
+855,make,0,-0.159,{'mind': 0.324},synonym_antonym
+856,redeem,0,-0.159,{'disagree': 0.225},synonym_antonym
+857,rental,0,-0.159,{'strength': 0.357},antonym
+858,shatter,0,-0.159,"{'success': 0.485, 'rich': 0.369}",antonym
+859,untalented,1,-0.159,"{'talented': 0.318, 'gifted': 0.166}",antonym
+860,abandoned,1,-0.16,{'new': 0.213},antonym
+861,disgust,1,-0.16,"{'male': 0.267, 'love': 1.129}",synonym_antonym
+862,photo,0,-0.16,"{'top': 0.44, 'rise': 0.159, 'wild': 0.158, 'intense': 0.572, 'day': 0.351, 'relax': 0.853, 'promote': 0.244, 'moving': 0.272, 'sound': 0.192}",synonym_antonym
+863,tell,0,-0.16,"{'increase': 0.226, 'right': 0.233, 'praise': 0.513, 'finish': 0.874, 'end': 0.428, 'middle': 0.194, 'focus': 0.208, 'real': 0.164, 'found': 0.198}",synonym_antonym
+864,backs,0,-0.161,"{'beginning': 0.199, 'middle': 0.194}",synonym_antonym
+865,chase,0,-0.161,{'rise': 0.159},antonym
+866,crime,0,-0.161,{'best': 1.267},antonym
+867,da,0,-0.161,{'tasteful': 0.224},antonym
+868,drink,0,-0.161,{'cool': 0.838},antonym
+869,melodrama,0,-0.161,{'tragedy': 0.0},oov_antonym
+870,warning,0,-0.161,{'encouraging': 0.373},antonym
+871,weakness,1,-0.161,{'perfection': 0.527},antonym
+872,wholly,0,-0.161,{'partly': 0.169},antonym
+873,contain,0,-0.162,{'attack': 0.28},synonym_antonym
+874,dread,0,-0.162,{'timid': 0.218},synonym_antonym
+875,parody,0,-0.162,"{'natural': 0.186, 'genuine': 0.174, 'honest': 0.387, 'right': 0.233, 'correct': 0.447}",synonym_antonym
+876,pride,0,-0.162,{'happiness': 0.323},antonym
+877,ship,0,-0.162,"{'male': 0.267, 'finish': 0.874, 'fire': 0.236, 'better': 0.257, 'increase': 0.226, 'top': 0.44, 'natural': 0.186, 'tough': 0.329, 'end': 0.428, 'die': 0.407}",synonym_antonym
+878,tossing,0,-0.162,"{'national': 0.179, 'freeze': 0.24}",synonym_antonym
+879,tune,0,-0.162,{'end': 0.428},antonym
+880,happening,0,-0.163,"{'beginning': 0.199, 'success': 0.485}",antonym
+881,help,0,-0.163,"{'rise': 0.159, 'increase': 0.226, 'forget': 1.261}",synonym_antonym
+882,judge,0,-0.163,"{'forget': 1.261, 'disagree': 0.225, 'win': 0.235}",synonym_antonym
+883,percent,0,-0.163,{'end': 0.428},synonym_antonym
+884,blonde,0,-0.164,{'extraordinary': 0.249},antonym
+885,give,0,-0.164,{'disagree': 0.225},synonym_antonym
+886,hurt,0,-0.164,"{'have': 0.206, 'successful': 0.395, 'pleasure': 0.408, 'success': 0.485, 'better': 0.257}",synonym_antonym
+887,november,0,-0.164,{'day': 0.351},antonym
+888,overbearing,0,-0.164,{'modest': 0.236},antonym
+889,then,0,-0.164,"{'end': 0.428, 'beginning': 0.199, 'middle': 0.194}",antonym
+890,corniest,1,-0.165,{'creative': 0.503},antonym
+891,explains,0,-0.165,"{'exciting': 1.311, 'twist': 0.306, 'praise': 0.513, 'extraordinary': 0.249}",synonym_antonym
+892,take,0,-0.165,{'block': 0.313},antonym
+893,thumb,0,-0.165,{'action': 0.211},antonym
+894,careless,1,-0.166,{'careful': 0.288},antonym
+895,explain,0,-0.166,"{'exciting': 1.311, 'twist': 0.306, 'praise': 0.513, 'extraordinary': 0.249}",synonym_antonym
+896,practical,0,-0.166,{'creative': 0.503},synonym_antonym
+897,wood,0,-0.166,"{'superior': 0.431, 'fortunate': 0.179, 'right': 0.233, 'colorful': 0.252}",synonym_antonym
+898,father,0,-0.167,{'child': 0.367},antonym
+899,standard,0,-0.167,{'unusual': 0.16},antonym
+900,calm,0,-0.168,{'warm': 0.558},synonym_antonym
+901,pop,0,-0.168,"{'raised': 0.292, 'safe': 0.155}",antonym
+902,roughly,0,-0.168,{'many': 0.203},antonym
+903,internal,0,-0.169,{'outdoor': 0.204},antonym
+904,commenting,0,-0.17,"{'praise': 0.513, 'extraordinary': 0.249}",antonym
+905,fashion,0,-0.17,"{'moving': 0.272, 'sound': 0.192, 'better': 0.257}",synonym_antonym
+906,fathom,0,-0.17,{'end': 0.428},synonym_antonym
+907,filth,1,-0.17,{'nice': 0.42},antonym
+908,gestures,0,-0.17,"{'rise': 0.159, 'follow': 0.245, 'opening': 0.234, 'disagree': 0.225}",synonym_antonym
+909,immature,1,-0.17,{'tough': 0.329},antonym
+910,iron,0,-0.17,"{'cool': 0.838, 'genuine': 0.174}",synonym_antonym
+911,renting,0,-0.17,"{'buy': 0.169, 'strength': 0.357}",synonym_antonym
+912,surprise,0,-0.17,"{'rise': 0.159, 'follow': 0.245, 'middle': 0.194, 'high': 0.418, 'intense': 0.572}",synonym_antonym
+913,discussion,0,-0.171,{'pro': 0.178},antonym
+914,instance,0,-0.171,"{'beginning': 0.199, 'success': 0.485}",antonym
+915,motivated,1,-0.171,{'easy': 0.679},synonym_antonym
+916,now,0,-0.171,{'indirectly': 0.0},oov_antonym
+917,stack,0,-0.171,{'disagree': 0.225},antonym
+918,cinema,0,-0.172,"{'simple': 0.516, 'natural': 0.186}",antonym
+919,cities,0,-0.172,{'disagree': 0.225},antonym
+920,ground,0,-0.172,"{'leave': 0.224, 'figure': 1.145, 'middle': 0.194, 'national': 0.179, 'colorful': 0.252, 'complex': 0.323, 'strength': 0.357, 'increase': 0.226, 'high': 0.418, 'intense': 0.572}",synonym_antonym
+921,stinker,0,-0.172,{'superior': 0.431},antonym
+922,charm,0,-0.173,"{'seductive': 0.232, 'beautiful': 1.276, 'appealing': 0.166}",synonym_antonym
+923,death,0,-0.173,"{'beginning': 0.199, 'middle': 0.194, 'focus': 0.208, 'better': 0.257, 'increase': 0.226, 'cool': 0.838, 'dry': 0.197, 'clean': 0.79, 'careful': 0.288}",synonym_antonym
+924,awarded,0,-0.174,{'disagree': 0.225},synonym_antonym
+925,capturing,0,-0.174,{'attack': 0.28},antonym
+926,corpse,0,-0.174,{'easy': 0.679},synonym_antonym
+927,pool,0,-0.174,{'promote': 0.244},antonym
+928,ring,0,-0.174,"{'silence': 0.165, 'rise': 0.159, 'follow': 0.245}",synonym_antonym
+929,whiny,0,-0.174,"{'easy': 0.679, 'relax': 0.853}",synonym_antonym
+930,butcher,0,-0.175,"{'focus': 0.208, 'cool': 0.838, 'beginning': 0.199, 'success': 0.485}",synonym_antonym
+931,choices,0,-0.175,"{'praise': 0.513, 'beginning': 0.199}",synonym_antonym
+932,demanding,0,-0.175,"{'easy': 0.679, 'rich': 0.369}",antonym
+933,lacked,1,-0.175,"{'have': 0.206, 'comedy': 0.592, 'distribution': 0.176}",synonym_antonym
+934,sue,0,-0.175,{'increase': 0.226},antonym
+935,talked,0,-0.175,"{'high': 0.418, 'intense': 0.572, 'rise': 0.159, 'voice': 0.333, 'welcome': 0.267, 'attack': 0.28, 'change': 0.21, 'praise': 0.513, 'cross': 0.214}",synonym_antonym
+936,wretched,0,-0.175,{'superior': 0.431},antonym
+937,angels,0,-0.176,{'parent': 0.162},synonym_antonym
+938,episodes,0,-0.176,"{'comedy': 0.592, 'dramatic': 0.21}",antonym
+939,groom,0,-0.176,{'winner': 0.375},synonym_antonym
+940,portion,0,-0.176,"{'end': 0.428, 'beginning': 0.199, 'middle': 0.194}",antonym
+941,storm,0,-0.176,{'pro': 0.178},synonym_antonym
+942,birth,0,-0.177,"{'end': 0.428, 'middle': 0.194}",antonym
+943,determination,0,-0.177,"{'middle': 0.194, 'there': 0.279, 'south': 0.385, 'disagree': 0.225, 'praise': 0.513}",synonym_antonym
+944,falling,0,-0.177,{'increase': 0.226},synonym_antonym
+945,slaps,0,-0.177,{'promote': 0.244},antonym
+946,till,0,-0.177,{'die': 0.407},antonym
+947,wonders,0,-0.177,{'interesting': 0.734},antonym
+948,accused,0,-0.178,{'trust': 0.285},antonym
+949,arrow,0,-0.178,"{'disagree': 0.225, 'middle': 0.194, 'right': 0.233}",synonym_antonym
+950,food,0,-0.178,"{'cool': 0.838, 'strength': 0.357, 'right': 0.233, 'tough': 0.329, 'solid': 0.85, 'finish': 0.874, 'fire': 0.236}",synonym_antonym
+951,tiny,0,-0.178,"{'important': 0.151, 'high': 0.418}",antonym
+952,achieved,0,-0.179,"{'follow': 0.245, 'disagree': 0.225, 'action': 0.211, 'natural': 0.186, 'end': 0.428}",synonym_antonym
+953,golf,0,-0.179,{'praise': 0.513},antonym
+954,manner,0,-0.179,"{'moving': 0.272, 'sound': 0.192, 'better': 0.257}",synonym_antonym
+955,mature,0,-0.179,"{'praise': 0.513, 'die': 0.407}",synonym_antonym
+956,rumor,0,-0.179,"{'direct': 0.233, 'praise': 0.513}",antonym
+957,interview,0,-0.18,{'praise': 0.513},synonym_antonym
+958,joins,0,-0.18,{'end': 0.428},synonym_antonym
+959,submarine,0,-0.18,"{'surface': 0.241, 'focus': 0.208}",synonym_antonym
+960,jimmy,0,-0.181,{'increase': 0.226},synonym_antonym
+961,useful,0,-0.181,{'effective': 0.393},synonym_antonym
+962,cooking,0,-0.182,"{'cool': 0.838, 'finish': 0.874}",antonym
+963,yard,0,-0.182,{'buy': 0.169},antonym
+964,contrived,1,-0.183,{'natural': 0.186},antonym
+965,race,0,-0.183,"{'rise': 0.159, 'follow': 0.245, 'tasteful': 0.224, 'superior': 0.431, 'dry': 0.197, 'fast': 0.376, 'raise': 0.173}",synonym_antonym
+966,worry,0,-0.183,"{'timid': 0.218, 'child': 0.367}",synonym_antonym
+967,fumbling,0,-0.184,{'competent': 0.191},antonym
+968,main,0,-0.184,{'genuine': 0.174},antonym
+969,naive,0,-0.184,"{'informed': 0.227, 'sophisticated': 0.296}",antonym
+970,slick,0,-0.184,"{'better': 0.257, 'truth': 0.156}",synonym_antonym
+971,were,0,-0.184,{'change': 0.21},antonym
+972,except,0,-0.185,{'mind': 0.324},antonym
+973,newcomers,0,-0.185,{'last': 0.341},antonym
+974,unsatisfying,1,-0.185,{'on': 0.161},synonym_antonym
+975,blows,0,-0.186,"{'beautiful': 1.276, 'genuine': 0.174, 'right': 0.233, 'superior': 0.431, 'hope': 0.205, 'promote': 0.244, 'increase': 0.226, 'disagree': 0.225, 'freeze': 0.24, 'buy': 0.169, 'separate': 0.217, 'rise': 0.159, 'follow': 0.245, 'praise': 0.513, 'top': 0.44, 'pleasure': 0.408}",synonym_antonym
+976,culture,0,-0.186,{'perfect': 1.101},antonym
+977,secret,0,-0.186,"{'light': 0.157, 'day': 0.351}",synonym_antonym
+978,lived,0,-0.187,{'careful': 0.288},antonym
+979,psyche,0,-0.187,{'aware': 0.282},antonym
+980,ran,0,-0.187,{'winner': 0.375},antonym
+981,summary,0,-0.187,{'truth': 0.156},antonym
+982,wit,0,-0.187,"{'well': 0.671, 'natural': 0.186, 'genuine': 0.174, 'finish': 0.874, 'successful': 0.395, 'leave': 0.224, 'honest': 0.387, 'right': 0.233, 'correct': 0.447, 'addition': 0.382}",synonym_antonym
+983,antics,0,-0.188,{'beautiful': 1.276},antonym
+984,do,0,-0.188,{'mind': 0.324},synonym_antonym
+985,followed,0,-0.188,{'raise': 0.173},antonym
+986,line,0,-0.188,"{'fire': 0.236, 'clean': 0.79}",antonym
+987,burn,0,-0.189,{'success': 0.485},antonym
+988,depths,0,-0.189,"{'deep': 0.239, 'high': 0.418}",antonym
+989,wonderland,0,-0.189,{'leave': 0.224},antonym
+990,bear,0,-0.19,{'change': 0.21},antonym
+991,curse,0,-0.19,"{'high': 0.418, 'voice': 0.333}",synonym_antonym
+992,growing,0,-0.19,"{'there': 0.279, 'perfect': 1.101}",synonym_antonym
+993,incompetence,1,-0.19,{'good': 1.191},synonym_antonym
+994,shots,0,-0.19,{'promote': 0.244},antonym
+995,melodramatic,0,-0.191,{'comedy': 0.592},synonym_antonym
+996,sequels,0,-0.191,{'middle': 0.194},antonym
+997,narrator,0,-0.192,{'warm': 0.558},synonym_antonym
+998,teenagers,0,-0.192,{'superior': 0.431},antonym
+999,border,0,-0.193,{'silence': 0.165},antonym
+1000,cost,0,-0.193,"{'tasteful': 0.224, 'focus': 0.208, 'basic': 0.405, 'essential': 0.208}",synonym_antonym
+1001,defeat,0,-0.193,"{'beginning': 0.199, 'success': 0.485, 'good': 1.191, 'harmless': 0.257, 'freeze': 0.24, 'enjoy': 0.396, 'fire': 0.236, 'raise': 0.173}",synonym_antonym
+1002,ego,0,-0.193,{'follow': 0.245},antonym
+1003,failures,0,-0.193,{'beginning': 0.199},antonym
+1004,laughed,0,-0.193,"{'hoot': 0.237, 'yelling': 0.337}",synonym_antonym
+1005,reasonably,0,-0.194,{'good': 1.191},antonym
+1006,said,0,-0.194,"{'other': 0.376, 'varied': 0.241, 'unlike': 0.214}",antonym
+1007,sleazy,1,-0.194,"{'superior': 0.431, 'best': 1.267, 'high': 0.418}",antonym
+1008,attempted,0,-0.195,{'successful': 0.395},antonym
+1009,bleak,0,-0.195,"{'light': 0.157, 'encouraging': 0.373, 'possible': 0.265, 'distinct': 0.159}",synonym_antonym
+1010,consideration,0,-0.195,"{'thoughtful': 0.344, 'forget': 1.261}",synonym_antonym
+1011,expense,0,-0.195,"{'basic': 0.405, 'essential': 0.208}",antonym
+1012,stinking,0,-0.195,"{'good': 1.191, 'clean': 0.79}",antonym
+1013,wow,0,-0.195,{'well': 0.671},synonym_antonym
+1014,ambiance,0,-0.196,{'comfort': 0.391},antonym
+1015,failing,0,-0.196,{'beginning': 0.199},synonym_antonym
+1016,garbage,1,-0.196,{'believe': 0.48},synonym_antonym
+1017,nominations,0,-0.196,"{'middle': 0.194, 'beginning': 0.199}",synonym_antonym
+1018,palms,0,-0.196,"{'middle': 0.194, 'right': 0.233}",synonym_antonym
+1019,review,0,-0.196,"{'disagree': 0.225, 'forget': 1.261}",synonym_antonym
+1020,whatsoever,0,-0.196,{'many': 0.203},antonym
+1021,epic,0,-0.197,"{'soft': 0.905, 'light': 0.157, 'timid': 0.218}",synonym_antonym
+1022,gathering,0,-0.197,{'inaccurate': 0.196},synonym_antonym
+1023,tragedy,0,-0.197,{'dramatic': 0.21},antonym
+1024,unaffected,0,-0.197,{'sensitive': 0.392},antonym
+1025,begins,0,-0.198,{'end': 0.428},antonym
+1026,fired,0,-0.198,{'effective': 0.393},synonym_antonym
+1027,intends,0,-0.198,"{'follow': 0.245, 'relax': 0.853}",synonym_antonym
+1028,needed,0,-0.198,{'unnecessary': 0.299},antonym
+1029,property,0,-0.198,"{'strength': 0.357, 'disagree': 0.225, 'leave': 0.224, 'poverty': 0.231, 'perfection': 0.527}",synonym_antonym
+1030,significant,1,-0.198,{'soft': 0.905},synonym_antonym
+1031,standards,0,-0.198,{'unusual': 0.16},antonym
+1032,number,0,-0.199,"{'many': 0.203, 'more': 0.254, 'increase': 0.226, 'minor': 1.043}",synonym_antonym
+1033,punching,0,-0.199,{'show': 0.286},synonym_antonym
+1034,editing,0,-0.2,{'increase': 0.226},antonym
+1035,moronic,1,-0.2,{'intelligent': 0.988},antonym
+1036,skills,0,-0.2,{'powerful': 1.169},antonym
+1037,sneak,0,-0.2,"{'follow': 0.245, 'male': 0.267, 'opening': 0.234}",synonym_antonym
+1038,cheesy,1,-0.201,"{'superior': 0.431, 'expensive': 0.909}",antonym
+1039,land,0,-0.201,"{'leave': 0.224, 'strength': 0.357}",synonym_antonym
+1040,start,0,-0.201,{'end': 0.428},antonym
+1041,war,0,-0.201,{'relax': 0.853},synonym_antonym
+1042,paintings,0,-0.202,"{'dry': 0.197, 'tasteful': 0.224}",synonym_antonym
+1043,product,0,-0.203,"{'buy': 0.169, 'fire': 0.236, 'clean': 0.79, 'light': 0.157, 'right': 0.233}",synonym_antonym
+1044,read,0,-0.203,{'freeze': 0.24},synonym_antonym
+1045,throws,0,-0.203,"{'better': 0.257, 'relax': 0.853, 'raise': 0.173, 'freeze': 0.24, 'correct': 0.447, 'pleased': 0.526, 'rise': 0.159, 'disagree': 0.225}",synonym_antonym
+1046,videos,0,-0.203,{'silence': 0.165},antonym
+1047,walk,0,-0.203,{'opening': 0.234},antonym
+1048,colours,0,-0.204,{'increase': 0.226},antonym
+1049,grease,0,-0.204,{'show': 0.286},synonym_antonym
+1050,train,0,-0.204,{'die': 0.407},antonym
+1051,chapters,0,-0.205,"{'beginning': 0.199, 'finish': 0.874}",synonym_antonym
+1052,motivations,0,-0.205,{'pure': 0.442},antonym
+1053,proud,0,-0.205,{'modest': 0.236},antonym
+1054,wants,0,-0.205,"{'have': 0.206, 'wish': 0.32, 'easy': 0.679, 'forget': 1.261, 'better': 0.257, 'success': 0.485}",synonym_antonym
+1055,mail,0,-0.206,{'rise': 0.159},antonym
+1056,misery,0,-0.206,"{'comfort': 0.391, 'pleasure': 0.408, 'happy': 0.522}",antonym
+1057,peril,0,-0.206,"{'real': 0.164, 'trust': 0.285, 'sound': 0.192}",synonym_antonym
+1058,suited,0,-0.206,{'disagree': 0.225},antonym
+1059,unfocused,0,-0.206,{'focused': 0.472},synonym_antonym
+1060,capture,0,-0.207,{'attack': 0.28},antonym
+1061,expressions,0,-0.207,"{'figure': 1.145, 'light': 0.157, 'follow': 0.245, 'enjoy': 0.396}",synonym_antonym
+1062,pictures,0,-0.207,"{'moving': 0.272, 'sound': 0.192}",antonym
+1063,starting,0,-0.207,"{'end': 0.428, 'middle': 0.194}",antonym
+1064,escape,0,-0.208,"{'truth': 0.156, 'sexual': 0.362, 'raise': 0.173}",synonym_antonym
+1065,mentioning,0,-0.208,{'rich': 0.369},antonym
+1066,brains,0,-0.209,{'follow': 0.245},antonym
+1067,grasp,0,-0.209,{'disagree': 0.225},antonym
+1068,intentions,0,-0.209,"{'aware': 0.282, 'better': 0.257, 'relax': 0.853, 'forget': 1.261}",synonym_antonym
+1069,nobody,0,-0.209,{'dry': 0.197},antonym
+1070,passionate,0,-0.209,"{'cool': 0.838, 'full': 0.252, 'clean': 0.79}",synonym_antonym
+1071,queen,0,-0.209,{'king': 0.226},synonym_antonym
+1072,stolen,0,-0.209,"{'end': 0.428, 'promote': 0.244, 'block': 0.313, 'high': 0.418, 'long': 0.312, 'action': 0.211, 'attack': 0.28, 'freeze': 0.24, 'dry': 0.197, 'cool': 0.838, 'buy': 0.169, 'beginning': 0.199, 'disagree': 0.225, 'fire': 0.236}",synonym_antonym
+1073,strings,0,-0.21,"{'end': 0.428, 'beginning': 0.199, 'middle': 0.194}",antonym
+1074,sickening,0,-0.211,{'well': 0.671},antonym
+1075,television,0,-0.211,{'silence': 0.165},antonym
+1076,unappealing,1,-0.211,{'kind': 0.528},antonym
+1077,attention,0,-0.212,"{'follow': 0.245, 'praise': 0.513, 'finish': 0.874}",synonym_antonym
+1078,coupled,0,-0.212,{'separate': 0.217},synonym_antonym
+1079,excuses,0,-0.212,{'colorful': 0.252},antonym
+1080,existence,0,-0.212,"{'possible': 0.265, 'present': 0.661}",synonym_antonym
+1081,nor,0,-0.212,"{'end': 0.428, 'beginning': 0.199, 'middle': 0.194}",antonym
+1082,pussy,0,-0.212,"{'top': 0.44, 'rise': 0.159}",synonym_antonym
+1083,unbelievable,0,-0.212,{'convincing': 0.692},antonym
+1084,community,0,-0.213,"{'beginning': 0.199, 'middle': 0.194}",synonym_antonym
+1085,pivotal,0,-0.213,{'hot': 0.808},antonym
+1086,beware,0,-0.214,{'forget': 1.261},antonym
+1087,disability,1,-0.214,"{'rise': 0.159, 'good': 1.191, 'beginning': 0.199, 'well': 0.671, 'sound': 0.192, 'better': 0.257, 'praise': 0.513, 'increase': 0.226}",synonym_antonym
+1088,revolves,0,-0.215,{'die': 0.407},antonym
+1089,seem,0,-0.215,"{'disagree': 0.225, 'simple': 0.516, 'buy': 0.169, 'better': 0.257, 'praise': 0.513, 'increase': 0.226, 'focus': 0.208, 'change': 0.21}",synonym_antonym
+1090,saturday,0,-0.216,{'day': 0.351},synonym_antonym
+1091,dance,0,-0.217,"{'rise': 0.159, 'follow': 0.245}",synonym_antonym
+1092,curio,0,-0.218,"{'unexpected': 0.263, 'strength': 0.357, 'beginning': 0.199, 'middle': 0.194}",synonym_antonym
+1093,point,0,-0.218,{'right': 0.233},antonym
+1094,redundant,0,-0.218,"{'necessary': 0.327, 'essential': 0.208}",antonym
+1095,bizarre,1,-0.219,{'tough': 0.329},antonym
+1096,liberal,0,-0.219,"{'timid': 0.218, 'right': 0.233}",synonym_antonym
+1097,tortures,1,-0.219,{'pleasure': 0.408},antonym
+1098,trying,0,-0.219,{'easy': 0.679},antonym
+1099,dragged,0,-0.22,{'disagree': 0.225},antonym
+1100,instant,0,-0.22,"{'former': 0.8, 'superior': 0.431, 'dry': 0.197, 'tasteful': 0.224}",synonym_antonym
+1101,compensate,0,-0.221,{'inaccurate': 0.196},antonym
+1102,credible,0,-0.222,{'incredible': 0.686},antonym
+1103,same,0,-0.222,{'other': 0.376},antonym
+1104,backdrops,0,-0.223,"{'day': 0.351, 'figure': 1.145}",synonym_antonym
+1105,evils,0,-0.223,"{'right': 0.233, 'good': 1.191}",antonym
+1106,spell,0,-0.223,{'disagree': 0.225},synonym_antonym
+1107,subsequent,0,-0.223,"{'basic': 0.405, 'essential': 0.208}",antonym
+1108,viewer,0,-0.223,"{'beautiful': 1.276, 'male': 0.267}",synonym_antonym
+1109,cans,0,-0.224,{'rise': 0.159},synonym_antonym
+1110,much,0,-0.224,"{'necessary': 0.327, 'many': 0.203}",synonym_antonym
+1111,terrifying,0,-0.224,"{'encourage': 0.151, 'hope': 0.205}",synonym_antonym
+1112,bats,0,-0.225,{'clean': 0.79},antonym
+1113,dick,0,-0.225,{'disagree': 0.225},synonym_antonym
+1114,grant,0,-0.225,{'enjoy': 0.396},synonym_antonym
+1115,irony,0,-0.225,{'leave': 0.224},synonym_antonym
+1116,sacrifices,0,-0.225,{'buy': 0.169},synonym_antonym
+1117,turn,0,-0.225,{'promote': 0.244},antonym
+1118,union,0,-0.225,"{'finish': 0.874, 'universal': 0.182}",synonym_antonym
+1119,bitch,0,-0.226,"{'complex': 0.323, 'follow': 0.245}",synonym_antonym
+1120,debut,0,-0.226,"{'finish': 0.874, 'end': 0.428}",antonym
+1121,follows,0,-0.226,{'raise': 0.173},antonym
+1122,figured,0,-0.227,{'new': 0.213},synonym_antonym
+1123,harsh,0,-0.227,"{'pleasant': 1.106, 'superior': 0.431}",antonym
+1124,ready,0,-0.227,"{'cross': 0.214, 'new': 0.213, 'prepared': 1.03}",synonym_antonym
+1125,requires,0,-0.227,"{'block': 0.313, 'inaccurate': 0.196}",synonym_antonym
+1126,scene,0,-0.227,{'day': 0.351},antonym
+1127,serial,0,-0.227,"{'parent': 0.162, 'block': 0.313}",antonym
+1128,fat,0,-0.228,"{'light': 0.157, 'high': 0.418, 'important': 0.151, 'smart': 0.833, 'hopeless': 0.159, 'clear': 0.402}",synonym_antonym
+1129,fatal,0,-0.228,{'male': 0.267},antonym
+1130,goofy,1,-0.228,"{'smart': 0.833, 'cool': 0.838, 'clean': 0.79}",synonym_antonym
+1131,argument,0,-0.229,{'truth': 0.156},antonym
+1132,hints,0,-0.229,{'rise': 0.159},synonym_antonym
+1133,lesson,0,-0.229,{'buy': 0.169},synonym_antonym
+1134,struggle,0,-0.229,{'fire': 0.236},antonym
+1135,weakest,1,-0.229,"{'tough': 0.329, 'powerful': 1.169, 'strong': 0.651}",antonym
+1136,amateurish,1,-0.23,"{'professional': 0.89, 'competent': 0.191, 'good': 1.191}",antonym
+1137,discover,0,-0.23,{'praise': 0.513},synonym_antonym
+1138,holding,0,-0.23,{'strength': 0.357},antonym
+1139,material,0,-0.23,"{'male': 0.267, 'cool': 0.838, 'dry': 0.197, 'follow': 0.245, 'national': 0.179, 'finish': 0.874, 'increase': 0.226}",synonym_antonym
+1140,sassy,0,-0.23,"{'timid': 0.218, 'pleasure': 0.408, 'dry': 0.197}",synonym_antonym
+1141,seemed,0,-0.23,"{'disagree': 0.225, 'simple': 0.516, 'buy': 0.169, 'better': 0.257, 'praise': 0.513, 'increase': 0.226, 'focus': 0.208, 'change': 0.21}",synonym_antonym
+1142,exists,0,-0.231,"{'change': 0.21, 'disagree': 0.225, 'leave': 0.224, 'mind': 0.324, 'action': 0.211, 'attack': 0.28}",synonym_antonym
+1143,under,0,-0.231,"{'high': 0.418, 'superior': 0.431}",antonym
+1144,con,0,-0.232,"{'pro': 0.178, 'long': 0.312}",antonym
+1145,decide,0,-0.232,"{'increase': 0.226, 'soft': 0.905, 'block': 0.313, 'disagree': 0.225, 'inaccurate': 0.196, 'relevant': 1.131, 'beginning': 0.199, 'middle': 0.194}",synonym_antonym
+1146,dud,0,-0.232,{'winner': 0.375},antonym
+1147,pregnancy,0,-0.233,"{'end': 0.428, 'beginning': 0.199, 'raise': 0.173, 'male': 0.267, 'universal': 0.182, 'best': 1.267}",synonym_antonym
+1148,build,0,-0.234,{'focus': 0.208},synonym_antonym
+1149,drab,1,-0.234,{'lively': 0.302},antonym
+1150,carrying,0,-0.235,{'right': 0.233},antonym
+1151,hitting,0,-0.235,{'rise': 0.159},antonym
+1152,wins,0,-0.235,"{'right': 0.233, 'attack': 0.28, 'block': 0.313, 'relax': 0.853, 'middle': 0.194}",synonym_antonym
+1153,comparison,0,-0.236,"{'connected': 0.264, 'forget': 1.261, 'addition': 0.382}",synonym_antonym
+1154,feed,0,-0.236,{'dry': 0.197},synonym_antonym
+1155,tool,0,-0.236,"{'rise': 0.159, 'high': 0.418, 'die': 0.407, 'good': 1.191, 'harmless': 0.257, 'interest': 0.472, 'increase': 0.226, 'twist': 0.306, 'truth': 0.156, 'cool': 0.838}",synonym_antonym
+1156,woefully,0,-0.236,{'happily': 0.333},antonym
+1157,overrated,0,-0.237,"{'better': 0.257, 'light': 0.157}",synonym_antonym
+1158,primitive,0,-0.237,"{'late': 0.157, 'male': 0.267}",antonym
+1159,provides,0,-0.237,"{'block': 0.313, 'freeze': 0.24, 'separate': 0.217, 'better': 0.257, 'disagree': 0.225, 'necessary': 0.327, 'status': 0.227, 'increase': 0.226, 'end': 0.428, 'human': 0.489, 'silence': 0.165, 'follow': 0.245, 'beginning': 0.199, 'tasteful': 0.224, 'truth': 0.156, 'pro': 0.178, 'fire': 0.236, 'long': 0.312, 'high': 0.418, 'intense': 0.572, 'surface': 0.241, 'focus': 0.208, 'universal': 0.182}",synonym_antonym
+1160,taxi,0,-0.237,{'rise': 0.159},antonym
+1161,unnatural,1,-0.237,{'natural': 0.186},antonym
+1162,generation,0,-0.238,"{'timid': 0.218, 'rich': 0.369}",synonym_antonym
+1163,husband,0,-0.238,{'absolute': 0.236},synonym_antonym
+1164,near,0,-0.238,"{'cool': 0.838, 'full': 0.252, 'right': 0.233}",synonym_antonym
+1165,ripped,0,-0.239,"{'end': 0.428, 'relax': 0.853}",synonym_antonym
+1166,slowly,0,-0.239,{'early': 0.361},antonym
+1167,turkey,0,-0.24,"{'success': 0.485, 'rise': 0.159}",antonym
+1168,advances,0,-0.241,"{'rise': 0.159, 'follow': 0.245}",synonym_antonym
+1169,glorious,1,-0.241,"{'questionable': 0.248, 'dry': 0.197}",synonym_antonym
+1170,group,0,-0.241,"{'parent': 0.162, 'block': 0.313, 'freeze': 0.24, 'timid': 0.218, 'right': 0.233, 'increase': 0.226, 'rich': 0.369, 'finish': 0.874, 'varied': 0.241, 'reality': 0.769}",synonym_antonym
+1171,songs,0,-0.241,"{'soft': 0.905, 'praise': 0.513, 'attack': 0.28, 'happiness': 0.323, 'beginning': 0.199, 'middle': 0.194, 'relax': 0.853, 'professional': 0.89, 'cool': 0.838}",synonym_antonym
+1172,fantasy,0,-0.242,"{'real': 0.164, 'creative': 0.503}",synonym_antonym
+1173,link,0,-0.242,"{'forget': 1.261, 'welcome': 0.267, 'disagree': 0.225, 'nice': 0.42}",synonym_antonym
+1174,random,0,-0.242,{'careful': 0.288},antonym
+1175,shifts,0,-0.242,"{'rise': 0.159, 'follow': 0.245}",synonym_antonym
+1176,compelled,0,-0.243,"{'rise': 0.159, 'follow': 0.245, 'tasteful': 0.224, 'buy': 0.169, 'cool': 0.838, 'love': 1.129, 'opening': 0.234}",synonym_antonym
+1177,side,0,-0.243,{'die': 0.407},antonym
+1178,skipping,0,-0.243,{'better': 0.257},antonym
+1179,sleep,0,-0.243,{'promote': 0.244},synonym_antonym
+1180,due,0,-0.244,"{'parent': 0.162, 'asset': 0.205, 'unexpected': 0.263, 'careful': 0.288}",synonym_antonym
+1181,forgive,0,-0.244,{'disagree': 0.225},antonym
+1182,french,0,-0.244,{'leave': 0.224},antonym
+1183,irritating,0,-0.244,{'good': 1.191},synonym_antonym
+1184,schlock,0,-0.244,{'buy': 0.169},antonym
+1185,student,0,-0.244,"{'moon': 0.381, 'minor': 1.043, 'winner': 0.375, 'male': 0.267}",synonym_antonym
+1186,laughable,0,-0.245,{'smart': 0.833},antonym
+1187,damn,0,-0.246,"{'good': 1.191, 'superior': 0.431, 'lovable': 0.327}",synonym_antonym
+1188,officer,0,-0.246,{'friendly': 0.286},synonym_antonym
+1189,difference,0,-0.247,"{'finish': 0.874, 'power': 0.839, 'good': 1.191, 'positive': 0.771, 'focus': 0.208, 'better': 0.257, 'increase': 0.226, 'cool': 0.838, 'dry': 0.197, 'clean': 0.79}",synonym_antonym
+1190,guaranteed,0,-0.247,{'disagree': 0.225},antonym
+1191,pierce,0,-0.248,{'end': 0.428},synonym_antonym
+1192,reached,0,-0.248,"{'rise': 0.159, 'follow': 0.245, 'promote': 0.244, 'forget': 1.261, 'action': 0.211, 'praise': 0.513, 'figure': 1.145}",synonym_antonym
+1193,talent,0,-0.249,"{'increase': 0.226, 'win': 0.235, 'creative': 0.503}",synonym_antonym
+1194,branch,0,-0.25,{'beginning': 0.199},antonym
+1195,computer,0,-0.25,"{'high': 0.418, 'intense': 0.572, 'being': 0.217, 'issue': 0.816, 'opening': 0.234, 'buy': 0.169}",synonym_antonym
+1196,hopes,0,-0.25,{'show': 0.286},antonym
+1197,humble,0,-0.25,"{'superior': 0.431, 'rise': 0.159, 'raise': 0.173}",antonym
+1198,pile,0,-0.25,"{'disagree': 0.225, 'buy': 0.169, 'success': 0.485, 'varied': 0.241}",synonym_antonym
+1199,awkward,0,-0.252,{'beautiful': 1.276},synonym_antonym
+1200,expressed,0,-0.252,{'voice': 0.333},synonym_antonym
+1201,fault,0,-0.252,"{'praise': 0.513, 'end': 0.428, 'better': 0.257, 'perfection': 0.527, 'mind': 0.324, 'issue': 0.816, 'focus': 0.208, 'clean': 0.79, 'pure': 0.442, 'increase': 0.226, 'nice': 0.42}",synonym_antonym
+1202,torture,1,-0.252,{'pleasure': 0.408},antonym
+1203,avoiding,0,-0.253,{'truth': 0.156},antonym
+1204,filmdom,0,-0.254,{'show': 0.286},synonym_antonym
+1205,regard,0,-0.254,"{'attack': 0.28, 'welcome': 0.267, 'forget': 1.261}",synonym_antonym
+1206,hurts,0,-0.255,"{'have': 0.206, 'successful': 0.395, 'pleasure': 0.408, 'success': 0.485, 'better': 0.257}",synonym_antonym
+1207,particular,0,-0.255,"{'beginning': 0.199, 'middle': 0.194}",antonym
+1208,hip,0,-0.256,"{'beginning': 0.199, 'middle': 0.194}",synonym_antonym
+1209,final,0,-0.257,"{'opening': 0.234, 'beginning': 0.199, 'middle': 0.194, 'best': 1.267}",antonym
+1210,listened,0,-0.257,"{'increase': 0.226, 'win': 0.235}",synonym_antonym
+1211,politicians,0,-0.257,{'follower': 0.0},oov_antonym
+1212,absurd,1,-0.258,{'meaningful': 0.45},antonym
+1213,key,0,-0.258,"{'disagree': 0.225, 'forget': 1.261}",synonym_antonym
+1214,shoddy,0,-0.258,{'honest': 0.387},antonym
+1215,whatever,0,-0.258,{'many': 0.203},antonym
+1216,sit,0,-0.259,{'action': 0.211},antonym
+1217,snuff,0,-0.259,{'increase': 0.226},synonym_antonym
+1218,urge,0,-0.259,"{'cool': 0.838, 'praise': 0.513, 'raise': 0.173}",synonym_antonym
+1219,posters,0,-0.26,{'praise': 0.513},antonym
+1220,comic,0,-0.261,{'well': 0.671},antonym
+1221,months,0,-0.261,"{'beginning': 0.199, 'middle': 0.194, 'praise': 0.513, 'day': 0.351}",synonym_antonym
+1222,isolation,0,-0.262,"{'show': 0.286, 'love': 1.129}",synonym_antonym
+1223,muddled,1,-0.262,{'distinct': 0.159},antonym
+1224,slap,0,-0.262,{'promote': 0.244},antonym
+1225,faces,0,-0.263,{'follow': 0.245},antonym
+1226,learn,0,-0.263,{'praise': 0.513},antonym
+1227,page,0,-0.263,"{'cross': 0.214, 'cool': 0.838, 'soft': 0.905, 'follow': 0.245}",synonym_antonym
+1228,outrageous,0,-0.264,"{'lovable': 0.327, 'pleasant': 1.106, 'good': 1.191, 'beautiful': 1.276}",synonym_antonym
+1229,preposterous,1,-0.264,{'meaningful': 0.45},antonym
+1230,send,0,-0.264,{'opening': 0.234},antonym
+1231,cartoon,0,-0.265,"{'top': 0.44, 'follow': 0.245, 'raise': 0.173, 'leave': 0.224}",synonym_antonym
+1232,chuck,0,-0.265,{'pleased': 0.526},antonym
+1233,flick,0,-0.265,"{'simple': 0.516, 'beginning': 0.199}",synonym_antonym
+1234,example,0,-0.266,{'last': 0.341},antonym
+1235,merit,0,-0.266,{'disagree': 0.225},antonym
+1236,hanging,0,-0.267,{'disagree': 0.225},antonym
+1237,otherwise,0,-0.267,{'present': 0.661},antonym
+1238,angry,0,-0.268,"{'well': 0.671, 'safe': 0.155, 'light': 0.157}",synonym_antonym
+1239,suffers,1,-0.268,"{'leave': 0.224, 'tasteful': 0.224}",synonym_antonym
+1240,torn,0,-0.268,{'sound': 0.192},synonym_antonym
+1241,destroying,1,-0.269,{'positive': 0.771},antonym
+1242,use,0,-0.269,"{'middle': 0.194, 'praise': 0.513, 'block': 0.313, 'fire': 0.236, 'moving': 0.272, 'cool': 0.838, 'dry': 0.197, 'buy': 0.169}",synonym_antonym
+1243,throwing,0,-0.27,"{'better': 0.257, 'relax': 0.853, 'raise': 0.173, 'freeze': 0.24, 'correct': 0.447, 'pleased': 0.526, 'rise': 0.159, 'disagree': 0.225}",synonym_antonym
+1244,stilted,0,-0.271,"{'natural': 0.186, 'cool': 0.838, 'genuine': 0.174}",synonym_antonym
+1245,trouble,0,-0.271,{'follow': 0.245},synonym_antonym
+1246,address,0,-0.273,"{'middle': 0.194, 'praise': 0.513}",antonym
+1247,breaking,0,-0.273,{'soft': 0.905},antonym
+1248,lie,0,-0.273,{'mind': 0.324},antonym
+1249,lowly,0,-0.273,{'basic': 0.405},antonym
+1250,attempts,0,-0.274,{'best': 1.267},antonym
+1251,international,0,-0.274,{'national': 0.179},antonym
+1252,labored,0,-0.274,{'clear': 0.402},antonym
+1253,stupidest,1,-0.274,"{'intelligent': 0.988, 'smart': 0.833, 'light': 0.157}",antonym
+1254,fell,0,-0.275,{'rise': 0.159},antonym
+1255,act,0,-0.276,{'full': 0.252},synonym_antonym
+1256,biggest,0,-0.276,"{'high': 0.418, 'well': 0.671, 'honest': 0.387, 'soft': 0.905, 'male': 0.267, 'light': 0.157, 'beginning': 0.199, 'success': 0.485, 'sound': 0.192, 'easy': 0.679}",synonym_antonym
+1257,heed,0,-0.276,"{'forget': 1.261, 'aware': 0.282}",synonym_antonym
+1258,amateur,1,-0.277,"{'male': 0.267, 'careful': 0.288, 'professional': 0.89}",synonym_antonym
+1259,dreary,0,-0.277,"{'lively': 0.302, 'light': 0.157}",antonym
+1260,experienced,1,-0.277,"{'soft': 0.905, 'sensitive': 0.392, 'superior': 0.431, 'new': 0.213, 'current': 0.363, 'present': 0.661, 'fresh': 0.345}",synonym_antonym
+1261,stupidity,1,-0.277,"{'distribution': 0.176, 'interesting': 0.734, 'smart': 0.833, 'lively': 0.302}",synonym_antonym
+1262,empty,0,-0.278,{'full': 0.252},antonym
+1263,challenge,0,-0.28,"{'disagree': 0.225, 'attack': 0.28}",synonym_antonym
+1264,standing,0,-0.28,"{'trust': 0.285, 'high': 0.418, 'intense': 0.572, 'important': 0.151, 'right': 0.233, 'believe': 0.48}",synonym_antonym
+1265,disappears,0,-0.282,"{'increase': 0.226, 'rise': 0.159, 'follow': 0.245, 'fast': 0.376, 'interesting': 0.734, 'smart': 0.833, 'present': 0.661}",synonym_antonym
+1266,cardboard,0,-0.283,{'genuine': 0.174},antonym
+1267,directly,0,-0.283,{'indirectness': 0.0},oov_antonym
+1268,disturbed,0,-0.283,{'found': 0.198},synonym_antonym
+1269,adaption,0,-0.284,{'wild': 0.158},antonym
+1270,junk,0,-0.284,{'buy': 0.169},antonym
+1271,retread,0,-0.284,{'increase': 0.226},antonym
+1272,gain,0,-0.286,{'figure': 1.145},antonym
+1273,grade,0,-0.286,{'increase': 0.226},antonym
+1274,narrow,0,-0.286,{'increase': 0.226},synonym_antonym
+1275,originally,0,-0.286,"{'late': 0.157, 'middle': 0.194}",antonym
+1276,woman,0,-0.286,{'male': 0.267},antonym
+1277,desperate,0,-0.287,"{'encouraging': 0.373, 'possible': 0.265, 'distinct': 0.159}",synonym_antonym
+1278,feels,0,-0.287,"{'enjoy': 0.396, 'right': 0.233, 'disagree': 0.225, 'rise': 0.159, 'increase': 0.226, 'show': 0.286, 'success': 0.485, 'happiness': 0.323}",synonym_antonym
+1279,head,0,-0.287,"{'follow': 0.245, 'male': 0.267, 'moving': 0.272, 'praise': 0.513}",synonym_antonym
+1280,law,0,-0.288,{'varied': 0.241},synonym_antonym
+1281,given,0,-0.289,{'questionable': 0.248},synonym_antonym
+1282,justify,0,-0.289,{'attack': 0.28},antonym
+1283,disgusted,1,-0.29,"{'pleased': 0.526, 'well': 0.671}",antonym
+1284,rape,0,-0.29,"{'raise': 0.173, 'success': 0.485}",antonym
+1285,shred,0,-0.29,"{'success': 0.485, 'rich': 0.369}",antonym
+1286,army,0,-0.292,"{'end': 0.428, 'beginning': 0.199, 'being': 0.217}",synonym_antonym
+1287,attract,0,-0.292,"{'beginning': 0.199, 'increase': 0.226, 'relax': 0.853}",synonym_antonym
+1288,photos,0,-0.294,"{'top': 0.44, 'rise': 0.159, 'wild': 0.158, 'intense': 0.572, 'day': 0.351, 'relax': 0.853, 'promote': 0.244, 'moving': 0.272, 'sound': 0.192}",synonym_antonym
+1289,poster,0,-0.294,{'praise': 0.513},antonym
+1290,young,0,-0.295,{'strong': 0.651},antonym
+1291,blind,0,-0.296,{'smart': 0.833},synonym_antonym
+1292,cause,0,-0.297,"{'follow': 0.245, 'beginning': 0.199, 'success': 0.485, 'end': 0.428, 'rise': 0.159, 'better': 0.257}",synonym_antonym
+1293,apparent,0,-0.298,{'complex': 0.323},synonym_antonym
+1294,skimpy,0,-0.298,{'more': 0.254},synonym_antonym
+1295,armed,0,-0.299,{'easy': 0.679},antonym
+1296,mild,0,-0.299,{'intense': 0.572},antonym
+1297,pretensions,0,-0.3,{'natural': 0.186},synonym_antonym
+1298,dealt,0,-0.301,{'right': 0.233},antonym
+1299,less,0,-0.302,"{'more': 0.254, 'high': 0.418}",antonym
+1300,appeal,0,-0.303,{'success': 0.485},synonym_antonym
+1301,city,0,-0.303,{'disagree': 0.225},antonym
+1302,confusion,1,-0.303,"{'happiness': 0.323, 'finish': 0.874}",synonym_antonym
+1303,deal,0,-0.303,{'right': 0.233},antonym
+1304,levels,0,-0.304,"{'high': 0.418, 'intense': 0.572}",antonym
+1305,zero,0,-0.305,{'uncommon': 0.186},synonym_antonym
+1306,am,0,-0.308,{'postmeridian': 0.0},oov_antonym
+1307,humorless,1,-0.308,{'funny': 0.855},antonym
+1308,inappropriate,1,-0.311,{'appropriate': 0.522},antonym
+1309,insult,0,-0.311,{'increase': 0.226},antonym
+1310,ludicrous,1,-0.311,{'meaningful': 0.45},antonym
+1311,rushed,0,-0.312,{'raise': 0.173},synonym_antonym
+1312,terribly,1,-0.312,"{'nice': 0.42, 'pleasant': 1.106}",antonym
+1313,german,0,-0.313,{'absolute': 0.236},antonym
+1314,predictability,0,-0.313,{'sure': 0.265},synonym_antonym
+1315,rises,0,-0.313,{'buy': 0.169},antonym
+1316,wet,0,-0.313,{'dry': 0.197},antonym
+1317,incompetent,1,-0.316,{'professional': 0.89},antonym
+1318,FALSE,0,-0.318,"{'honest': 0.387, 'right': 0.233, 'correct': 0.447, 'genuine': 0.174}",antonym
+1319,foreign,0,-0.318,{'national': 0.179},antonym
+1320,miles,0,-0.318,{'end': 0.428},synonym_antonym
+1321,presented,0,-0.318,"{'late': 0.157, 'early': 0.361, 'middle': 0.194, 'present': 0.661}",synonym_antonym
+1322,surely,0,-0.318,{'unpredictable': 1.253},antonym
+1323,affected,0,-0.319,"{'well': 0.671, 'pleased': 0.526}",synonym_antonym
+1324,difficult,1,-0.32,{'easy': 0.679},antonym
+1325,nonsensical,1,-0.32,{'smart': 0.833},antonym
+1326,colors,0,-0.321,{'increase': 0.226},antonym
+1327,optimistic,0,-0.321,{'hopeless': 0.159},antonym
+1328,stand,0,-0.321,"{'promote': 0.244, 'buy': 0.169}",synonym_antonym
+1329,off,0,-0.322,"{'right': 0.233, 'on': 0.161}",synonym_antonym
+1330,lost,0,-0.323,{'found': 0.198},antonym
+1331,set,0,-0.323,"{'right': 0.233, 'silence': 0.165, 'rise': 0.159, 'action': 0.211, 'change': 0.21, 'follow': 0.245, 'clean': 0.79, 'more': 0.254, 'win': 0.235, 'promote': 0.244, 'fire': 0.236, 'light': 0.157, 'moving': 0.272, 'professional': 0.89, 'opening': 0.234}",synonym_antonym
+1332,revenge,0,-0.324,{'clear': 0.402},antonym
+1333,incoherent,1,-0.327,{'coherent': 0.182},antonym
+1334,unlucky,1,-0.327,"{'fortunate': 0.179, 'lucky': 0.898}",antonym
+1335,psycho,0,-0.328,"{'lucky': 0.898, 'fortunate': 0.179, 'successful': 0.395}",synonym_antonym
+1336,excuse,0,-0.329,{'colorful': 0.252},antonym
+1337,supposed,0,-0.329,{'convincing': 0.692},synonym_antonym
+1338,bags,0,-0.331,"{'interest': 0.472, 'block': 0.313, 'freeze': 0.24, 'disagree': 0.225}",synonym_antonym
+1339,lots,0,-0.331,{'pleasure': 0.408},synonym_antonym
+1340,pee,0,-0.332,"{'clean': 0.79, 'dry': 0.197, 'full': 0.252, 'new': 0.213, 'fresh': 0.345}",synonym_antonym
+1341,potential,0,-0.333,"{'possible': 0.265, 'capable': 0.577}",synonym_antonym
+1342,unpleasant,1,-0.333,"{'nice': 0.42, 'pleasant': 1.106}",antonym
+1343,defense,0,-0.334,{'change': 0.21},antonym
+1344,misfortune,1,-0.334,{'success': 0.485},antonym
+1345,neither,0,-0.334,{'developed': 0.524},synonym_antonym
+1346,stinks,0,-0.334,{'disagree': 0.225},antonym
+1347,cliched,1,-0.335,"{'creative': 0.503, 'fresh': 0.345}",synonym_antonym
+1348,thick,0,-0.335,"{'light': 0.157, 'smart': 0.833, 'hopeless': 0.159, 'high': 0.418}",synonym_antonym
+1349,each,0,-0.336,"{'partly': 0.169, 'several': 0.176}",antonym
+1350,flimsy,0,-0.336,{'strong': 0.651},antonym
+1351,cut,0,-0.337,{'focus': 0.208},antonym
+1352,horrid,0,-0.337,"{'good': 1.191, 'beautiful': 1.276}",antonym
+1353,sake,0,-0.337,"{'right': 0.233, 'increase': 0.226, 'middle': 0.194, 'leave': 0.224}",synonym_antonym
+1354,numbing,0,-0.338,{'sensitive': 0.392},synonym_antonym
+1355,rainy,0,-0.339,{'dry': 0.197},antonym
+1356,add,0,-0.34,"{'natural': 0.186, 'attack': 0.28, 'tasteful': 0.224, 'fire': 0.236, 'silence': 0.165, 'disagree': 0.225}",synonym_antonym
+1357,asleep,1,-0.343,{'aware': 0.282},antonym
+1358,training,0,-0.344,"{'interest': 0.472, 'increase': 0.226, 'forget': 1.261}",synonym_antonym
+1359,write,0,-0.344,"{'disagree': 0.225, 'cool': 0.838, 'praise': 0.513}",synonym_antonym
+1360,unattractive,1,-0.345,{'appealing': 0.166},antonym
+1361,talents,0,-0.346,"{'increase': 0.226, 'win': 0.235, 'creative': 0.503}",synonym_antonym
+1362,targets,0,-0.346,"{'relax': 0.853, 'fire': 0.236}",synonym_antonym
+1363,imagined,0,-0.347,{'enjoy': 0.396},antonym
+1364,stayed,0,-0.347,{'travel': 0.819},antonym
+1365,known,0,-0.348,{'questionable': 0.248},antonym
+1366,noted,0,-0.351,{'questionable': 0.248},synonym_antonym
+1367,obnoxious,1,-0.352,"{'pleasant': 1.106, 'good': 1.191}",synonym_antonym
+1368,armageddon,0,-0.353,{'agreement': 0.0},oov_antonym
+1369,flaws,1,-0.353,"{'perfection': 0.527, 'strength': 0.357, 'power': 0.839}",antonym
+1370,hoping,0,-0.353,{'show': 0.286},antonym
+1371,aspect,0,-0.355,{'figure': 1.145},antonym
+1372,chance,0,-0.355,"{'possible': 0.265, 'happiness': 0.323, 'national': 0.179, 'freeze': 0.24, 'beginning': 0.199, 'success': 0.485, 'promote': 0.244, 'leave': 0.224, 'day': 0.351}",synonym_antonym
+1373,admit,0,-0.356,"{'leave': 0.224, 'disagree': 0.225, 'fire': 0.236}",synonym_antonym
+1374,aside,0,-0.356,{'right': 0.233},synonym_antonym
+1375,features,0,-0.356,{'figure': 1.145},synonym_antonym
+1376,disgrace,0,-0.358,{'increase': 0.226},antonym
+1377,slapped,0,-0.358,{'promote': 0.244},antonym
+1378,hold,0,-0.359,"{'disagree': 0.225, 'rise': 0.159, 'attack': 0.28, 'change': 0.21}",synonym_antonym
+1379,rough,0,-0.359,{'fine': 0.459},antonym
+1380,worthless,1,-0.359,"{'worthy': 0.422, 'found': 0.198}",antonym
+1381,bunch,0,-0.36,{'disagree': 0.225},synonym_antonym
+1382,tiring,0,-0.361,{'easy': 0.679},antonym
+1383,uninteresting,1,-0.361,"{'stimulating': 0.184, 'interesting': 0.734}",synonym_antonym
+1384,outlandish,0,-0.363,{'tough': 0.329},antonym
+1385,zombies,0,-0.363,{'happiness': 0.323},antonym
+1386,sheer,0,-0.364,"{'solid': 0.85, 'clear': 0.402}",antonym
+1387,yawn,0,-0.364,{'change': 0.21},antonym
+1388,accept,0,-0.365,{'welcome': 0.267},antonym
+1389,sex,0,-0.365,"{'male': 0.267, 'sexual': 0.362, 'absolute': 0.236, 'parent': 0.162, 'direct': 0.233, 'end': 0.428, 'middle': 0.194}",synonym_antonym
+1390,rarely,0,-0.367,{'often': 0.322},antonym
+1391,available,0,-0.368,{'complex': 0.323},synonym_antonym
+1392,dancing,0,-0.368,{'fast': 0.376},antonym
+1393,load,0,-0.368,{'light': 0.157},antonym
+1394,problem,0,-0.368,{'follow': 0.245},antonym
+1395,roll,0,-0.37,{'freeze': 0.24},antonym
+1396,concept,0,-0.372,{'strength': 0.357},antonym
+1397,pay,0,-0.372,"{'tasteful': 0.224, 'clear': 0.402, 'encourage': 0.151, 'inaccurate': 0.196}",synonym_antonym
+1398,lamest,1,-0.373,"{'well': 0.671, 'sound': 0.192}",antonym
+1399,loses,1,-0.373,{'win': 0.235},synonym_antonym
+1400,reading,0,-0.377,{},empty
+1401,atrocious,0,-0.38,"{'good': 1.191, 'asset': 0.205}",antonym
+1402,book,0,-0.383,"{'finish': 0.874, 'male': 0.267, 'truth': 0.156}",synonym_antonym
+1403,commercial,0,-0.386,{'superior': 0.431},synonym_antonym
+1404,says,0,-0.386,{'freeze': 0.24},antonym
+1405,unfortunate,1,-0.386,"{'lucky': 0.898, 'fortunate': 0.179, 'successful': 0.395, 'safe': 0.155}",antonym
+1406,home,0,-0.389,"{'finish': 0.874, 'end': 0.428}",antonym
+1407,useless,1,-0.389,{'effective': 0.393},antonym
+1408,confusing,1,-0.39,"{'clear': 0.402, 'distinct': 0.159}",antonym
+1409,passed,0,-0.39,"{'rise': 0.159, 'follow': 0.245, 'buy': 0.169, 'opening': 0.234, 'promote': 0.244, 'clean': 0.79, 'fire': 0.236, 'perfection': 0.527, 'focus': 0.208}",synonym_antonym
+1410,struggling,0,-0.39,{'new': 0.213},synonym_antonym
+1411,heights,0,-0.391,{'right': 0.233},antonym
+1412,cable,0,-0.395,{'follow': 0.245},synonym_antonym
+1413,frustrated,1,-0.395,"{'successful': 0.395, 'fortunate': 0.179}",antonym
+1414,please,0,-0.395,"{'change': 0.21, 'travel': 0.819, 'raise': 0.173, 'fame': 0.15, 'block': 0.313}",synonym_antonym
+1415,any,0,-0.397,{'many': 0.203},antonym
+1416,play,0,-0.397,"{'figure': 1.145, 'end': 0.428, 'better': 0.257, 'issue': 0.816, 'success': 0.485, 'ahead': 0.79, 'attack': 0.28, 'praise': 0.513, 'opening': 0.234, 'rise': 0.159}",synonym_antonym
+1417,low,1,-0.399,"{'superior': 0.431, 'high': 0.418}",antonym
+1418,falls,0,-0.4,"{'dry': 0.197, 'rise': 0.159}",antonym
+1419,invent,0,-0.4,"{'disagree': 0.225, 'forget': 1.261}",antonym
+1420,forward,0,-0.403,{'dry': 0.197},antonym
+1421,uneven,0,-0.404,"{'fine': 0.459, 'new': 0.213}",synonym_antonym
+1422,festival,0,-0.409,"{'beginning': 0.199, 'middle': 0.194}",antonym
+1423,jokes,0,-0.409,"{'well': 0.671, 'leave': 0.224}",synonym_antonym
+1424,went,0,-0.409,"{'rise': 0.159, 'follow': 0.245}",antonym
+1425,detracts,0,-0.413,{'increase': 0.226},antonym
+1426,unlikable,1,-0.414,{'kind': 0.528},antonym
+1427,unoriginal,1,-0.414,"{'creative': 0.503, 'fresh': 0.345}",antonym
+1428,version,0,-0.414,{'freeze': 0.24},antonym
+1429,evil,0,-0.415,"{'right': 0.233, 'good': 1.191}",antonym
+1430,audiences,0,-0.417,{'national': 0.179},antonym
+1431,insipid,1,-0.417,{'stimulating': 0.184},antonym
+1432,wife,0,-0.417,"{'partner': 1.001, 'absolute': 0.236, 'male': 0.267}",synonym_antonym
+1433,appalling,0,-0.419,{'enjoy': 0.396},antonym
+1434,bottom,0,-0.419,"{'strength': 0.357, 'top': 0.44, 'die': 0.407, 'best': 1.267, 'follow': 0.245, 'end': 0.428}",synonym_antonym
+1435,fake,1,-0.419,"{'genuine': 0.174, 'correct': 0.447}",antonym
+1436,tame,0,-0.419,{'exciting': 1.311},antonym
+1437,values,0,-0.421,{'content': 0.294},antonym
+1438,vague,1,-0.423,"{'clear': 0.402, 'smart': 0.833, 'focus': 0.208}",antonym
+1439,guess,0,-0.424,{'enjoy': 0.396},synonym_antonym
+1440,hand,0,-0.424,"{'right': 0.233, 'better': 0.257, 'promote': 0.244}",synonym_antonym
+1441,cant,0,-0.426,"{'meaningful': 0.45, 'rise': 0.159}",antonym
+1442,communicate,0,-0.427,"{'finish': 0.874, 'right': 0.233, 'disagree': 0.225, 'clear': 0.402}",synonym_antonym
+1443,portrayed,0,-0.427,{'real': 0.164},antonym
+1444,rate,0,-0.428,{'fast': 0.376},antonym
+1445,unreal,1,-0.428,"{'real': 0.164, 'realistic': 0.727, 'natural': 0.186, 'genuine': 0.174}",antonym
+1446,all,0,-0.429,"{'partly': 0.169, 'several': 0.176}",synonym_antonym
+1447,cover,0,-0.431,{'clean': 0.79},antonym
+1448,might,0,-0.431,"{'powerful': 1.169, 'strong': 0.651}",synonym_antonym
+1449,brutal,0,-0.433,{'praise': 0.513},antonym
+1450,general,0,-0.433,{'precise': 0.201},antonym
+1451,hollywood,0,-0.433,{'happiness': 0.323},antonym
+1452,minimal,0,-0.433,{'full': 0.252},antonym
+1453,teen,0,-0.434,{'superior': 0.431},antonym
+1454,however,0,-0.435,{'moving': 0.272},antonym
+1455,left,0,-0.435,{'right': 0.233},antonym
+1456,adventure,0,-0.436,{'best': 1.267},antonym
+1457,destroy,1,-0.437,{'raise': 0.173},antonym
+1458,note,0,-0.437,"{'freeze': 0.24, 'disagree': 0.225, 'truth': 0.156, 'rich': 0.369, 'praise': 0.513, 'extraordinary': 0.249}",synonym_antonym
+1459,embarrassment,0,-0.438,"{'necessary': 0.327, 'happiness': 0.323}",antonym
+1460,buddy,0,-0.439,{'stranger': 0.0},oov_antonym
+1461,downhill,0,-0.439,"{'fast': 0.376, 'interesting': 0.734, 'smart': 0.833}",synonym_antonym
+1462,fail,1,-0.441,{'clean': 0.79},antonym
+1463,john,0,-0.445,"{'important': 0.151, 'clean': 0.79, 'cool': 0.838}",synonym_antonym
+1464,lack,1,-0.445,"{'have': 0.206, 'comedy': 0.592, 'distribution': 0.176}",synonym_antonym
+1465,par,0,-0.446,{'disagree': 0.225},synonym_antonym
+1466,joke,0,-0.447,"{'well': 0.671, 'leave': 0.224}",synonym_antonym
+1467,mundane,0,-0.449,"{'extraordinary': 0.249, 'uncommon': 0.186, 'unusual': 0.16}",antonym
+1468,definite,0,-0.451,{'hot': 0.808},synonym_antonym
+1469,teens,0,-0.451,"{'last': 0.341, 'minor': 1.043, 'human': 0.489}",synonym_antonym
+1470,distasteful,1,-0.453,"{'right': 0.233, 'good': 1.191, 'clean': 0.79}",synonym_antonym
+1471,dumbest,1,-0.453,"{'smart': 0.833, 'fast': 0.376, 'increase': 0.226}",antonym
+1472,annoyed,1,-0.454,{'pleased': 0.526},antonym
+1473,disappointment,1,-0.458,{'success': 0.485},antonym
+1474,cold,0,-0.46,"{'warm': 0.558, 'hot': 0.808, 'kind': 0.528}",antonym
+1475,hideous,0,-0.461,"{'lovable': 0.327, 'pleasant': 1.106}",antonym
+1476,rip,0,-0.462,"{'end': 0.428, 'relax': 0.853}",synonym_antonym
+1477,unimpressive,1,-0.462,{'impressive': 0.65},antonym
+1478,moments,0,-0.463,{'former': 0.8},antonym
+1479,shame,0,-0.463,{'love': 1.129},antonym
+1480,sub,0,-0.464,{'focus': 0.208},antonym
+1481,like,1,-0.466,"{'unlike': 0.214, 'ahead': 0.79}",synonym_antonym
+1482,odd,0,-0.466,{'well': 0.671},synonym_antonym
+1483,pilot,0,-0.466,{'follow': 0.245},antonym
+1484,loser,1,-0.469,"{'winner': 0.375, 'rise': 0.159}",antonym
+1485,unintelligent,1,-0.471,{'intelligent': 0.988},antonym
+1486,frightening,0,-0.472,{'good': 1.191},antonym
+1487,trap,0,-0.473,"{'truth': 0.156, 'parent': 0.162, 'beautiful': 1.276, 'end': 0.428, 'beginning': 0.199, 'easy': 0.679}",synonym_antonym
+1488,bother,0,-0.475,{'pleasure': 0.408},antonym
+1489,pitiful,0,-0.475,"{'superior': 0.431, 'happy': 0.522}",antonym
+1490,dated,1,-0.478,{'new': 0.213},antonym
+1491,painful,1,-0.48,{'harmless': 0.257},antonym
+1492,wreck,0,-0.481,"{'better': 0.257, 'increase': 0.226}",antonym
+1493,become,0,-0.483,"{'promote': 0.244, 'sweet': 0.34, 'block': 0.313, 'rise': 0.159, 'follow': 0.245, 'win': 0.235, 'fire': 0.236}",synonym_antonym
+1494,collection,0,-0.487,"{'success': 0.485, 'male': 0.267, 'varied': 0.241, 'finish': 0.874, 'attack': 0.28, 'change': 0.21, 'inaccurate': 0.196, 'late': 0.157, 'middle': 0.194, 'right': 0.233, 'rise': 0.159, 'pleasant': 1.106, 'sweet': 0.34, 'extraordinary': 0.249, 'parent': 0.162, 'child': 0.367, 'buy': 0.169, 'welcome': 0.267, 'forget': 1.261, 'fast': 0.376}",synonym_antonym
+1495,lines,0,-0.493,"{'fire': 0.236, 'clean': 0.79}",antonym
+1496,touch,0,-0.498,"{'rise': 0.159, 'change': 0.21, 'action': 0.211, 'promote': 0.244}",synonym_antonym
+1497,pass,0,-0.499,"{'rise': 0.159, 'follow': 0.245, 'buy': 0.169, 'opening': 0.234, 'promote': 0.244, 'clean': 0.79, 'fire': 0.236, 'perfection': 0.527, 'focus': 0.208}",synonym_antonym
+1498,hard,0,-0.5,{'easy': 0.679},antonym
+1499,lousy,0,-0.5,"{'good': 1.191, 'asset': 0.205}",antonym
+1500,thunderbirds,0,-0.5,{'happiness': 0.323},antonym
+1501,reason,0,-0.502,"{'truth': 0.156, 'pro': 0.178, 'insanity': 0.208, 'beginning': 0.199, 'success': 0.485, 'disagree': 0.225}",synonym_antonym
+1502,stale,1,-0.503,"{'new': 0.213, 'fresh': 0.345}",antonym
+1503,unrealistic,1,-0.503,"{'real': 0.164, 'possible': 0.265, 'realistic': 0.727}",antonym
+1504,place,0,-0.507,"{'right': 0.233, 'silence': 0.165, 'rise': 0.159, 'action': 0.211, 'change': 0.21, 'follow': 0.245, 'clean': 0.79, 'more': 0.254, 'win': 0.235, 'promote': 0.244, 'fire': 0.236, 'light': 0.157, 'moving': 0.272, 'professional': 0.89, 'opening': 0.234}",synonym_antonym
+1505,missing,0,-0.51,{'found': 0.198},antonym
+1506,wannabe,0,-0.51,{'hopeless': 0.159},antonym
+1507,horrified,0,-0.521,{'easy': 0.679},synonym_antonym
+1508,believes,0,-0.523,"{'content': 0.294, 'possible': 0.265, 'noticed': 0.203}",synonym_antonym
+1509,banal,1,-0.526,"{'new': 0.213, 'creative': 0.503}",antonym
+1510,horrendous,0,-0.526,{'good': 1.191},antonym
+1511,wrong,1,-0.539,"{'right': 0.233, 'correct': 0.447, 'accurate': 0.668}",antonym
+1512,impossible,0,-0.543,"{'realistic': 0.727, 'possible': 0.265}",antonym
+1513,wasting,1,-0.547,"{'good': 1.191, 'strength': 0.357}",synonym_antonym
+1514,live,0,-0.548,{'follow': 0.245},antonym
+1515,unfunny,1,-0.548,{'funny': 0.855},antonym
+1516,completely,0,-0.549,{'partly': 0.169},antonym
+1517,realize,0,-0.549,"{'welcome': 0.267, 'forget': 1.261}",synonym_antonym
+1518,way,0,-0.552,"{'moving': 0.272, 'sound': 0.192, 'better': 0.257}",synonym_antonym
+1519,trite,1,-0.554,"{'new': 0.213, 'creative': 0.503}",antonym
+1520,complaints,1,-0.555,"{'good': 1.191, 'harmless': 0.257, 'well': 0.671, 'praise': 0.513}",synonym_antonym
+1521,despise,0,-0.555,{'love': 1.129},antonym
+1522,party,0,-0.56,{'show': 0.286},antonym
+1523,boredom,1,-0.563,"{'happy': 0.522, 'pleased': 0.526}",synonym_antonym
+1524,meaningless,1,-0.565,{'meaningful': 0.45},antonym
+1525,disaster,1,-0.568,"{'comedy': 0.592, 'beginning': 0.199}",antonym
+1526,pain,1,-0.574,"{'pleasure': 0.408, 'kind': 0.528, 'hot': 0.808, 'happiness': 0.323, 'happy': 0.522, 'success': 0.485, 'experience': 0.528}",synonym_antonym
+1527,turd,0,-0.577,"{'clean': 0.79, 'praise': 0.513, 'opening': 0.234}",synonym_antonym
+1528,forcing,0,-0.582,"{'relax': 0.853, 'rise': 0.159, 'follow': 0.245, 'buy': 0.169, 'surface': 0.241}",synonym_antonym
+1529,hooked,0,-0.583,{'unaddicted': 0.0},oov_antonym
+1530,creepy,0,-0.584,{'pleasant': 1.106},antonym
+1531,attempting,0,-0.585,{'best': 1.267},antonym
+1532,slightly,0,-0.585,"{'unfairly': 1.179, 'extraordinary': 0.249}",synonym_antonym
+1533,unconvincing,1,-0.587,{'convincing': 0.692},antonym
+1534,tries,0,-0.596,"{'best': 1.267, 'real': 0.164, 'trust': 0.285, 'fire': 0.236, 'sound': 0.192, 'rise': 0.159, 'follow': 0.245, 'leave': 0.224}",synonym_antonym
+1535,nonexistent,0,-0.598,"{'found': 0.198, 'present': 0.661, 'increase': 0.226, 'rich': 0.369, 'fortunate': 0.179, 'good': 1.191}",synonym_antonym
+1536,actor,0,-0.603,"{'necessary': 0.327, 'light': 0.157}",antonym
+1537,passion,0,-0.605,"{'pleasure': 0.408, 'happiness': 0.323}",antonym
+1538,shallow,1,-0.605,{'deep': 0.239},antonym
+1539,offer,0,-0.608,{'universal': 0.182},antonym
+1540,plodding,1,-0.615,"{'easy': 0.679, 'clear': 0.402}",synonym_antonym
+1541,sorry,0,-0.62,"{'good': 1.191, 'light': 0.157, 'lively': 0.302}",antonym
+1542,lackluster,1,-0.631,{'colorful': 0.252},antonym
+1543,tiresome,1,-0.642,"{'interesting': 0.734, 'fast': 0.376}",antonym
+1544,inferior,1,-0.644,"{'superior': 0.431, 'high': 0.418, 'good': 1.191}",antonym
+1545,no,0,-0.644,"{'late': 0.157, 'middle': 0.194}",antonym
+1546,miscast,0,-0.654,{'raise': 0.173},synonym_antonym
+1547,unremarkable,1,-0.659,{'extraordinary': 0.249},antonym
+1548,depressing,1,-0.673,"{'happy': 0.522, 'happiness': 0.323}",antonym
+1549,ugly,1,-0.681,{'beautiful': 1.276},antonym
+1550,effort,0,-0.688,{'best': 1.267},antonym
+1551,multi,0,-0.688,{'tasteful': 0.224},synonym_antonym
+1552,uses,0,-0.689,"{'middle': 0.194, 'praise': 0.513, 'block': 0.313, 'fire': 0.236, 'moving': 0.272, 'cool': 0.838, 'dry': 0.197, 'buy': 0.169, 'promote': 0.244}",synonym_antonym
+1553,disappointed,1,-0.69,"{'successful': 0.395, 'fortunate': 0.179}",antonym
+1554,flop,0,-0.705,{'promote': 0.244},antonym
+1555,failure,1,-0.707,{'beginning': 0.199},antonym
+1556,ill,1,-0.712,{'well': 0.671},antonym
+1557,likes,0,-0.714,"{'unlike': 0.214, 'ahead': 0.79}",synonym_antonym
+1558,mad,0,-0.715,{'well': 0.671},antonym
+1559,crappy,1,-0.73,"{'good': 1.191, 'best': 1.267, 'better': 0.257}",antonym
+1560,silly,1,-0.731,{'cool': 0.838},antonym
+1561,confused,1,-0.732,"{'fresh': 0.345, 'energetic': 0.266}",antonym
+1562,cliche,1,-0.744,"{'praise': 0.513, 'exciting': 1.311, 'extraordinary': 0.249}",antonym
+1563,slow,0,-0.744,{'fast': 0.376},antonym
+1564,tedious,1,-0.744,"{'interesting': 0.734, 'increase': 0.226, 'smart': 0.833}",antonym
+1565,loud,0,-0.75,{'soft': 0.905},antonym
+1566,disappointing,1,-0.766,{'on': 0.161},synonym_antonym
+1567,dumb,1,-0.773,"{'smart': 0.833, 'fast': 0.376, 'increase': 0.226}",antonym
+1568,ruined,1,-0.778,{'found': 0.198},synonym_antonym
+1569,corny,1,-0.782,{'creative': 0.503},antonym
+1570,below,0,-0.783,"{'above': 0.486, 'high': 0.418}",antonym
+1571,bore,1,-0.785,{'interest': 0.472},antonym
+1572,unintentionally,0,-0.794,{'intentionally': 0.208},antonym
+1573,cheap,1,-0.807,"{'expensive': 0.909, 'important': 0.151, 'ashamed': 0.312}",antonym
+1574,crap,1,-0.818,"{'clean': 0.79, 'praise': 0.513, 'opening': 0.234}",synonym_antonym
+1575,annoying,1,-0.819,{'good': 1.191},synonym_antonym
+1576,uninspired,1,-0.833,{'exciting': 1.311},antonym
+1577,avoid,0,-0.855,{'truth': 0.156},antonym
+1578,save,0,-0.875,{'disagree': 0.225},antonym
+1579,dislike,1,-0.877,{'love': 1.129},antonym
+1580,weak,1,-0.894,"{'tough': 0.329, 'powerful': 1.169, 'strong': 0.651}",antonym
+1581,flat,1,-0.901,"{'high': 0.418, 'intense': 0.572}",synonym_antonym
+1582,disliked,1,-0.902,"{'liked': 0.835, 'likeable': 0.366, 'likable': 0.739}",antonym
+1583,ridiculous,1,-0.906,{'meaningful': 0.45},antonym
+1584,sadly,1,-0.926,{'happily': 0.333},antonym
+1585,stay,0,-0.999,{'travel': 0.819},antonym
+1586,wasted,1,-1.026,{'found': 0.198},antonym
+1587,skip,0,-1.072,{'better': 0.257},antonym
+1588,forgettable,1,-1.078,"{'unforgettable': 0.727, 'memorable': 0.379}",antonym
+1589,lame,1,-1.085,"{'well': 0.671, 'sound': 0.192}",antonym
+1590,dreadful,1,-1.103,"{'nice': 0.42, 'pleasant': 1.106, 'good': 1.191, 'encourage': 0.151, 'hope': 0.205}",synonym_antonym
+1591,failed,1,-1.122,{'clean': 0.79},antonym
+1592,worse,1,-1.188,"{'better': 0.257, 'best': 1.267}",antonym
+1593,lacks,1,-1.225,"{'have': 0.206, 'comedy': 0.592, 'distribution': 0.176}",synonym_antonym
+1594,unfortunately,1,-1.285,"{'luckily': 0.303, 'fortunately': 0.856}",antonym
+1595,nothing,0,-1.322,{'extraordinary': 0.249},synonym_antonym
+1596,waste,1,-1.35,{'success': 0.485},synonym_antonym
+1597,bland,1,-1.394,"{'tasteful': 0.224, 'new': 0.213, 'stimulating': 0.184}",synonym_antonym
+1598,pathetic,0,-1.418,"{'fortunate': 0.179, 'lucky': 0.898, 'successful': 0.395}",antonym
+1599,hate,1,-1.427,"{'love': 1.129, 'good': 1.191}",antonym
+1600,predictable,1,-1.52,{'unpredictable': 1.253},antonym
+1601,hated,1,-1.564,"{'loved': 1.034, 'wanted': 0.272}",antonym
+1602,stupid,1,-1.579,"{'intelligent': 0.988, 'smart': 0.833, 'light': 0.157}",antonym
+1603,badly,1,-1.605,"{'good': 1.191, 'harmless': 0.257, 'best': 1.267}",antonym
+1604,mediocre,1,-1.683,{'superior': 0.431},antonym
+1605,horrible,0,-1.741,{'good': 1.191},antonym
+1606,fails,1,-1.838,{'clean': 0.79},antonym
+1607,poor,1,-1.874,{'fortunate': 0.179},antonym
+1608,dull,1,-1.881,"{'lively': 0.302, 'colorful': 0.252}",antonym
+1609,bad,1,-1.959,"{'best': 1.267, 'better': 0.257, 'good': 1.191}",antonym
+1610,poorly,1,-2.251,{'well': 0.671},antonym
+1611,awful,1,-2.397,{'good': 1.191},antonym
+1612,boring,1,-2.592,"{'interesting': 0.734, 'fast': 0.376}",antonym
+1613,worst,1,-2.915,"{'good': 1.191, 'superior': 0.431, 'best': 1.267}",antonym
+1614,terrible,1,-2.924,"{'nice': 0.42, 'pleasant': 1.106}",antonym
+1615,horror,0,1.349,{'courage': -0.266},synonym_antonym
+1616,not,0,-1.073,{'finish': 0.874},antonym
+1617,something,0,0.759,"{'mature': -0.179, 'immature': -0.17}",antonym
+1618,together,0,-0.74,{'maladjusted': 0.0},oov_antonym
+1619,getting,0,0.671,{},empty
+1620,money,0,0.656,{},empty
+1621,killing,1,0.623,{'defeat': -0.193},antonym
+1622,will,0,-0.619,{'insanity': 0.208},synonym_antonym
+1623,beyond,0,0.588,{},empty
+1624,minutes,0,0.561,{},empty
+1625,gets,0,-0.544,"{'voice': 0.333, 'fire': 0.236, 'block': 0.313, 'end': 0.428, 'leave': 0.224, 'rise': 0.159, 'attack': 0.28, 'increase': 0.226, 'minor': 1.043, 'welcome': 0.267, 'beginning': 0.199, 'better': 0.257, 'tasteful': 0.224, 'promote': 0.244, 'issue': 0.816, 'praise': 0.513, 'figure': 1.145}",synonym_antonym
+1626,isn,0,-0.53,{},empty
+1627,starts,0,0.522,"{'stay': -0.999, 'avoid': -0.855, 'unimpressive': -0.462, 'lose': -0.328, 'miss': -0.35, 'fail': -0.441}",synonym_antonym
+1628,instead,0,0.518,{},empty
+1629,times,0,-0.507,{'day': 0.351},antonym
+1630,course,0,0.507,"{'wrong': -0.539, 'fail': -0.441, 'ready': -0.227, 'lose': -0.328, 'studio': -0.411}",synonym_antonym
+1631,made,0,0.504,{'custom-made': 0.0},oov_antonym
+1632,without,0,-0.497,{},empty
+1633,script,0,0.487,{'erase': 0.0},oov_antonym
+1634,didn,0,-0.483,{},empty
+1635,entertainment,1,0.482,{},empty
+1636,effects,0,0.477,{},empty
+1637,romance,0,-0.472,{'rise': 0.159},antonym
+1638,american,0,-0.471,{},empty
+1639,trash,1,-0.466,{'heat': 0.0},oov_antonym
+1640,lady,0,0.458,{'husband': -0.238},synonym_antonym
+1641,america,0,-0.457,{},empty
+1642,recommend,0,-0.455,"{'rise': 0.159, 'follow': 0.245, 'praise': 0.513}",synonym_antonym
+1643,my,0,-0.453,{},empty
+1644,cast,0,-0.452,{'raise': 0.173},antonym
+1645,taken,0,0.452,{'unaffected': -0.197},synonym_antonym
+1646,daughter,0,0.449,"{'defeat': -0.193, 'lose': -0.328, 'husband': -0.238}",synonym_antonym
+1647,don,0,-0.448,{'undress': 0.0},oov_antonym
+1648,heart,0,-0.446,"{'pleasure': 0.408, 'happiness': 0.323}",synonym_antonym
+1649,okay,0,0.442,"{'forward': -0.403, 'uneven': -0.404}",synonym_antonym
+1650,bit,0,-0.437,{'activity': 0.0},oov_antonym
+1651,killed,0,0.434,{'sit': -0.259},antonym
+1652,spent,0,0.434,{'unexhausted': 0.0},oov_antonym
+1653,camera,0,0.433,"{'continue': -0.156, 'free': -0.331}",antonym
+1654,making,0,0.432,{'loud': -0.75},synonym_antonym
+1655,acts,0,0.432,{},empty
+1656,away,0,-0.431,{'right': 0.233},antonym
+1657,down,0,-0.43,{'up': 0.0},oov_antonym
+1658,alone,0,0.424,"{'wrong': -0.539, 'no': -0.644}",synonym_antonym
+1659,utter,0,-0.424,{'high': 0.418},antonym
+1660,worthy,1,0.422,"{'evil': -0.415, 'worthless': -0.359}",antonym
+1661,pace,0,-0.42,{'fast': 0.376},synonym_antonym
+1662,most,0,-0.418,{'natural': 0.186},antonym
+1663,high,0,0.418,"{'inferior': -0.644, 'low': -0.399}",antonym
+1664,feelings,0,-0.417,{'sensitive': 0.392},antonym
+1665,mostly,0,-0.412,{},empty
+1666,studio,0,-0.411,{'fire': 0.236},synonym_antonym
+1667,although,0,-0.41,{},empty
+1668,movie,0,0.409,"{'dislike': -0.877, 'color': -0.857, 'dull': -1.881, 'unattractive': -0.345, 'continue': -0.156, 'stay': -0.999, 'loud': -0.75, 'unrealistic': -0.503, 'false': -1.067, 'optimistic': -0.321, 'unreal': -0.428, 'ugly': -0.681, 'lack': -0.445}",synonym_antonym
+1669,call,0,-0.405,"{'middle': 0.194, 'praise': 0.513, 'forget': 1.261}",synonym_antonym
+1670,aren,0,-0.403,{},empty
+1671,politics,0,-0.399,{'activation': 0.0},oov_antonym
+1672,theater,0,0.394,{},empty
+1673,parts,0,-0.392,{'disagree': 0.225},synonym_antonym
+1674,vision,0,-0.392,{'real': 0.164},synonym_antonym
+1675,suppose,0,0.391,{'exclude': 0.0},oov_antonym
+1676,premise,0,0.389,{},empty
+1677,viewing,0,-0.388,{'hide': 0.0},oov_antonym
+1678,try,0,0.388,"{'ride': -0.272, 'avoid': -0.855, 'worst': -2.915, 'miss': -0.35, 'inferior': -0.644, 'stay': -0.999, 'standard': -0.167, 'fail': -0.441, 'fall': -0.154, 'please': -0.395, 'calm': -0.168, 'curse': -0.19}",synonym_antonym
+1679,direction,0,0.388,"{'ride': -0.272, 'empty': -0.278, 'attract': -0.292}",synonym_antonym
+1680,church,0,0.388,{'thick': -0.335},antonym
+1681,agent,0,-0.384,{'brand-name drug': 0.0},oov_antonym
+1682,average,0,-0.383,{'abnormal': 0.0},oov_antonym
+1683,verhoeven,0,-0.382,{},empty
+1684,especially,0,-0.382,{},empty
+1685,pretty,0,0.381,{'unattractive': -0.345},antonym
+1686,into,0,-0.381,{},empty
+1687,fast,0,0.376,{'slow': -0.744},antonym
+1688,shouldn,0,-0.375,{},empty
+1689,somewhat,0,-0.372,"{'unfairly': 1.179, 'extraordinary': 0.249}",antonym
+1690,strange,1,-0.367,{'well': 0.671},antonym
+1691,jim,0,-0.367,{},empty
+1692,opinion,0,0.366,"{'continue': -0.156, 'birth': -0.177}",synonym_antonym
+1693,30,0,0.366,{'all': -0.429},synonym_antonym
+1694,anime,0,-0.364,{},empty
+1695,acting,0,0.358,"{'fail': -0.441, 'inner': -0.793, 'functional': -0.159}",synonym_antonym
+1696,involved,0,0.358,"{'bad': -1.959, 'unlucky': -0.327}",synonym_antonym
+1697,word,0,0.358,"{'same': -0.222, 'lack': -0.445, 'inferior': -0.644, 'take': -0.165, 'worst': -2.915, 'stretch': -0.156}",synonym_antonym
+1698,somewhere,0,0.357,{},empty
+1699,sean,0,0.356,{},empty
+1700,spirit,0,-0.355,{'aware': 0.282},synonym_antonym
+1701,poignant,0,0.353,{'unmoving': 0.0},oov_antonym
+1702,he,0,-0.353,{'software': 0.0},oov_antonym
+1703,knowledge,0,0.351,{'ability': -0.814},antonym
+1704,60s,0,0.35,{'all': -0.429},synonym_antonym
+1705,miss,0,-0.35,{'better': 0.257},synonym_antonym
+1706,say,0,0.35,"{'gain': -0.286, 'lack': -0.445, 'hold': -0.359, 'union': -0.225, 'accept': -0.365, 'absent': -0.845, 'take': -0.165, 'mature': -0.179, 'immature': -0.17, 'proud': -0.205, 'sit': -0.259, 'stay': -0.999, 'future': -0.315, 'lose': -0.328}",synonym_antonym
+1707,fans,0,-0.349,{'superior': 0.431},antonym
+1708,life,0,-0.347,{'ill health': 0.0},oov_antonym
+1709,core,0,-0.346,{'right': 0.233},antonym
+1710,came,0,-0.346,{'leave': 0.224},antonym
+1711,satisfying,1,0.346,{'unwholesome': 0.0},oov_antonym
+1712,appearance,0,-0.346,{'beauty': 0.508},antonym
+1713,island,0,-0.342,"{'national': 0.179, 'leave': 0.224, 'figure': 1.145}",synonym_antonym
+1714,impression,0,0.341,"{'inferior': -0.644, 'stay': -0.999}",antonym
+1715,satisfied,1,0.34,{'discontented': 0.0},oov_antonym
+1716,english,0,-0.34,{},empty
+1717,footage,0,-0.34,{'positive': 0.771},synonym_antonym
+1718,directors,0,-0.338,{},empty
+1719,own,0,-0.337,{'objective': 0.332},antonym
+1720,god,0,0.337,{'irreligious': 0.0},oov_antonym
+1721,african,0,-0.333,{'male': 0.267},antonym
+1722,few,0,-0.331,"{'many': 0.203, 'more': 0.254}",antonym
+1723,douglas,0,-0.33,{},empty
+1724,sort,0,0.33,"{'dislike': -0.877, 'hard': -0.5, 'young': -0.295}",synonym_antonym
+1725,continuity,0,0.329,{'thick': -0.335},synonym_antonym
+1726,christopher,0,0.328,{},empty
+1727,lose,0,-0.328,{'win': 0.235},synonym_antonym
+1728,scary,0,0.328,{'unalarming': 0.0},oov_antonym
+1729,form,0,-0.328,"{'truth': 0.156, 'pro': 0.178, 'child': 0.367, 'end': 0.428}",synonym_antonym
+1730,song,0,-0.328,"{'soft': 0.905, 'praise': 0.513, 'attack': 0.28, 'happiness': 0.323, 'beginning': 0.199, 'middle': 0.194, 'relax': 0.853, 'professional': 0.89, 'cool': 0.838}",synonym_antonym
+1731,worth,1,-0.327,{'unworthy': 0.0},oov_antonym
+1732,necessary,0,0.327,{'old': -0.252},synonym_antonym
+1733,value,0,0.326,{'inessentiality': 0.0},oov_antonym
+1734,everything,0,0.326,{},empty
+1735,but,0,-0.326,{'multiple': 0.0},oov_antonym
+1736,guys,0,0.325,{'woman': -0.286},antonym
+1737,ending,0,-0.324,"{'beginning': 0.199, 'middle': 0.194, 'block': 0.313}",synonym_antonym
+1738,during,0,0.324,{},empty
+1739,oh,0,0.322,{},empty
+1740,college,0,0.322,{'thin': 0.0},oov_antonym
+1741,fear,0,-0.321,{'timid': 0.218},antonym
+1742,elements,0,-0.321,"{'success': 0.485, 'rise': 0.159}",synonym_antonym
+1743,hallmark,0,0.32,{'incompatibility': 0.0},oov_antonym
+1744,someone,0,0.319,{'loser': -0.469},antonym
+1745,why,0,0.319,{'stay': -0.999},synonym_antonym
+1746,planet,0,0.319,"{'inner': -0.793, 'father': -0.167}",antonym
+1747,china,0,-0.319,{},empty
+1748,aspects,0,-0.318,{'figure': 1.145},antonym
+1749,supported,0,-0.318,"{'high': 0.418, 'superior': 0.431}",synonym_antonym
+1750,talking,0,-0.317,"{'praise': 0.513, 'hoot': 0.237, 'yelling': 0.337, 'meaningful': 0.45, 'rise': 0.159}",synonym_antonym
+1751,so,0,0.317,{},empty
+1752,dimensional,0,-0.317,{'unidimensional': 0.0},oov_antonym
+1753,your,0,0.315,{'ineffective': -1.062},synonym_antonym
+1754,comedies,0,-0.315,"{'natural': 0.186, 'comedy': 0.592}",synonym_antonym
+1755,20,0,0.315,"{'ignore': -0.158, 'all': -0.429}",synonym_antonym
+1756,title,0,-0.315,{'cause to sleep': 0.0},oov_antonym
+1757,future,0,-0.315,"{'present': 0.661, 'day': 0.351, 'fresh': 0.345}",synonym_antonym
+1758,chinese,0,-0.315,{},empty
+1759,block,0,0.313,{'stay': -0.999},antonym
+1760,issues,0,-0.313,{'focus': 0.208},antonym
+1761,these,0,-0.312,{},empty
+1762,almost,0,-0.312,"{'natural': 0.186, 'cool': 0.838}",synonym_antonym
+1763,long,0,0.312,{'little': -0.289},synonym_antonym
+1764,did,0,0.312,{'tightness': 0.0},oov_antonym
+1765,underwhelming,1,-0.311,{},empty
+1766,stuck,0,0.311,{'unperplexed': 0.0},oov_antonym
+1767,shocking,0,0.31,{'unsensational': 0.0},oov_antonym
+1768,able,0,-0.308,{'powerful': 1.169},synonym_antonym
+1769,smith,0,-0.306,{},empty
+1770,highlight,0,0.306,{'general': -0.433},antonym
+1771,listening,0,0.305,{'ground': -0.172},antonym
+1772,ends,0,0.302,"{'stay': -0.999, 'fall': -0.154}",synonym_antonym
+1773,certainly,0,0.301,{'uncertainty': 0.0},oov_antonym
+1774,michael,0,-0.301,{},empty
+1775,hackman,0,0.3,{},empty
+1776,casting,0,-0.3,"{'light': 0.157, 'raise': 0.173}",synonym_antonym
+1777,ll,0,-0.299,{},empty
+1778,street,0,0.299,{},empty
+1779,slasher,0,0.298,{'weak': -0.894},synonym_antonym
+1780,won,0,-0.298,{},empty
+1781,watch,0,0.298,"{'worry': -0.183, 'lose': -0.328}",antonym
+1782,mission,0,-0.297,{'finish': 0.874},synonym_antonym
+1783,sat,0,0.297,{'rest day': 0.0},oov_antonym
+1784,ask,0,0.297,{'slow': -0.744},synonym_antonym
+1785,coming,0,0.296,{'fall': -0.154},synonym_antonym
+1786,lovers,0,0.296,{'unknot': 0.0},oov_antonym
+1787,lacking,1,-0.295,{'adequate': 0.0},oov_antonym
+1788,mainly,0,0.295,{'specifically': 0.0},oov_antonym
+1789,friends,0,-0.294,"{'male': 0.267, 'nice': 0.42}",synonym_antonym
+1790,execution,0,0.294,"{'add': -0.34, 'humorless': -0.308, 'cold': -0.46, 'bore': -0.785, 'hire': -0.155, 'take': -0.165}",synonym_antonym
+1791,bond,0,-0.292,{'repulsion': 0.0},oov_antonym
+1792,smaller,0,-0.291,{'high': 0.418},antonym
+1793,wasn,0,0.29,{},empty
+1794,graphics,0,-0.289,{},empty
+1795,little,0,-0.289,"{'superior': 0.431, 'high': 0.418, 'important': 0.151, 'former': 0.8, 'light': 0.157, 'die': 0.407, 'more': 0.254, 'strong': 0.651, 'long': 0.312, 'natural': 0.186}",synonym_antonym
+1796,kid,0,-0.288,{},empty
+1797,bits,0,-0.287,{'activity': 0.0},oov_antonym
+1798,within,0,-0.287,{'outside': 0.0},oov_antonym
+1799,surprises,0,-0.287,"{'rise': 0.159, 'follow': 0.245, 'middle': 0.194, 'high': 0.418, 'intense': 0.572}",synonym_antonym
+1800,amazed,1,0.285,{'inner': -0.793},synonym_antonym
+1801,result,0,0.285,{'death': -0.173},antonym
+1802,gun,0,0.284,{'defense': -0.334},antonym
+1803,hair,0,0.284,{'stay': -0.999},antonym
+1804,drinking,0,0.283,{},empty
+1805,himself,0,-0.283,{},empty
+1806,becomes,0,0.282,"{'lose': -0.328, 'humorless': -0.308, 'stay': -0.999, 'hard': -0.5, 'ride': -0.272, 'fall': -0.154}",synonym_antonym
+1807,an,0,0.281,{'foe': 0.0},oov_antonym
+1808,jobs,0,-0.281,"{'human': 0.489, 'strong': 0.651, 'right': 0.233, 'fire': 0.236, 'buy': 0.169, 'finish': 0.874, 'forget': 1.261, 'clean': 0.79, 'beginning': 0.199, 'middle': 0.194}",synonym_antonym
+1809,too,0,-0.28,{},empty
+1810,there,0,0.279,{'studio': -0.411},antonym
+1811,family,0,-0.279,"{'parent': 0.162, 'child': 0.367, 'finish': 0.874, 'end': 0.428}",synonym_antonym
+1812,subtitles,0,-0.278,"{'block': 0.313, 'freeze': 0.24}",antonym
+1813,cleverly,1,0.276,{},empty
+1814,lighting,0,0.276,{'significant': -0.198},synonym_antonym
+1815,names,0,0.275,{},empty
+1816,meets,0,-0.274,"{'increase': 0.226, 'silence': 0.165, 'disagree': 0.225}",synonym_antonym
+1817,tired,1,-0.273,"{'new': 0.213, 'early': 0.361, 'middle': 0.194, 'smart': 0.833, 'distinct': 0.159, 'fresh': 0.345, 'coherent': 0.182, 'energetic': 0.266, 'focus': 0.208, 'colorful': 0.252}",synonym_antonym
+1818,fully,0,0.273,{'empty': -0.278},antonym
+1819,author,0,0.273,{},empty
+1820,humor,0,-0.273,"{'well': 0.671, 'natural': 0.186, 'genuine': 0.174, 'finish': 0.874, 'successful': 0.395, 'leave': 0.224, 'honest': 0.387, 'right': 0.233, 'correct': 0.447, 'addition': 0.382}",synonym_antonym
+1821,ride,0,-0.272,{'disagree': 0.225},antonym
+1822,com,0,-0.272,{},empty
+1823,gold,0,0.272,{'inexpensiveness': 0.0},oov_antonym
+1824,wanted,0,0.272,{'cold': -0.46},antonym
+1825,battle,0,-0.272,{'rise': 0.159},synonym_antonym
+1826,versus,0,0.272,{},empty
+1827,tragic,0,-0.271,"{'glad': 0.39, 'good': 1.191}",antonym
+1828,visuals,0,-0.27,{},empty
+1829,incredibly,0,0.27,{'probably': -0.531},synonym_antonym
+1830,merely,0,0.268,{'wrong': -0.539},synonym_antonym
+1831,considered,0,0.268,{'ill-advised': 0.0},oov_antonym
+1832,else,0,0.268,{},empty
+1833,male,0,0.267,{'female': 0.0},oov_antonym
+1834,courage,0,-0.266,{'timid': 0.218},synonym_antonym
+1835,unenjoyable,1,-0.266,{},empty
+1836,neurotic,0,-0.266,{'male': 0.267},synonym_antonym
+1837,cinematic,0,0.266,{},empty
+1838,what,0,-0.266,{},empty
+1839,possible,0,0.265,"{'impossible': -0.543, 'unrealistic': -0.503}",antonym
+1840,deserves,1,0.265,{'miss': -0.35},synonym_antonym
+1841,message,0,-0.264,{'finish': 0.874},antonym
+1842,least,0,-0.263,{'most': 0.0},oov_antonym
+1843,de,0,0.263,{},empty
+1844,week,0,-0.262,"{'beginning': 0.199, 'middle': 0.194, 'praise': 0.513}",antonym
+1845,turning,0,0.261,"{'death': -0.173, 'birth': -0.177}",synonym_antonym
+1846,post,0,-0.26,{'disarrange': 0.0},oov_antonym
+1847,gene,0,0.259,{},empty
+1848,mouth,0,0.259,"{'future': -0.315, 'take': -0.165}",antonym
+1849,along,0,-0.259,{'off': 0.0},oov_antonym
+1850,1980,0,-0.258,{},empty
+1851,played,0,-0.257,"{'figure': 1.145, 'end': 0.428, 'better': 0.257, 'issue': 0.816, 'success': 0.485, 'ahead': 0.79, 'attack': 0.28, 'praise': 0.513, 'opening': 0.234, 'rise': 0.159}",synonym_antonym
+1852,towards,0,-0.256,{},empty
+1853,such,0,0.256,"{'little': -0.289, 'less': -0.302}",antonym
+1854,imdb,0,0.256,{},empty
+1855,watchable,0,0.255,{},empty
+1856,chosen,0,-0.254,{'competent': 0.191},antonym
+1857,explore,0,-0.253,{'inactivity': 0.0},oov_antonym
+1858,evening,0,0.253,{'night': -0.394},antonym
+1859,web,0,-0.252,{'truth': 0.156},antonym
+1860,taught,0,0.252,{},empty
+1861,old,0,-0.252,"{'new': 0.213, 'current': 0.363, 'present': 0.661, 'fresh': 0.345}",antonym
+1862,folks,0,-0.251,"{'child': 0.367, 'parent': 0.162, 'absolute': 0.236}",synonym_antonym
+1863,hidden,0,0.251,{'visible': 0.0},oov_antonym
+1864,limited,0,-0.25,{'unlimited': 0.0},oov_antonym
+1865,missed,0,-0.249,{'clear': 0.402},antonym
+1866,sucks,1,-2.125,{'cool': 0.838},synonym_antonym
+1867,pointless,1,-2,{'necessary': 0.327},antonym
+1868,beautifully,1,1.506,{'unattractively': 0.0},oov_antonym
+1869,nowhere,0,-1.442,{'prominence': 0.0},oov_antonym
+1870,thrilled,0,1.42,{'unexcited': 0.0},oov_antonym
+1871,unwatchable,0,-1.372,{},empty
+1872,barely,0,-1.317,{'ample': 0.0},oov_antonym
+1873,mildly,0,-1.303,{},empty
+1874,abysmal,0,-1.297,{'high': 0.418},antonym
+1875,horribly,0,-1.279,{},empty
+1876,idiotic,1,-1.262,{'sane': 0.0},oov_antonym
+1877,delightfully,1,1.212,{},empty
+1878,bored,1,-1.191,{'rested': 0.0},oov_antonym
+1879,offensive,1,-1.191,{'unoffending': 0.0},oov_antonym
+1880,enhanced,0,1.181,{'decreased': 0.0},oov_antonym
+1881,unfairly,0,1.179,{'fairly': 0.0},oov_antonym
+1882,uninspiring,1,-1.167,{},empty
+1883,despised,0,-1.156,"{'loved': 1.034, 'wanted': 0.272}",antonym
+1884,yuck,0,-1.133,{},empty
+1885,overdone,1,-1.129,{'moderate': 0.0},oov_antonym
+1886,bothered,1,-1.126,{'composed': 0.0},oov_antonym
+1887,embarrassingly,0,-1.126,{},empty
+1888,delighted,1,1.104,{'displeased': 0.0},oov_antonym
+1889,greatness,1,1.091,{'unimportance': 0.0},oov_antonym
+1890,intrigued,1,1.081,{},empty
+1891,headache,1,-1.079,{'light': 0.157},synonym_antonym
+1892,compelling,0,1.076,{'ineffective': -1.062},antonym
+1893,btw,0,1.071,{},empty
+1894,embarrassed,0,-1.069,{'composed': 0.0},oov_antonym
+1895,FALSE,0,-1.067,"{'honest': 0.387, 'right': 0.233, 'correct': 0.447, 'genuine': 0.174}",antonym
+1896,se7en,0,-1.062,{},empty
+1897,anymore,0,-1.062,{},empty
+1898,ineffective,1,-1.062,"{'effective': 0.393, 'powerful': 1.169}",synonym_antonym
+1899,duds,0,-1.055,{'refresh': 0.0},oov_antonym
+1900,subpar,0,-1.054,{},empty
+1901,disjointed,1,-1.051,{'coherent': 0.182},antonym
+1902,disappointingly,1,-1.017,{},empty
+1903,technology,0,1.005,{},empty
+1904,badass,0,1.004,{},empty
+1905,inept,1,-1.003,{'competent': 0.191},antonym
+1906,removed,0,-0.99,{'close': 0.0},oov_antonym
+1907,admirably,1,0.988,{'evil': -0.415},synonym_antonym
+1908,wooden,0,-0.987,{'soft': 0.905},antonym
+1909,wisely,1,0.983,{'foolishly': 0.0},oov_antonym
+1910,splitting,0,0.976,{'hard': -0.5},synonym_antonym
+1911,confrontation,0,-0.974,"{""gentlemen's agreement"": 0.0}",oov_antonym
+1912,irritated,1,-0.971,{'pleased': 0.526},antonym
+1913,hk,0,0.968,{},empty
+1914,weekend,0,0.967,"{'please': -0.395, 'night': -0.394, 'dull': -1.881, 'bright': -1.022}",synonym_antonym
+1915,mindless,1,-0.958,{'intellectual': 0.0},oov_antonym
+1916,harder,0,-0.957,{'easy': 0.679},antonym
+1917,delivery,0,0.956,"{'calm': -0.168, 'empty': -0.278, 'hire': -0.155, 'death': -0.173, 'walk': -0.203}",synonym_antonym
+1918,heartwarming,0,0.946,{'unmoving': 0.0},oov_antonym
+1919,underground,0,0.944,{'public': -0.325},antonym
+1920,camilla,0,0.943,{},empty
+1921,groaning,0,-0.938,{'high': 0.418},synonym_antonym
+1922,devil,0,-0.934,{},empty
+1923,shameless,0,-0.93,{'ashamed': 0.312},antonym
+1924,unnecessarily,0,-0.921,{},empty
+1925,amused,1,0.916,{'humble': -0.25},antonym
+1926,gorgeous,1,0.912,"{'ugly': -0.681, 'unattractive': -0.345}",antonym
+1927,frankenstein,0,-0.909,{'inactiveness': 0.0},oov_antonym
+1928,inconsistent,1,-0.907,{'reconcilable': 0.0},oov_antonym
+1929,flawed,1,-0.905,{'perfect': 1.101},antonym
+1930,punishment,0,-0.903,"{'praise': 0.513, 'reward': 0.226, 'end': 0.428}",synonym_antonym
+1931,rubbish,1,-0.902,"{'dry': 0.197, 'buy': 0.169, 'increase': 0.226}",synonym_antonym
+1932,watcher,0,0.902,"{'ugly': -0.681, 'loser': -0.469}",synonym_antonym
+1933,stopped,0,-0.901,{'unobstructed': 0.0},oov_antonym
+1934,scares,0,-0.898,"{'timid': 0.218, 'better': 0.257, 'sexual': 0.362, 'hope': 0.205, 'raise': 0.173}",synonym_antonym
+1935,inane,1,-0.898,{'wise': 0.0},oov_antonym
+1936,soars,0,0.895,{'fall': -0.154},antonym
+1937,contempt,0,-0.894,{'love': 1.129},synonym_antonym
+1938,flawlessly,1,0.891,{'dirty': 0.0},oov_antonym
+1939,qualifies,0,0.879,{'abnormality': 0.0},oov_antonym
+1940,korean,0,0.875,{},empty
+1941,captivated,0,0.874,{'unloving': 0.0},oov_antonym
+1942,weren,0,-0.871,{},empty
+1943,drivel,0,-0.87,{},empty
+1944,attended,0,0.87,{'uncared-for': 0.0},oov_antonym
+1945,eight,0,0.868,{'add': -0.34},antonym
+1946,tax,0,-0.864,{'relax': 0.853},antonym
+1947,amazingly,1,0.86,{},empty
+1948,scared,0,0.849,{'unafraid': 0.0},oov_antonym
+1949,fun,1,0.849,{'frivolity': 0.0},oov_antonym
+1950,br,0,-0.848,{'fresh water': 0.0},oov_antonym
+1951,terror,0,0.847,{'courage': -0.266},synonym_antonym
+1952,somehow,0,-0.847,{},empty
+1953,thank,0,-0.845,"{'welcome': 0.267, 'forget': 1.261}",antonym
+1954,bikini,0,-0.843,{},empty
+1955,wrote,0,-0.842,"{'disagree': 0.225, 'cool': 0.838, 'praise': 0.513}",synonym_antonym
+1956,cool,0,0.838,{'wet': -0.313},antonym
+1957,ridiculously,1,-0.837,{},empty
+1958,mis,0,-0.837,{'untwine': 0.0},oov_antonym
+1959,17,0,-0.833,{'ordinal': 0.0},oov_antonym
+1960,messed,1,-0.833,{'orderliness': 0.0},oov_antonym
+1961,rousing,0,0.827,"{'uninteresting': -0.361, 'unimpressive': -0.462}",synonym_antonym
+1962,nuclear,0,0.826,{'conventional': 0.0},oov_antonym
+1963,grisham,0,-0.825,{},empty
+1964,frustration,1,-0.825,"{'beginning': 0.199, 'success': 0.485}",synonym_antonym
+1965,marvelously,1,0.821,"{'unimpressive': -0.462, 'inferior': -0.644}",synonym_antonym
+1966,disappoints,1,-0.821,"{'rise': 0.159, 'raise': 0.173, 'end': 0.428, 'success': 0.485, 'clean': 0.79, 'attack': 0.28, 'praise': 0.513}",synonym_antonym
+1967,ain,0,-0.82,{'objective': 0.332},antonym
+1968,handing,0,-0.82,"{'right': 0.233, 'better': 0.257, 'promote': 0.244}",synonym_antonym
+1969,rewarded,0,0.82,{'take': -0.165},synonym_antonym
+1970,issue,0,0.816,{'tune': -0.162},antonym
+1971,executive,0,0.816,{},empty
+1972,clichéd,1,-0.815,{},empty
+1973,wtf,0,-0.815,{},empty
+1974,triumph,0,0.814,{'birth': -0.177},antonym
+1975,excellence,1,0.813,{},empty
+1976,avoided,0,-0.813,{'truth': 0.156},antonym
+1977,faster,0,-0.812,{},empty
+1978,luck,0,-0.808,{'success': 0.485},antonym
+1979,frontal,0,-0.804,{'posterior': 0.0},oov_antonym
+1980,maria,0,0.804,{'miss': -0.35},synonym_antonym
+1981,entertain,1,0.802,{'lose': -0.328},antonym
+1982,sky,0,-0.801,{'national': 0.179},antonym
+1983,caricatures,0,0.801,{'formalism': 0.0},oov_antonym
+1984,suck,1,-0.801,{'cool': 0.838},synonym_antonym
+1985,extended,0,0.8,{'little': -0.289},synonym_antonym
+1986,uphill,0,0.798,{'fall': -0.154},antonym
+1987,pops,0,0.795,"{'stay': -0.999, 'miss': -0.35}",synonym_antonym
+1988,uncomfortable,1,-0.795,"{'soft': 0.905, 'sensitive': 0.392, 'superior': 0.431, 'best': 1.267, 'better': 0.257, 'good': 1.191, 'easy': 0.679, 'happy': 0.522, 'cool': 0.838, 'harmless': 0.257}",synonym_antonym
+1989,feats,0,-0.793,"{'best': 1.267, 'male': 0.267}",synonym_antonym
+1990,documentaries,0,0.793,"{'unrealistic': -0.503, 'false': -1.067}",antonym
+1991,touching,0,0.793,{'unmoving': 0.0},oov_antonym
+1992,clown,0,0.792,"{'humorless': -0.308, 'wise': -0.886}",antonym
+1993,purchased,0,0.791,"{'take': -0.165, 'lose': -0.328}",synonym_antonym
+1994,ideal,0,0.791,{'imperfect': 0.0},oov_antonym
+1995,clean,0,0.79,"{'old': -0.252, 'stale': -0.503}",synonym_antonym
+1996,market,0,-0.79,{'inactivity': 0.0},oov_antonym
+1997,repugnant,1,-0.787,"{'clean': 0.79, 'lovable': 0.327}",antonym
+1998,depiction,0,0.785,{},empty
+1999,sin,0,0.783,{'stay': -0.999},antonym
+2000,inexplicably,1,-0.779,{},empty
+2001,ranks,0,0.777,{'unsteady': 0.0},oov_antonym
+2002,thats,0,-0.776,{},empty
+2003,1930,0,-0.776,{},empty
+2004,pleasantly,1,0.774,{'disagreeably': 0.0},oov_antonym
+2005,kevin,0,-0.773,{},empty
+2006,trio,0,0.771,{'start': -0.201},synonym_antonym
+2007,bo,0,-0.77,"{'poverty': 0.231, 'asset': 0.205}",synonym_antonym
+2008,york,0,0.769,{'queen': -0.209},antonym
+2009,fantastical,1,0.768,"{'unimpressive': -0.462, 'inferior': -0.644}",synonym_antonym
+2010,superficial,1,-0.767,{'careful': 0.288},antonym
+2011,sellers,0,-0.766,{'inactivity': 0.0},oov_antonym
+2012,chaotic,1,-0.766,{'successful': 0.395},synonym_antonym
+2013,village,0,-0.766,{},empty
+2014,process,0,0.765,"{'fall': -0.154, 'ending': -0.324}",antonym
+2015,sloppy,0,-0.764,{'pure': 0.442},antonym
+2016,peckinpah,0,-0.764,{},empty
+2017,news,0,0.763,{'gain': -0.286},synonym_antonym
+2018,wiz,0,0.763,"{'lack': -0.445, 'inferior': -0.644}",antonym
+2019,unpopular,0,-0.762,{'popular': 0.179},antonym
+2020,dynamic,0,0.761,{'dull': -1.881},antonym
+2021,breasts,0,0.761,{'father': -0.167},antonym
+2022,celebrities,0,-0.76,{'cool': 0.838},antonym
+2023,guide,0,-0.754,"{'right': 0.233, 'truth': 0.156, 'follow': 0.245, 'extraordinary': 0.249, 'block': 0.313, 'focus': 0.208}",synonym_antonym
+2024,europeans,0,0.754,{},empty
+2025,naturally,0,0.753,{'unnaturally': 0.0},oov_antonym
+2026,root,0,0.751,{'tail': 0.0},oov_antonym
+2027,solo,0,0.75,{'inactivity': 0.0},oov_antonym
+2028,billion,0,-0.75,{'ordinal': 0.0},oov_antonym
+2029,handed,0,-0.746,{'handless': 0.0},oov_antonym
+2030,greatly,0,0.744,{},empty
+2031,memories,0,-0.741,{'issue': 0.816},antonym
+2032,dismal,0,-0.741,{'happy': 0.522},antonym
+2033,artificial,0,-0.74,"{'natural': 0.186, 'genuine': 0.174}",antonym
+2034,unlikeable,1,-0.74,{'kind': 0.528},antonym
+2035,intrigue,0,0.738,{},empty
+2036,miraglia,0,0.737,{},empty
+2037,hurting,0,0.735,"{'stupid': -1.579, 'unintelligent': -0.471}",antonym
+2038,misses,0,-0.733,{'better': 0.257},synonym_antonym
+2039,horrific,0,-0.733,{'good': 1.191},antonym
+2040,guest,0,0.733,{},empty
+2041,tacky,1,-0.73,"{'tasteful': 0.224, 'ashamed': 0.312, 'new': 0.213, 'expensive': 0.909}",antonym
+2042,alternative,0,0.729,{'impossible': -0.543},antonym
+2043,gabriel,0,-0.728,{},empty
+2044,portrayals,0,0.728,{'functional': -0.159},antonym
+2045,cringe,0,-0.727,{'rise': 0.159},antonym
+2046,overboard,0,0.727,{},empty
+2047,doesn,0,-0.723,{},empty
+2048,communist,0,-0.721,{'right': 0.233},antonym
+2049,released,0,0.72,{'hold': -0.359},antonym
+2050,complicated,0,-0.72,{'simple': 0.516},antonym
+2051,controversial,0,0.72,{'uncontroversial': 0.0},oov_antonym
+2052,alright,0,-0.72,{'rough': 0.0},oov_antonym
+2053,decisions,0,0.719,{'ride': -0.272},antonym
+2054,downside,0,0.719,"{'stay': -0.999, 'fall': -0.154}",synonym_antonym
+2055,bomb,0,-0.719,{'praise': 0.513},antonym
+2056,authentic,0,0.718,{'untrustworthy': 0.0},oov_antonym
+2057,vivid,1,0.718,"{'unrealistic': -0.503, 'unintelligent': -0.471, 'inferior': -0.644, 'dull': -1.881}",antonym
+2058,classic,1,0.92,{'nonstandard': 0.0},oov_antonym
+2059,cannot,0,-0.748,{},empty
+2060,girls,0,0.642,{},empty
+2061,unless,0,-0.579,{},empty
+2062,everyone,0,0.551,{},empty
+2063,probably,0,-0.531,{'incredibly': 0.27},synonym_antonym
+2064,thriller,0,0.511,{},empty
+2065,rather,0,-0.495,{},empty
+2066,christian,0,-0.472,{'male': 0.267},synonym_antonym
+2067,could,0,-0.47,{},empty
+2068,anything,0,-0.467,{},empty
+2069,dreams,0,0.466,{'waking': 0.0},oov_antonym
+2070,supporting,0,0.463,{'unsupportive': 0.0},oov_antonym
+2071,producers,0,-0.449,{},empty
+2072,sucked,1,-0.446,{'cool': 0.838},synonym_antonym
+2073,obviously,0,0.434,{'cheer': 0.0},oov_antonym
+2074,very,0,0.433,{'unrealistic': -0.503},antonym
+2075,thousand,0,-0.43,"{'buy': 0.169, 'sophisticated': 0.296, 'well': 0.671}",synonym_antonym
+2076,our,0,0.422,{},empty
+2077,rock,0,0.417,{'artifact': 0.0},oov_antonym
+2078,across,0,-0.416,{'lengthwise': 0.0},oov_antonym
+2079,wanting,0,-0.414,{'adequate': 0.0},oov_antonym
+2080,bbc,0,-0.413,{},empty
+2081,let,0,-0.408,{'prevent': 0.0},oov_antonym
+2082,turned,0,-0.403,{'well': 0.671},antonym
+2083,than,0,0.401,{'impossible': -0.543},synonym_antonym
+2084,personally,0,-0.401,{},empty
+2085,whoopi,0,0.401,{},empty
+2086,basically,0,-0.4,{},empty
+2087,ever,0,0.399,{'absent': -0.845},antonym
+2088,night,0,-0.394,{'day': 0.351},antonym
+2089,jesus,0,-0.388,{},empty
+2090,dave,0,-0.388,{},empty
+2091,soundtrack,0,0.386,{},empty
+2092,south,0,0.385,{'northern': 0.0},oov_antonym
+2093,clearly,0,0.384,{'unintelligibly': 0.0},oov_antonym
+2094,period,0,0.383,{'night': -0.394},antonym
+2095,need,0,0.382,{'stay': -0.999},antonym
+2096,haven,0,0.379,{'undock': 0.0},oov_antonym
+2097,none,0,-0.378,{'disservice': 0.0},oov_antonym
+2098,caught,0,0.377,{'open': 0.0},oov_antonym
+2099,theatrical,0,-0.375,{'untheatrical': 0.0},oov_antonym
+2100,loose,0,-0.374,{'controlled': 0.0},oov_antonym
+2101,directed,0,-0.374,{'unoriented': 0.0},oov_antonym
+2102,70s,0,-0.373,{'ordinal': 0.0},oov_antonym
+2103,luke,0,0.369,{},empty
+2104,technical,0,-0.367,{'inexperienced': 0.0},oov_antonym
+2105,jerry,0,0.367,{},empty
+2106,child,0,0.367,{'wise': -0.886},antonym
+2107,portrait,0,0.365,{},empty
+2108,included,0,0.365,{'unenclosed': 0.0},oov_antonym
+2109,lies,0,-0.364,{},empty
+2110,attractive,1,-0.363,"{'interesting': 0.734, 'seductive': 0.232, 'beautiful': 1.276, 'appealing': 0.166}",synonym_antonym
+2111,sexual,0,0.362,{'asexual': 0.0},oov_antonym
+2112,utterly,0,-0.362,"{'early': 0.361, 'middle': 0.194}",synonym_antonym
+2113,thought,0,0.362,"{'father': -0.167, 'heavy': -0.991, 'stay': -0.999, 'inferior': -0.644, 'con': -0.232, 'standard': -0.167, 'particular': -0.255, 'fear': -0.321, 'dislike': -0.877, 'pain': -0.574, 'pride': -0.162, 'miss': -0.35, 'general': -0.433, 'plain': -0.302}",synonym_antonym
+2114,team,0,-0.359,{'beginning': 0.199},antonym
+2115,extremely,0,-0.357,{'birth': 0.0},oov_antonym
+2116,ball,0,-0.352,{'natural object': 0.0},oov_antonym
+2117,80s,0,-0.352,{'ordinal': 0.0},oov_antonym
+2118,points,0,-0.345,{'right': 0.233},antonym
+2119,cure,0,-0.344,"{'right': 0.233, 'minor': 1.043}",synonym_antonym
+2120,last,0,0.341,{'future': -0.315},antonym
+2121,1970,0,-0.341,{},empty
+2122,rescue,0,-0.341,{'disagree': 0.225},synonym_antonym
+2123,dialog,0,-0.339,{'close up': 0.0},oov_antonym
+2124,social,0,0.337,{'uncongenial': 0.0},oov_antonym
+2125,spike,0,-0.335,{'discharge': 0.0},oov_antonym
+2126,particularly,0,-0.334,{},empty
+2127,anne,0,0.334,{},empty
+2128,drama,0,0.333,{'fail': -0.441},antonym
+2129,george,0,-0.332,{},empty
+2130,even,0,-0.332,"{'wild': 0.158, 'intense': 0.572}",synonym_antonym
+2131,captures,0,0.331,{'lose': -0.328},synonym_antonym
+2132,free,0,-0.331,{'unfree': 0.0},oov_antonym
+2133,built,0,-0.331,{'unimproved': 0.0},oov_antonym
+2134,tough,0,0.329,{'weak': -0.894},synonym_antonym
+2135,atmosphere,0,0.328,"{'innocence': -0.96, 'dislike': -0.877, 'fear': -0.321, 'strange': -0.367, 'pain': -0.574, 'pride': -0.162, 'lose': -0.328}",synonym_antonym
+2136,stone,0,0.327,{'artifact': 0.0},oov_antonym
+2137,howard,0,0.326,{},empty
+2138,characterization,0,-0.326,{},empty
+2139,public,0,-0.325,{'male': 0.267},synonym_antonym
+2140,views,0,0.323,{'left': -0.435},synonym_antonym
+2141,max,0,0.323,{},empty
+2142,forced,0,-0.323,{'natural': 0.186},antonym
+2143,screenplay,0,-0.322,{'trade edition': 0.0},oov_antonym
+2144,though,0,0.322,{},empty
+2145,contemporary,0,0.322,{'old': -0.252},synonym_antonym
+2146,animal,0,-0.322,{'male': 0.267},antonym
+2147,adam,0,-0.322,{'rise': 0.159},antonym
+2148,propaganda,0,-0.321,{},empty
+2149,manage,0,-0.32,{'fail': 0.0},oov_antonym
+2150,ernest,0,0.32,{},empty
+2151,game,0,0.319,{'take': -0.165},synonym_antonym
+2152,bigger,0,0.318,"{'little': -0.289, 'humble': -0.25}",antonym
+2153,crossing,0,0.317,{},empty
+2154,narrative,0,0.316,{'unbelief': 0.0},oov_antonym
+2155,thinks,0,-0.315,{'disqualify': 0.0},oov_antonym
+2156,behind,0,0.311,{'up': 0.0},oov_antonym
+2157,does,0,-0.31,{'tightness': 0.0},oov_antonym
+2158,proves,0,-0.309,{'decertify': 0.0},oov_antonym
+2159,obvious,0,-0.309,"{'solid': 0.85, 'clear': 0.402, 'noticeable': 0.221, 'complex': 0.323, 'questionable': 0.248}",synonym_antonym
+2160,excited,0,-0.309,{'cool': 0.838},synonym_antonym
+2161,stewart,0,0.308,{},empty
+2162,appreciated,0,0.308,{'ununderstood': 0.0},oov_antonym
+2163,writing,0,-0.307,{'end': 0.428},antonym
+2164,1st,0,-0.305,"{'former': 0.8, 'late': 0.157, 'middle': 0.194, 'last': 0.341}",synonym_antonym
+2165,dances,0,0.304,"{'ride': -0.272, 'fall': -0.154, 'standard': -0.167, 'free': -0.331}",synonym_antonym
+2166,plain,1,-0.302,{'complex': 0.323},synonym_antonym
+2167,spoiled,1,0.301,{'good-natured': 0.0},oov_antonym
+2168,attacks,0,-0.301,"{'praise': 0.513, 'end': 0.428, 'tasteful': 0.224, 'finish': 0.874, 'beginning': 0.199, 'rise': 0.159, 'top': 0.44}",synonym_antonym
+2169,bob,0,-0.3,"{'rise': 0.159, 'follow': 0.245, 'dry': 0.197}",synonym_antonym
+2170,science,0,-0.3,"{'figure': 1.145, 'strength': 0.357, 'right': 0.233}",synonym_antonym
+2171,until,0,-0.299,{},empty
+2172,journey,0,1.585,{'ride': -0.272},antonym
+2173,chess,0,1.517,{},empty
+2174,jack,0,1.492,{'level': 0.0},oov_antonym
+2175,walking,0,-1.463,{'rise': 0.159},antonym
+2176,summer,0,1.355,{'winter solstice': 0.0},oov_antonym
+2177,kidding,0,-1.333,{},empty
+2178,tied,0,-1.327,{'unbound': 0.0},oov_antonym
+2179,protagonist,0,-1.291,"{'national': 0.179, 'right': 0.233, 'minor': 1.043, 'natural': 0.186, 'someone': 0.319}",synonym_antonym
+2180,learned,0,1.287,"{'superficial': -0.767, 'careless': -0.166}",synonym_antonym
+2181,che,0,1.286,{},empty
+2182,filming,0,-1.268,{'block': 0.313},synonym_antonym
+2183,forget,0,1.261,{'attention': -0.212},antonym
+2184,stan,0,-1.255,{},empty
+2185,prince,0,1.241,{'queen': -0.209},antonym
+2186,blackadder,0,1.224,{},empty
+2187,goldsworthy,0,1.216,{},empty
+2188,entertains,1,1.206,{'lose': -0.328},antonym
+2189,sequences,0,1.204,{'stay': -0.999},antonym
+2190,dickens,0,-1.199,{'please': 0.0},oov_antonym
+2191,harry,0,1.19,{'calm': -0.168},antonym
+2192,spoil,0,1.186,{'make': -0.159},antonym
+2193,driver,0,-1.178,{'superior': 0.431},antonym
+2194,tend,0,1.176,{'hard': -0.5},synonym_antonym
+2195,ii,0,-1.17,{'ordinal': 0.0},oov_antonym
+2196,powerful,1,1.169,{'ineffective': -1.062},antonym
+2197,causes,0,1.162,{'attract': -0.292},antonym
+2198,chan,0,1.157,{},empty
+2199,allen,0,1.156,{},empty
+2200,skin,0,-1.146,{},empty
+2201,jail,0,-1.13,{'fast': 0.376},antonym
+2202,trailer,0,1.127,"{'driver': -1.178, 'miss': -0.35}",synonym_antonym
+2203,tarzan,0,1.126,{'juvenile': 0.0},oov_antonym
+2204,approach,0,-1.109,{'long': 0.312},antonym
+2205,produced,0,-1.104,{'homemade': 0.0},oov_antonym
+2206,ten,0,1.101,{'stay': -0.999},antonym
+2207,weeks,0,1.087,{'please': -0.395},antonym
+2208,husbands,0,1.084,"{'wife': -0.417, 'lose': -0.328}",antonym
+2209,rocks,0,1.079,{'artifact': 0.0},oov_antonym
+2210,vampire,0,-1.078,{'eudemon': 0.0},oov_antonym
+2211,journalist,0,-1.07,{},empty
+2212,segment,0,-1.057,"{'long': 0.312, 'beginning': 0.199, 'best': 1.267, 'fire': 0.236, 'finish': 0.874, 'freeze': 0.24, 'end': 0.428, 'middle': 0.194, 'leave': 0.224}",synonym_antonym
+2213,streep,0,1.052,{},empty
+2214,psychological,0,1.051,{'evil': -0.415},synonym_antonym
+2215,looked,0,-1.051,{'disagree': 0.225},synonym_antonym
+2216,lake,0,-1.048,{},empty
+2217,minor,0,1.043,"{'woman': -0.286, 'thick': -0.335, 'fat': -0.228}",synonym_antonym
+2218,andy,0,-1.042,{},empty
+2219,prepared,0,1.03,"{'fall': -0.154, 'down': -0.43, 'little': -0.289, 'plain': -0.302}",synonym_antonym
+2220,makers,0,-1.026,{},empty
+2221,morons,1,-1.024,{'precocious': 0.0},oov_antonym
+2222,bright,0,-1.022,"{'colorful': 0.252, 'cool': 0.838, 'hot': 0.808, 'full': 0.252, 'lively': 0.302}",synonym_antonym
+2223,clark,0,-1.016,{},empty
+2224,walken,0,-1.014,{},empty
+2225,deserved,1,1.014,{'unmerited': 0.0},oov_antonym
+2226,reed,0,1.012,{'fauna': 0.0},oov_antonym
+2227,charismatic,1,1.011,{'unattractive': -0.345},antonym
+2228,partner,0,1.001,"{'wife': -0.417, 'husband': -0.238, 'waste': -1.35}",antonym
+2229,shoot,0,-0.996,"{'beginning': 0.199, 'praise': 0.513, 'end': 0.428, 'finish': 0.874, 'cool': 0.838}",synonym_antonym
+2230,price,0,-0.995,{'poverty': 0.231},synonym_antonym
+2231,glass,0,-0.988,{'low': 0.0},oov_antonym
+2232,naked,0,-0.987,{'male': 0.267},synonym_antonym
+2233,bourne,0,0.985,{'unoriented': 0.0},oov_antonym
+2234,kudos,0,0.983,{'plain': -0.302},synonym_antonym
+2235,lumet,0,0.983,{},empty
+2236,westerns,0,-0.981,{'eastern': 0.0},oov_antonym
+2237,typically,0,-0.975,{},empty
+2238,linda,0,-0.972,{},empty
+2239,pair,0,0.968,{'fall': -0.154},antonym
+2240,storyline,0,-0.966,{},empty
+2241,bridge,0,-0.966,{'opening': 0.234},synonym_antonym
+2242,barry,0,-0.963,{},empty
+2243,mistaken,0,0.962,{'wise': -0.886},synonym_antonym
+2244,arthur,0,0.96,{},empty
+2245,farrell,0,0.954,{},empty
+2246,powers,0,0.951,"{'ineffective': -1.062, 'weakness': -0.161, 'weak': -0.894, 'uninteresting': -0.361, 'free': -0.331, 'admit': -0.356, 'communicate': -0.427, 'let': -0.408, 'originality': -0.825, 'difference': -0.247, 'ability': -0.814, 'bad': -1.959, 'worth': -0.327, 'lose': -0.328, 'stay': -0.999, 'add': -0.34}",synonym_antonym
+2247,troubled,0,0.951,{'tame': -0.419},synonym_antonym
+2248,player,0,-0.95,{'lively': 0.302},antonym
+2249,developing,0,0.949,"{'mature': -0.179, 'old': -0.252}",synonym_antonym
+2250,prophecy,0,-0.947,"{'truth': 0.156, 'pro': 0.178, 'dry': 0.197}",synonym_antonym
+2251,repetitive,1,-0.946,{'sporadic': 0.0},oov_antonym
+2252,moved,0,0.946,{'unaffected': -0.197},synonym_antonym
+2253,cat,0,-0.945,{'include': 0.0},oov_antonym
+2254,listen,0,0.945,{'miss': -0.35},antonym
+2255,murders,0,-0.936,{},empty
+2256,purple,0,0.934,{'achromatic': 0.0},oov_antonym
+2257,boat,0,0.933,"{'walk': -0.203, 'hard': -0.5, 'act': -0.276, 'dull': -1.881, 'bright': -1.022, 'slow': -0.744, 'empty': -0.278, 'lack': -0.445, 'ill': -0.712}",synonym_antonym
+2258,choppy,1,-0.931,{'calm': 0.0},oov_antonym
+2259,further,0,0.93,{'nonworker': 0.0},oov_antonym
+2260,spoiler,0,-0.924,{'member': 0.0},oov_antonym
+2261,flynn,0,0.924,{},empty
+2262,impact,0,0.918,"{'unimpressive': -0.462, 'stay': -0.999, 'miss': -0.35, 'failure': -0.707, 'ending': -0.324, 'appearance': -0.346}",synonym_antonym
+2263,shock,0,0.916,{'understate': 0.0},oov_antonym
+2264,corner,0,0.91,{'secondary': 0.0},oov_antonym
+2265,dubbing,0,-0.908,{},empty
+2266,kay,0,0.908,{},empty
+2267,makeup,0,-0.906,{},empty
+2268,blah,0,-0.902,{},empty
+2269,penn,0,-0.9,{},empty
+2270,grim,0,0.898,"{'lie': -0.273, 'mild': -0.299}",synonym_antonym
+2271,ways,0,0.888,"{'studio': -0.411, 'fail': -0.441, 'thick': -0.335}",synonym_antonym
+2272,hawn,0,-0.885,{},empty
+2273,website,0,0.883,{},empty
+2274,exorcist,0,-0.88,{'natural': 0.186},antonym
+2275,brings,0,0.877,{'walk': -0.203},antonym
+2276,speed,0,-0.876,{'fast': 0.376},synonym_antonym
+2277,finish,0,0.874,"{'side': -0.243, 'low': -0.399}",antonym
+2278,stops,0,0.873,{},empty
+2279,novel,0,0.871,{'same': -0.222},antonym
+2280,favorites,1,0.864,{'inferior': -0.644},antonym
+2281,koyaanisqatsi,0,-0.862,{},empty
+2282,grow,0,0.862,"{'stay': -0.999, 'fall': -0.154}",antonym
+2283,crash,0,0.861,"{'stay': -0.999, 'miss': -0.35, 'mild': -0.299, 'plain': -0.302, 'defeat': -0.193}",synonym_antonym
+2284,hospital,0,-0.86,{'finish': 0.874},antonym
+2285,hell,0,-0.859,"{'beginning': 0.199, 'middle': 0.194}",antonym
+2286,franchise,0,-0.858,{'disapprove': 0.0},oov_antonym
+2287,ie,0,-0.858,{},empty
+2288,villagers,0,0.855,{'nonresident': 0.0},oov_antonym
+2289,relax,1,0.853,"{'empty': -0.278, 'stay': -0.999}",synonym_antonym
+2290,imitate,0,-0.852,{'genuine': 0.174},antonym
+2291,apparently,0,-0.852,{},empty
+2292,dreck,0,-0.852,{'buy': 0.169},antonym
+2293,streets,0,0.849,{},empty
+2294,grace,0,-0.846,{'untidy': 0.0},oov_antonym
+2295,timberlake,0,-0.844,{},empty
+2296,sandler,0,-0.842,{},empty
+2297,ratings,0,-0.842,"{'high': 0.418, 'intense': 0.572}",antonym
+2298,uk,0,0.839,{},empty
+2299,power,0,0.839,"{'ineffective': -1.062, 'weakness': -0.161, 'weak': -0.894, 'uninteresting': -0.361, 'free': -0.331, 'admit': -0.356, 'communicate': -0.427, 'let': -0.408, 'originality': -0.825, 'difference': -0.247, 'ability': -0.814, 'bad': -1.959, 'worth': -0.327, 'lose': -0.328, 'stay': -0.999, 'add': -0.34}",synonym_antonym
+2300,trilogy,0,0.836,{'ground': -0.172},synonym_antonym
+2301,position,0,0.835,{'left': -0.435},antonym
+2302,blair,0,-0.835,{},empty
+2303,career,0,0.835,{'empty': -0.278},antonym
+2304,cowboy,0,-0.834,{},empty
+2305,clichés,1,-0.834,{},empty
+2306,lowe,0,-0.834,{},empty
+2307,prison,0,0.832,{'loose': -0.374},antonym
+2308,model,0,-0.831,{'atomism': 0.0},oov_antonym
+2309,hanzo,0,0.83,{},empty
+2310,originality,0,-0.825,{'powerful': 1.169},synonym_antonym
+2311,kim,0,0.824,{},empty
+2312,goldie,0,-0.824,{},empty
+2313,travel,0,0.819,"{'ride': -0.272, 'fall': -0.154}",antonym
+2314,repeated,0,0.818,{'standing': -0.28},synonym_antonym
+2315,hill,0,-0.818,{'follow': 0.245},synonym_antonym
+2316,al,0,0.814,{},empty
+2317,cruel,0,-0.814,{'right': 0.233},antonym
+2318,shoes,0,0.814,{'left': -0.435},synonym_antonym
+2319,goes,0,-0.812,"{'rise': 0.159, 'follow': 0.245}",antonym
+2320,naschy,0,-0.812,{},empty
+2321,kinda,0,-0.809,{},empty
+2322,hockey,0,-0.808,"{'disagree': 0.225, 'action': 0.211}",antonym
+2323,aka,0,-0.808,{},empty
+2324,budget,0,-0.807,{'subtract': 0.0},oov_antonym
+2325,element,0,0.807,"{'left': -0.435, 'stay': -0.999, 'miss': -0.35, 'birth': -0.177}",synonym_antonym
+2326,depth,0,0.804,{'shallow': -0.605},antonym
+2327,couch,0,-0.803,{'voice': 0.333},antonym
+2328,anger,0,0.803,"{'fall': -0.154, 'curse': -0.19}",antonym
+2329,whoever,0,-0.799,{},empty
+2330,decision,0,0.799,{'ride': -0.272},antonym
+2331,luzhin,0,0.798,{},empty
+2332,advanced,0,0.791,"{'unintelligent': -0.471, 'stupid': -1.579}",synonym_antonym
+2333,elvis,0,-0.791,"{'pleasant': 1.106, 'sweet': 0.34}",antonym
+2334,alas,0,-0.789,"{'luckily': 0.303, 'fortunately': 0.856}",antonym
+2335,jay,0,-0.785,{},empty
+2336,boyer,0,0.781,{},empty
+2337,mode,0,-0.778,"{'moving': 0.272, 'sound': 0.192, 'better': 0.257}",synonym_antonym
+2338,photography,0,-0.775,{},empty
+2339,roy,0,0.774,{},empty
+2340,timing,0,-0.771,"{'late': 0.157, 'early': 0.361, 'middle': 0.194, 'present': 0.661}",antonym
+2341,reality,0,0.769,{'potential': -0.333},antonym
+2342,russian,0,-0.766,{},empty
+2343,couple,0,-1.299,{'disarrange': 0.0},oov_antonym
+2344,leslie,0,-1.289,{},empty
+2345,teachers,0,-1.228,{},empty
+2346,princess,0,-1.225,{},empty
+2347,deliver,0,-1.208,{'disagree': 0.225},antonym
+2348,angle,0,-1.195,{'follow': 0.245},antonym
+2349,sports,0,-1.191,{'overact': 0.0},oov_antonym
+2350,finally,0,1.19,{},empty
+2351,flashbacks,0,1.155,{'flash-forward': 0.0},oov_antonym
+2352,figure,0,1.145,{'fail': -0.441},antonym
+2353,cgi,0,1.139,{},empty
+2354,relevant,0,1.131,{'irrelevant': 0.0},oov_antonym
+2355,ultimately,0,-1.127,{},empty
+2356,drag,0,-1.106,{'disagree': 0.225},antonym
+2357,martin,0,1.096,{'abstain': 0.0},oov_antonym
+2358,marvel,0,-1.095,"{'interesting': 0.734, 'welcome': 0.267}",synonym_antonym
+2359,gangster,0,-1.081,{'right': 0.233},antonym
+2360,based,0,-1.074,{'unsupported': 0.0},oov_antonym
+2361,14,0,1.058,{'all': -0.429},synonym_antonym
+2362,academy,0,-1.053,{'finish': 0.874},antonym
+2363,exception,0,1.042,{'contract': 0.0},oov_antonym
+2364,ultimatum,0,-1.032,{'obviate': 0.0},oov_antonym
+2365,boys,0,1.018,{},empty
+2366,normally,0,1.008,{'remarkably': 0.0},oov_antonym
+2367,chemistry,0,-1.002,{},empty
+2368,concert,0,-0.996,"{'disagree': 0.225, 'rise': 0.159}",antonym
+2369,viewers,0,-0.996,{},empty
+2370,realized,0,0.994,{'incomplete': 0.0},oov_antonym
+2371,heavy,0,-0.991,"{'light': 0.157, 'smart': 0.833, 'hopeless': 0.159}",antonym
+2372,2002,0,0.989,{},empty
+2373,court,0,-0.987,{'buy': 0.169},antonym
+2374,match,0,-0.98,{'disagree': 0.225},antonym
+2375,substance,0,0.98,"{'difficult': -0.32, 'empty': -0.278, 'old': -0.252, 'miss': -0.35}",synonym_antonym
+2376,kate,0,0.979,{},empty
+2377,invented,0,0.978,{'war': -0.201},antonym
+2378,deniro,0,-0.974,{},empty
+2379,double,0,-0.969,{'member': 0.0},oov_antonym
+2380,living,0,-0.962,{'dull': 0.0},oov_antonym
+2381,innocence,0,-0.96,{'natural': 0.186},antonym
+2382,wang,0,-0.957,{},empty
+2383,performed,0,-0.954,"{'best': 1.267, 'male': 0.267, 'last': 0.341, 'soft': 0.905, 'right': 0.233, 'increase': 0.226, 'prepared': 1.03, 'focus': 0.208}",synonym_antonym
+2384,legend,0,-0.941,{'truth': 0.156},antonym
+2385,plastic,0,0.938,{'frivolous': 0.0},oov_antonym
+2386,transfer,0,-0.933,"{'figure': 1.145, 'relax': 0.853, 'connected': 0.264, 'right': 0.233, 'disagree': 0.225, 'opening': 0.234, 'raise': 0.173}",synonym_antonym
+2387,intriguing,1,0.932,{'unprovocative': 0.0},oov_antonym
+2388,doll,0,0.927,{},empty
+2389,seriously,0,0.919,{},empty
+2390,leia,0,-0.914,{},empty
+2391,expensive,0,0.909,"{'cheap': -0.807, 'worthless': -0.359}",antonym
+2392,satisfy,1,-0.907,"{'change': 0.21, 'travel': 0.819}",antonym
+2393,attacked,0,0.906,"{'miss': -0.35, 'fail': -0.441}",antonym
+2394,soft,0,0.905,{'hard': -0.5},antonym
+2395,josh,0,0.903,"{'walk': -0.203, 'like': -0.466, 'calm': -0.168}",synonym_antonym
+2396,genuinely,0,-0.901,{'insincerely': 0.0},oov_antonym
+2397,ruins,1,-0.896,"{'voice': 0.333, 'success': 0.485, 'end': 0.428, 'raise': 0.173, 'enjoy': 0.396, 'better': 0.257, 'increase': 0.226}",synonym_antonym
+2398,redford,0,-0.892,{},empty
+2399,wise,0,-0.886,{'inadvisable': 0.0},oov_antonym
+2400,regret,0,0.886,{'lose': -0.328},antonym
+2401,box,0,-0.884,"{'genuine': 0.174, 'right': 0.233, 'superior': 0.431}",antonym
+2402,andrew,0,-0.881,{},empty
+2403,cult,0,0.874,{},empty
+2404,translation,0,0.871,"{'stay': -0.999, 'fall': -0.154}",synonym_antonym
+2405,columbo,0,0.864,{},empty
+2406,facts,0,0.864,"{'general': -0.433, 'particular': -0.255}",antonym
+2407,color,0,-0.857,"{'colorful': 0.252, 'show': 0.286}",synonym_antonym
+2408,norman,0,-0.855,{},empty
+2409,raunchy,0,0.851,{'unsexy': 0.0},oov_antonym
+2410,test,0,-0.85,{'best': 1.267},synonym_antonym
+2411,seconds,0,0.847,{'slow': -0.744},antonym
+2412,bet,0,-0.847,{'ahead': 0.79},antonym
+2413,absent,0,-0.845,"{'present': 0.661, 'increase': 0.226}",antonym
+2414,indian,0,-0.841,{'male': 0.267},synonym_antonym
+2415,run,0,0.838,{'hard': -0.5},antonym
+2416,directing,0,-0.836,{'minor': 1.043},antonym
+2417,laid,0,-0.832,{'disarranged': 0.0},oov_antonym
+2418,themes,0,-0.831,"{'truth': 0.156, 'pro': 0.178}",antonym
+2419,six,0,-0.83,{'ordinal': 0.0},oov_antonym
+2420,filler,0,0.828,{'unsized': 0.0},oov_antonym
+2421,caring,0,-0.816,{'cool': 0.838},synonym_antonym
+2422,ability,0,-0.814,"{'power': 0.839, 'good': 1.191, 'positive': 0.771, 'capable': 0.577, 'sensitive': 0.392}",synonym_antonym
+2423,connection,0,-0.814,{'connected': 0.264},antonym
+2424,base,0,0.813,{'inessential': 0.0},oov_antonym
+2425,wizard,0,0.811,"{'fail': -0.441, 'stupidity': -0.277, 'worst': -2.915}",antonym
+2426,clumsily,1,-0.809,{},empty
+2427,comedian,0,0.805,{'humorless': -0.308},antonym
+2428,turkish,0,0.802,{},empty
+2429,former,0,0.8,{'future': -0.315},antonym
+2430,novak,0,-0.796,{},empty
+2431,inner,0,-0.793,"{'end': 0.428, 'beginning': 0.199, 'middle': 0.194, 'outdoor': 0.204}",synonym_antonym
+2432,highest,1,0.792,"{'inferior': -0.644, 'low': -0.399}",antonym
+2433,thrown,0,-0.79,{'simple': 0.516},antonym
+2434,code,0,-0.789,{'con': 0.0},oov_antonym
+2435,cars,0,0.789,{'stay': -0.999},antonym
+2436,scale,0,-0.787,{'fall back': 0.0},oov_antonym
+2437,tale,0,-0.787,{'finish': 0.874},synonym_antonym
+2438,jr,0,0.786,{'old': -0.252},antonym
+2439,nature,0,0.785,"{'originality': -0.825, 'difference': -0.247, 'ability': -0.814, 'bad': -1.959, 'worth': -0.327}",synonym_antonym
+2440,scenery,0,-0.785,"{'day': 0.351, 'figure': 1.145}",synonym_antonym
+2441,cultural,0,-0.783,{'male': 0.267},synonym_antonym
+2442,producer,0,-0.781,{},empty
+2443,friendship,0,-0.78,{},empty
+2444,thanks,0,-0.78,{'tasteful': 0.224},antonym
+2445,freedom,0,-0.776,{'unfree': 0.0},oov_antonym
+2446,denzel,0,-0.773,{},empty
+2447,positive,0,0.771,"{'originality': -0.825, 'difference': -0.247, 'ability': -0.814, 'bad': -1.959, 'worth': -0.327}",synonym_antonym
+2448,radio,0,-0.77,{},empty
