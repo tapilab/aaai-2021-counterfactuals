@@ -9,13 +9,14 @@ class Counterfactual:
         self.test = df_test
         
 def load_data(moniker):
+    # the 3 data files are the ds_kindle.pkl, ds_imdb_para.pkl, da_imdb_sent.pkl listed in this directory.
     data_path = '/data/zwang/2020_S/Attention/Counterfactual/'   
     if(moniker == 'kindle'):
         ds = pickle.load(open(data_path+"kindle_ct/causal_sents/V_0906/ds_kindle.pkl", "rb"))
     elif(moniker == 'imdb'):
-        ds = pickle.load(open(data_path+"imdb_ct/sentiment/combined/paired/paragraph/V_0906/ds_imdb.pkl", "rb"))
+        ds = pickle.load(open(data_path+"imdb_ct/sentiment/combined/paired/paragraph/V_0906/ds_imdb_para.pkl", "rb"))
     elif(moniker == 'imdb_sents'):
-        ds = pickle.load(open(data_path+"imdb_ct/sentiment/combined/paired/split_sents/V_0906/ds_imdb.pkl", "rb"))
+        ds = pickle.load(open(data_path+"imdb_ct/sentiment/combined/paired/split_sents/V_0906/ds_imdb_sent.pkl", "rb"))
     
     return ds
 ```
